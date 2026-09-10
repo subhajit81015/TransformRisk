@@ -1,0 +1,501 @@
+readiness_id,initiative_id,readiness_dimension,readiness_score,assessment_status,assessment_note
+RDY-00001,TR-0001,Technology,49,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00002,TR-0001,Data,61,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00003,TR-0001,Process,71,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00004,TR-0001,People,64,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00005,TR-0001,Governance,93,Ready,Governance readiness assessment for transformation initiative.
+RDY-00006,TR-0002,Technology,73,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00007,TR-0002,Data,36,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00008,TR-0002,Process,66,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00009,TR-0002,People,70,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00010,TR-0002,Governance,37,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00011,TR-0003,Technology,58,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00012,TR-0003,Data,88,Ready,Data readiness assessment for transformation initiative.
+RDY-00013,TR-0003,Process,56,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00014,TR-0003,People,62,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00015,TR-0003,Governance,48,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00016,TR-0004,Technology,39,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00017,TR-0004,Data,54,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00018,TR-0004,Process,82,Ready,Process readiness assessment for transformation initiative.
+RDY-00019,TR-0004,People,94,Ready,People readiness assessment for transformation initiative.
+RDY-00020,TR-0004,Governance,75,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00021,TR-0005,Technology,85,Ready,Technology readiness assessment for transformation initiative.
+RDY-00022,TR-0005,Data,74,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00023,TR-0005,Process,75,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00024,TR-0005,People,61,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00025,TR-0005,Governance,38,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00026,TR-0006,Technology,60,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00027,TR-0006,Data,87,Ready,Data readiness assessment for transformation initiative.
+RDY-00028,TR-0006,Process,67,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00029,TR-0006,People,81,Ready,People readiness assessment for transformation initiative.
+RDY-00030,TR-0006,Governance,38,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00031,TR-0007,Technology,47,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00032,TR-0007,Data,53,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00033,TR-0007,Process,56,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00034,TR-0007,People,95,Ready,People readiness assessment for transformation initiative.
+RDY-00035,TR-0007,Governance,63,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00036,TR-0008,Technology,75,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00037,TR-0008,Data,74,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00038,TR-0008,Process,60,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00039,TR-0008,People,93,Ready,People readiness assessment for transformation initiative.
+RDY-00040,TR-0008,Governance,48,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00041,TR-0009,Technology,37,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00042,TR-0009,Data,80,Ready,Data readiness assessment for transformation initiative.
+RDY-00043,TR-0009,Process,74,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00044,TR-0009,People,50,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00045,TR-0009,Governance,87,Ready,Governance readiness assessment for transformation initiative.
+RDY-00046,TR-0010,Technology,44,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00047,TR-0010,Data,50,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00048,TR-0010,Process,44,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00049,TR-0010,People,46,Not Ready,People readiness assessment for transformation initiative.
+RDY-00050,TR-0010,Governance,79,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00051,TR-0011,Technology,77,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00052,TR-0011,Data,74,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00053,TR-0011,Process,87,Ready,Process readiness assessment for transformation initiative.
+RDY-00054,TR-0011,People,39,Not Ready,People readiness assessment for transformation initiative.
+RDY-00055,TR-0011,Governance,72,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00056,TR-0012,Technology,42,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00057,TR-0012,Data,93,Ready,Data readiness assessment for transformation initiative.
+RDY-00058,TR-0012,Process,73,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00059,TR-0012,People,81,Ready,People readiness assessment for transformation initiative.
+RDY-00060,TR-0012,Governance,69,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00061,TR-0013,Technology,58,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00062,TR-0013,Data,76,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00063,TR-0013,Process,85,Ready,Process readiness assessment for transformation initiative.
+RDY-00064,TR-0013,People,45,Not Ready,People readiness assessment for transformation initiative.
+RDY-00065,TR-0013,Governance,88,Ready,Governance readiness assessment for transformation initiative.
+RDY-00066,TR-0014,Technology,79,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00067,TR-0014,Data,40,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00068,TR-0014,Process,92,Ready,Process readiness assessment for transformation initiative.
+RDY-00069,TR-0014,People,45,Not Ready,People readiness assessment for transformation initiative.
+RDY-00070,TR-0014,Governance,71,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00071,TR-0015,Technology,42,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00072,TR-0015,Data,46,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00073,TR-0015,Process,74,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00074,TR-0015,People,76,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00075,TR-0015,Governance,76,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00076,TR-0016,Technology,55,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00077,TR-0016,Data,85,Ready,Data readiness assessment for transformation initiative.
+RDY-00078,TR-0016,Process,38,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00079,TR-0016,People,87,Ready,People readiness assessment for transformation initiative.
+RDY-00080,TR-0016,Governance,53,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00081,TR-0017,Technology,72,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00082,TR-0017,Data,90,Ready,Data readiness assessment for transformation initiative.
+RDY-00083,TR-0017,Process,50,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00084,TR-0017,People,60,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00085,TR-0017,Governance,85,Ready,Governance readiness assessment for transformation initiative.
+RDY-00086,TR-0018,Technology,87,Ready,Technology readiness assessment for transformation initiative.
+RDY-00087,TR-0018,Data,49,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00088,TR-0018,Process,66,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00089,TR-0018,People,55,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00090,TR-0018,Governance,66,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00091,TR-0019,Technology,58,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00092,TR-0019,Data,35,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00093,TR-0019,Process,91,Ready,Process readiness assessment for transformation initiative.
+RDY-00094,TR-0019,People,73,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00095,TR-0019,Governance,63,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00096,TR-0020,Technology,41,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00097,TR-0020,Data,39,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00098,TR-0020,Process,64,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00099,TR-0020,People,74,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00100,TR-0020,Governance,50,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00101,TR-0021,Technology,80,Ready,Technology readiness assessment for transformation initiative.
+RDY-00102,TR-0021,Data,58,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00103,TR-0021,Process,35,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00104,TR-0021,People,67,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00105,TR-0021,Governance,46,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00106,TR-0022,Technology,35,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00107,TR-0022,Data,42,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00108,TR-0022,Process,52,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00109,TR-0022,People,66,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00110,TR-0022,Governance,95,Ready,Governance readiness assessment for transformation initiative.
+RDY-00111,TR-0023,Technology,48,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00112,TR-0023,Data,38,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00113,TR-0023,Process,46,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00114,TR-0023,People,54,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00115,TR-0023,Governance,47,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00116,TR-0024,Technology,54,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00117,TR-0024,Data,94,Ready,Data readiness assessment for transformation initiative.
+RDY-00118,TR-0024,Process,58,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00119,TR-0024,People,73,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00120,TR-0024,Governance,76,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00121,TR-0025,Technology,42,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00122,TR-0025,Data,50,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00123,TR-0025,Process,60,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00124,TR-0025,People,63,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00125,TR-0025,Governance,35,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00126,TR-0026,Technology,74,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00127,TR-0026,Data,53,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00128,TR-0026,Process,54,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00129,TR-0026,People,71,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00130,TR-0026,Governance,92,Ready,Governance readiness assessment for transformation initiative.
+RDY-00131,TR-0027,Technology,87,Ready,Technology readiness assessment for transformation initiative.
+RDY-00132,TR-0027,Data,94,Ready,Data readiness assessment for transformation initiative.
+RDY-00133,TR-0027,Process,60,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00134,TR-0027,People,42,Not Ready,People readiness assessment for transformation initiative.
+RDY-00135,TR-0027,Governance,48,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00136,TR-0028,Technology,55,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00137,TR-0028,Data,53,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00138,TR-0028,Process,47,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00139,TR-0028,People,44,Not Ready,People readiness assessment for transformation initiative.
+RDY-00140,TR-0028,Governance,46,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00141,TR-0029,Technology,75,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00142,TR-0029,Data,64,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00143,TR-0029,Process,37,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00144,TR-0029,People,69,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00145,TR-0029,Governance,86,Ready,Governance readiness assessment for transformation initiative.
+RDY-00146,TR-0030,Technology,60,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00147,TR-0030,Data,54,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00148,TR-0030,Process,51,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00149,TR-0030,People,58,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00150,TR-0030,Governance,51,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00151,TR-0031,Technology,91,Ready,Technology readiness assessment for transformation initiative.
+RDY-00152,TR-0031,Data,95,Ready,Data readiness assessment for transformation initiative.
+RDY-00153,TR-0031,Process,55,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00154,TR-0031,People,91,Ready,People readiness assessment for transformation initiative.
+RDY-00155,TR-0031,Governance,87,Ready,Governance readiness assessment for transformation initiative.
+RDY-00156,TR-0032,Technology,39,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00157,TR-0032,Data,64,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00158,TR-0032,Process,75,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00159,TR-0032,People,60,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00160,TR-0032,Governance,62,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00161,TR-0033,Technology,65,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00162,TR-0033,Data,77,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00163,TR-0033,Process,52,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00164,TR-0033,People,71,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00165,TR-0033,Governance,49,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00166,TR-0034,Technology,89,Ready,Technology readiness assessment for transformation initiative.
+RDY-00167,TR-0034,Data,40,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00168,TR-0034,Process,39,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00169,TR-0034,People,37,Not Ready,People readiness assessment for transformation initiative.
+RDY-00170,TR-0034,Governance,56,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00171,TR-0035,Technology,71,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00172,TR-0035,Data,95,Ready,Data readiness assessment for transformation initiative.
+RDY-00173,TR-0035,Process,62,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00174,TR-0035,People,46,Not Ready,People readiness assessment for transformation initiative.
+RDY-00175,TR-0035,Governance,57,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00176,TR-0036,Technology,42,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00177,TR-0036,Data,63,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00178,TR-0036,Process,79,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00179,TR-0036,People,37,Not Ready,People readiness assessment for transformation initiative.
+RDY-00180,TR-0036,Governance,82,Ready,Governance readiness assessment for transformation initiative.
+RDY-00181,TR-0037,Technology,48,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00182,TR-0037,Data,76,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00183,TR-0037,Process,84,Ready,Process readiness assessment for transformation initiative.
+RDY-00184,TR-0037,People,82,Ready,People readiness assessment for transformation initiative.
+RDY-00185,TR-0037,Governance,75,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00186,TR-0038,Technology,77,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00187,TR-0038,Data,46,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00188,TR-0038,Process,43,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00189,TR-0038,People,58,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00190,TR-0038,Governance,72,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00191,TR-0039,Technology,72,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00192,TR-0039,Data,82,Ready,Data readiness assessment for transformation initiative.
+RDY-00193,TR-0039,Process,53,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00194,TR-0039,People,87,Ready,People readiness assessment for transformation initiative.
+RDY-00195,TR-0039,Governance,62,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00196,TR-0040,Technology,50,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00197,TR-0040,Data,79,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00198,TR-0040,Process,42,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00199,TR-0040,People,59,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00200,TR-0040,Governance,82,Ready,Governance readiness assessment for transformation initiative.
+RDY-00201,TR-0041,Technology,82,Ready,Technology readiness assessment for transformation initiative.
+RDY-00202,TR-0041,Data,50,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00203,TR-0041,Process,45,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00204,TR-0041,People,36,Not Ready,People readiness assessment for transformation initiative.
+RDY-00205,TR-0041,Governance,40,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00206,TR-0042,Technology,85,Ready,Technology readiness assessment for transformation initiative.
+RDY-00207,TR-0042,Data,82,Ready,Data readiness assessment for transformation initiative.
+RDY-00208,TR-0042,Process,65,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00209,TR-0042,People,69,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00210,TR-0042,Governance,54,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00211,TR-0043,Technology,46,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00212,TR-0043,Data,35,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00213,TR-0043,Process,75,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00214,TR-0043,People,37,Not Ready,People readiness assessment for transformation initiative.
+RDY-00215,TR-0043,Governance,41,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00216,TR-0044,Technology,83,Ready,Technology readiness assessment for transformation initiative.
+RDY-00217,TR-0044,Data,70,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00218,TR-0044,Process,64,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00219,TR-0044,People,48,Not Ready,People readiness assessment for transformation initiative.
+RDY-00220,TR-0044,Governance,44,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00221,TR-0045,Technology,63,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00222,TR-0045,Data,56,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00223,TR-0045,Process,67,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00224,TR-0045,People,45,Not Ready,People readiness assessment for transformation initiative.
+RDY-00225,TR-0045,Governance,49,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00226,TR-0046,Technology,41,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00227,TR-0046,Data,60,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00228,TR-0046,Process,51,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00229,TR-0046,People,48,Not Ready,People readiness assessment for transformation initiative.
+RDY-00230,TR-0046,Governance,68,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00231,TR-0047,Technology,65,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00232,TR-0047,Data,47,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00233,TR-0047,Process,77,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00234,TR-0047,People,55,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00235,TR-0047,Governance,55,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00236,TR-0048,Technology,64,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00237,TR-0048,Data,43,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00238,TR-0048,Process,60,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00239,TR-0048,People,70,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00240,TR-0048,Governance,42,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00241,TR-0049,Technology,69,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00242,TR-0049,Data,37,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00243,TR-0049,Process,71,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00244,TR-0049,People,37,Not Ready,People readiness assessment for transformation initiative.
+RDY-00245,TR-0049,Governance,45,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00246,TR-0050,Technology,56,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00247,TR-0050,Data,72,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00248,TR-0050,Process,78,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00249,TR-0050,People,63,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00250,TR-0050,Governance,43,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00251,TR-0051,Technology,58,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00252,TR-0051,Data,83,Ready,Data readiness assessment for transformation initiative.
+RDY-00253,TR-0051,Process,40,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00254,TR-0051,People,78,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00255,TR-0051,Governance,58,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00256,TR-0052,Technology,35,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00257,TR-0052,Data,77,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00258,TR-0052,Process,36,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00259,TR-0052,People,57,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00260,TR-0052,Governance,46,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00261,TR-0053,Technology,70,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00262,TR-0053,Data,38,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00263,TR-0053,Process,40,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00264,TR-0053,People,67,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00265,TR-0053,Governance,95,Ready,Governance readiness assessment for transformation initiative.
+RDY-00266,TR-0054,Technology,37,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00267,TR-0054,Data,63,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00268,TR-0054,Process,83,Ready,Process readiness assessment for transformation initiative.
+RDY-00269,TR-0054,People,52,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00270,TR-0054,Governance,65,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00271,TR-0055,Technology,86,Ready,Technology readiness assessment for transformation initiative.
+RDY-00272,TR-0055,Data,79,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00273,TR-0055,Process,52,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00274,TR-0055,People,80,Ready,People readiness assessment for transformation initiative.
+RDY-00275,TR-0055,Governance,76,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00276,TR-0056,Technology,65,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00277,TR-0056,Data,61,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00278,TR-0056,Process,91,Ready,Process readiness assessment for transformation initiative.
+RDY-00279,TR-0056,People,88,Ready,People readiness assessment for transformation initiative.
+RDY-00280,TR-0056,Governance,95,Ready,Governance readiness assessment for transformation initiative.
+RDY-00281,TR-0057,Technology,76,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00282,TR-0057,Data,56,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00283,TR-0057,Process,41,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00284,TR-0057,People,42,Not Ready,People readiness assessment for transformation initiative.
+RDY-00285,TR-0057,Governance,93,Ready,Governance readiness assessment for transformation initiative.
+RDY-00286,TR-0058,Technology,57,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00287,TR-0058,Data,41,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00288,TR-0058,Process,48,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00289,TR-0058,People,36,Not Ready,People readiness assessment for transformation initiative.
+RDY-00290,TR-0058,Governance,67,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00291,TR-0059,Technology,71,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00292,TR-0059,Data,58,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00293,TR-0059,Process,80,Ready,Process readiness assessment for transformation initiative.
+RDY-00294,TR-0059,People,64,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00295,TR-0059,Governance,93,Ready,Governance readiness assessment for transformation initiative.
+RDY-00296,TR-0060,Technology,81,Ready,Technology readiness assessment for transformation initiative.
+RDY-00297,TR-0060,Data,39,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00298,TR-0060,Process,51,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00299,TR-0060,People,81,Ready,People readiness assessment for transformation initiative.
+RDY-00300,TR-0060,Governance,67,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00301,TR-0061,Technology,80,Ready,Technology readiness assessment for transformation initiative.
+RDY-00302,TR-0061,Data,55,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00303,TR-0061,Process,37,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00304,TR-0061,People,82,Ready,People readiness assessment for transformation initiative.
+RDY-00305,TR-0061,Governance,82,Ready,Governance readiness assessment for transformation initiative.
+RDY-00306,TR-0062,Technology,74,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00307,TR-0062,Data,59,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00308,TR-0062,Process,35,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00309,TR-0062,People,79,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00310,TR-0062,Governance,75,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00311,TR-0063,Technology,75,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00312,TR-0063,Data,45,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00313,TR-0063,Process,79,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00314,TR-0063,People,79,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00315,TR-0063,Governance,87,Ready,Governance readiness assessment for transformation initiative.
+RDY-00316,TR-0064,Technology,69,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00317,TR-0064,Data,79,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00318,TR-0064,Process,59,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00319,TR-0064,People,77,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00320,TR-0064,Governance,77,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00321,TR-0065,Technology,82,Ready,Technology readiness assessment for transformation initiative.
+RDY-00322,TR-0065,Data,87,Ready,Data readiness assessment for transformation initiative.
+RDY-00323,TR-0065,Process,35,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00324,TR-0065,People,82,Ready,People readiness assessment for transformation initiative.
+RDY-00325,TR-0065,Governance,83,Ready,Governance readiness assessment for transformation initiative.
+RDY-00326,TR-0066,Technology,68,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00327,TR-0066,Data,66,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00328,TR-0066,Process,79,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00329,TR-0066,People,62,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00330,TR-0066,Governance,60,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00331,TR-0067,Technology,84,Ready,Technology readiness assessment for transformation initiative.
+RDY-00332,TR-0067,Data,83,Ready,Data readiness assessment for transformation initiative.
+RDY-00333,TR-0067,Process,47,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00334,TR-0067,People,85,Ready,People readiness assessment for transformation initiative.
+RDY-00335,TR-0067,Governance,54,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00336,TR-0068,Technology,43,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00337,TR-0068,Data,88,Ready,Data readiness assessment for transformation initiative.
+RDY-00338,TR-0068,Process,49,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00339,TR-0068,People,47,Not Ready,People readiness assessment for transformation initiative.
+RDY-00340,TR-0068,Governance,51,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00341,TR-0069,Technology,64,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00342,TR-0069,Data,45,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00343,TR-0069,Process,44,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00344,TR-0069,People,58,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00345,TR-0069,Governance,48,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00346,TR-0070,Technology,46,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00347,TR-0070,Data,90,Ready,Data readiness assessment for transformation initiative.
+RDY-00348,TR-0070,Process,71,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00349,TR-0070,People,35,Not Ready,People readiness assessment for transformation initiative.
+RDY-00350,TR-0070,Governance,41,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00351,TR-0071,Technology,84,Ready,Technology readiness assessment for transformation initiative.
+RDY-00352,TR-0071,Data,51,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00353,TR-0071,Process,44,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00354,TR-0071,People,75,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00355,TR-0071,Governance,86,Ready,Governance readiness assessment for transformation initiative.
+RDY-00356,TR-0072,Technology,59,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00357,TR-0072,Data,80,Ready,Data readiness assessment for transformation initiative.
+RDY-00358,TR-0072,Process,60,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00359,TR-0072,People,41,Not Ready,People readiness assessment for transformation initiative.
+RDY-00360,TR-0072,Governance,83,Ready,Governance readiness assessment for transformation initiative.
+RDY-00361,TR-0073,Technology,91,Ready,Technology readiness assessment for transformation initiative.
+RDY-00362,TR-0073,Data,95,Ready,Data readiness assessment for transformation initiative.
+RDY-00363,TR-0073,Process,41,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00364,TR-0073,People,69,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00365,TR-0073,Governance,73,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00366,TR-0074,Technology,39,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00367,TR-0074,Data,93,Ready,Data readiness assessment for transformation initiative.
+RDY-00368,TR-0074,Process,41,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00369,TR-0074,People,51,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00370,TR-0074,Governance,94,Ready,Governance readiness assessment for transformation initiative.
+RDY-00371,TR-0075,Technology,68,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00372,TR-0075,Data,76,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00373,TR-0075,Process,65,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00374,TR-0075,People,80,Ready,People readiness assessment for transformation initiative.
+RDY-00375,TR-0075,Governance,39,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00376,TR-0076,Technology,76,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00377,TR-0076,Data,39,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00378,TR-0076,Process,45,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00379,TR-0076,People,65,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00380,TR-0076,Governance,62,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00381,TR-0077,Technology,44,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00382,TR-0077,Data,83,Ready,Data readiness assessment for transformation initiative.
+RDY-00383,TR-0077,Process,53,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00384,TR-0077,People,87,Ready,People readiness assessment for transformation initiative.
+RDY-00385,TR-0077,Governance,35,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00386,TR-0078,Technology,49,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00387,TR-0078,Data,53,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00388,TR-0078,Process,71,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00389,TR-0078,People,59,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00390,TR-0078,Governance,44,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00391,TR-0079,Technology,69,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00392,TR-0079,Data,93,Ready,Data readiness assessment for transformation initiative.
+RDY-00393,TR-0079,Process,43,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00394,TR-0079,People,50,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00395,TR-0079,Governance,64,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00396,TR-0080,Technology,79,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00397,TR-0080,Data,43,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00398,TR-0080,Process,49,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00399,TR-0080,People,49,Not Ready,People readiness assessment for transformation initiative.
+RDY-00400,TR-0080,Governance,72,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00401,TR-0081,Technology,40,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00402,TR-0081,Data,75,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00403,TR-0081,Process,60,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00404,TR-0081,People,55,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00405,TR-0081,Governance,87,Ready,Governance readiness assessment for transformation initiative.
+RDY-00406,TR-0082,Technology,84,Ready,Technology readiness assessment for transformation initiative.
+RDY-00407,TR-0082,Data,83,Ready,Data readiness assessment for transformation initiative.
+RDY-00408,TR-0082,Process,89,Ready,Process readiness assessment for transformation initiative.
+RDY-00409,TR-0082,People,49,Not Ready,People readiness assessment for transformation initiative.
+RDY-00410,TR-0082,Governance,87,Ready,Governance readiness assessment for transformation initiative.
+RDY-00411,TR-0083,Technology,45,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00412,TR-0083,Data,55,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00413,TR-0083,Process,68,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00414,TR-0083,People,80,Ready,People readiness assessment for transformation initiative.
+RDY-00415,TR-0083,Governance,70,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00416,TR-0084,Technology,69,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00417,TR-0084,Data,57,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00418,TR-0084,Process,71,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00419,TR-0084,People,63,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00420,TR-0084,Governance,64,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00421,TR-0085,Technology,70,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00422,TR-0085,Data,71,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00423,TR-0085,Process,55,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00424,TR-0085,People,43,Not Ready,People readiness assessment for transformation initiative.
+RDY-00425,TR-0085,Governance,53,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00426,TR-0086,Technology,59,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00427,TR-0086,Data,44,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00428,TR-0086,Process,45,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00429,TR-0086,People,93,Ready,People readiness assessment for transformation initiative.
+RDY-00430,TR-0086,Governance,52,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00431,TR-0087,Technology,80,Ready,Technology readiness assessment for transformation initiative.
+RDY-00432,TR-0087,Data,42,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00433,TR-0087,Process,94,Ready,Process readiness assessment for transformation initiative.
+RDY-00434,TR-0087,People,47,Not Ready,People readiness assessment for transformation initiative.
+RDY-00435,TR-0087,Governance,59,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00436,TR-0088,Technology,82,Ready,Technology readiness assessment for transformation initiative.
+RDY-00437,TR-0088,Data,47,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00438,TR-0088,Process,68,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00439,TR-0088,People,82,Ready,People readiness assessment for transformation initiative.
+RDY-00440,TR-0088,Governance,36,Not Ready,Governance readiness assessment for transformation initiative.
+RDY-00441,TR-0089,Technology,36,Not Ready,Technology readiness assessment for transformation initiative.
+RDY-00442,TR-0089,Data,83,Ready,Data readiness assessment for transformation initiative.
+RDY-00443,TR-0089,Process,51,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00444,TR-0089,People,90,Ready,People readiness assessment for transformation initiative.
+RDY-00445,TR-0089,Governance,91,Ready,Governance readiness assessment for transformation initiative.
+RDY-00446,TR-0090,Technology,88,Ready,Technology readiness assessment for transformation initiative.
+RDY-00447,TR-0090,Data,95,Ready,Data readiness assessment for transformation initiative.
+RDY-00448,TR-0090,Process,85,Ready,Process readiness assessment for transformation initiative.
+RDY-00449,TR-0090,People,58,Remediation Required,People readiness assessment for transformation initiative.
+RDY-00450,TR-0090,Governance,95,Ready,Governance readiness assessment for transformation initiative.
+RDY-00451,TR-0091,Technology,56,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00452,TR-0091,Data,70,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00453,TR-0091,Process,35,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00454,TR-0091,People,93,Ready,People readiness assessment for transformation initiative.
+RDY-00455,TR-0091,Governance,71,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00456,TR-0092,Technology,92,Ready,Technology readiness assessment for transformation initiative.
+RDY-00457,TR-0092,Data,56,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00458,TR-0092,Process,54,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00459,TR-0092,People,66,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00460,TR-0092,Governance,87,Ready,Governance readiness assessment for transformation initiative.
+RDY-00461,TR-0093,Technology,68,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00462,TR-0093,Data,83,Ready,Data readiness assessment for transformation initiative.
+RDY-00463,TR-0093,Process,48,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00464,TR-0093,People,82,Ready,People readiness assessment for transformation initiative.
+RDY-00465,TR-0093,Governance,79,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00466,TR-0094,Technology,89,Ready,Technology readiness assessment for transformation initiative.
+RDY-00467,TR-0094,Data,38,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00468,TR-0094,Process,58,Remediation Required,Process readiness assessment for transformation initiative.
+RDY-00469,TR-0094,People,40,Not Ready,People readiness assessment for transformation initiative.
+RDY-00470,TR-0094,Governance,59,Remediation Required,Governance readiness assessment for transformation initiative.
+RDY-00471,TR-0095,Technology,81,Ready,Technology readiness assessment for transformation initiative.
+RDY-00472,TR-0095,Data,74,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00473,TR-0095,Process,80,Ready,Process readiness assessment for transformation initiative.
+RDY-00474,TR-0095,People,80,Ready,People readiness assessment for transformation initiative.
+RDY-00475,TR-0095,Governance,95,Ready,Governance readiness assessment for transformation initiative.
+RDY-00476,TR-0096,Technology,88,Ready,Technology readiness assessment for transformation initiative.
+RDY-00477,TR-0096,Data,70,Ready with Conditions,Data readiness assessment for transformation initiative.
+RDY-00478,TR-0096,Process,88,Ready,Process readiness assessment for transformation initiative.
+RDY-00479,TR-0096,People,37,Not Ready,People readiness assessment for transformation initiative.
+RDY-00480,TR-0096,Governance,79,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00481,TR-0097,Technology,66,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00482,TR-0097,Data,93,Ready,Data readiness assessment for transformation initiative.
+RDY-00483,TR-0097,Process,65,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00484,TR-0097,People,45,Not Ready,People readiness assessment for transformation initiative.
+RDY-00485,TR-0097,Governance,79,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00486,TR-0098,Technology,92,Ready,Technology readiness assessment for transformation initiative.
+RDY-00487,TR-0098,Data,35,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00488,TR-0098,Process,38,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00489,TR-0098,People,75,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00490,TR-0098,Governance,68,Ready with Conditions,Governance readiness assessment for transformation initiative.
+RDY-00491,TR-0099,Technology,68,Ready with Conditions,Technology readiness assessment for transformation initiative.
+RDY-00492,TR-0099,Data,40,Not Ready,Data readiness assessment for transformation initiative.
+RDY-00493,TR-0099,Process,69,Ready with Conditions,Process readiness assessment for transformation initiative.
+RDY-00494,TR-0099,People,69,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00495,TR-0099,Governance,86,Ready,Governance readiness assessment for transformation initiative.
+RDY-00496,TR-0100,Technology,58,Remediation Required,Technology readiness assessment for transformation initiative.
+RDY-00497,TR-0100,Data,56,Remediation Required,Data readiness assessment for transformation initiative.
+RDY-00498,TR-0100,Process,39,Not Ready,Process readiness assessment for transformation initiative.
+RDY-00499,TR-0100,People,69,Ready with Conditions,People readiness assessment for transformation initiative.
+RDY-00500,TR-0100,Governance,74,Ready with Conditions,Governance readiness assessment for transformation initiative.

@@ -1,0 +1,101 @@
+initiative_id,initiative_name,transformation_type,business_unit,owner,current_state,target_state,strategic_priority,criticality,budget,target_completion_date,status
+TR-0001,Cloud Migration Program 001,Cloud Migration,Supply Chain,Transformation Lead 20,Legacy application,Modern technology stack,Strategic,Medium,1639115.88,2027-02-26,At Risk
+TR-0002,Legacy Application Replacement Program 002,Legacy Application Replacement,Supply Chain,Transformation Lead 13,Legacy process,Modern technology stack,High,Medium,13919783.59,2027-08-06,In Progress
+TR-0003,Data Platform Modernization Program 003,Data Platform Modernization,Customer Service,Transformation Lead 13,Legacy platform,Modern technology stack,High,Medium,12457559.79,2026-09-22,Planning
+TR-0004,AI Process Automation Program 004,AI Process Automation,Sales,Transformation Lead 10,Legacy process,Modern cloud platform,Strategic,Critical,3120920.94,2026-11-16,At Risk
+TR-0005,Data Platform Modernization Program 005,Data Platform Modernization,Operations,Transformation Lead 08,Legacy platform,Modern digital process,High,High,5055924.03,2027-10-23,Completed
+TR-0006,Legacy Application Replacement Program 006,Legacy Application Replacement,Operations,Transformation Lead 09,Legacy platform,Modern technology stack,High,Medium,10129756.42,2027-11-14,Assessment
+TR-0007,AI Process Automation Program 007,AI Process Automation,Technology,Transformation Lead 06,Legacy platform,Modern technology stack,Strategic,Medium,5965306.09,2027-10-18,On Hold
+TR-0008,AI Process Automation Program 008,AI Process Automation,Finance,Transformation Lead 15,Legacy platform,Modern technology stack,Low,Medium,10056550.13,2027-01-23,At Risk
+TR-0009,Data Platform Modernization Program 009,Data Platform Modernization,Customer Service,Transformation Lead 10,Legacy application,Modern digital process,Medium,High,10108943.69,2027-05-18,Planning
+TR-0010,Cloud Migration Program 010,Cloud Migration,Supply Chain,Transformation Lead 01,Legacy process,Modern digital process,High,High,4733263.95,2027-04-15,In Progress
+TR-0011,Cybersecurity Modernization Program 011,Cybersecurity Modernization,Operations,Transformation Lead 06,Legacy application,Modern cloud platform,Strategic,Medium,1109965.44,2027-09-22,Assessment
+TR-0012,Data Platform Modernization Program 012,Data Platform Modernization,Technology,Transformation Lead 17,Legacy platform,Modern cloud platform,High,High,6244206.21,2026-12-20,At Risk
+TR-0013,CRM Transformation Program 013,CRM Transformation,Finance,Transformation Lead 11,Legacy application,Modern cloud platform,High,Low,2628758.74,2027-10-20,In Progress
+TR-0014,Data Platform Modernization Program 014,Data Platform Modernization,Technology,Transformation Lead 08,Legacy application,Modern cloud platform,Medium,Medium,9546668.25,2027-04-18,Assessment
+TR-0015,CRM Transformation Program 015,CRM Transformation,Finance,Transformation Lead 20,Legacy platform,Modern technology stack,Strategic,Critical,4171581.93,2027-07-26,At Risk
+TR-0016,ERP Modernization Program 016,ERP Modernization,Supply Chain,Transformation Lead 10,Legacy application,Modern cloud platform,Medium,Medium,13563385.35,2026-06-20,Planning
+TR-0017,Legacy Application Replacement Program 017,Legacy Application Replacement,Sales,Transformation Lead 15,Legacy process,Modern digital process,Medium,High,11438163.07,2027-02-05,Completed
+TR-0018,CRM Transformation Program 018,CRM Transformation,Technology,Transformation Lead 01,Legacy platform,Modern digital process,High,High,6383159.18,2027-08-09,Planning
+TR-0019,ERP Modernization Program 019,ERP Modernization,Sales,Transformation Lead 19,Legacy application,Modern digital process,Medium,Medium,2766246.29,2026-10-06,In Progress
+TR-0020,Data Platform Modernization Program 020,Data Platform Modernization,Sales,Transformation Lead 16,Legacy platform,Modern cloud platform,Low,High,7363975.69,2027-01-20,Completed
+TR-0021,ERP Modernization Program 021,ERP Modernization,Customer Service,Transformation Lead 06,Legacy application,Modern cloud platform,Strategic,High,7233968.67,2027-08-22,In Progress
+TR-0022,Data Platform Modernization Program 022,Data Platform Modernization,Customer Service,Transformation Lead 03,Legacy platform,Modern digital process,Low,Medium,13468371.38,2027-03-08,On Hold
+TR-0023,CRM Transformation Program 023,CRM Transformation,Finance,Transformation Lead 16,Legacy platform,Modern cloud platform,Medium,High,10973170.56,2027-11-13,At Risk
+TR-0024,AI Process Automation Program 024,AI Process Automation,Human Resources,Transformation Lead 17,Legacy process,Modern technology stack,Low,Medium,5721103.69,2026-10-13,In Progress
+TR-0025,Cybersecurity Modernization Program 025,Cybersecurity Modernization,Sales,Transformation Lead 19,Legacy platform,Modern cloud platform,Medium,Critical,4025485.09,2027-12-16,In Progress
+TR-0026,Data Platform Modernization Program 026,Data Platform Modernization,Finance,Transformation Lead 18,Legacy platform,Modern technology stack,Strategic,Medium,11291968.29,2027-09-15,Completed
+TR-0027,Cloud Migration Program 027,Cloud Migration,Customer Service,Transformation Lead 02,Legacy application,Modern technology stack,High,Medium,5761451.5,2027-10-11,At Risk
+TR-0028,CRM Transformation Program 028,CRM Transformation,Operations,Transformation Lead 04,Legacy application,Modern cloud platform,Medium,Critical,12508911.91,2027-10-14,Planning
+TR-0029,CRM Transformation Program 029,CRM Transformation,Technology,Transformation Lead 20,Legacy process,Modern digital process,Medium,Critical,11716721.36,2026-10-19,Assessment
+TR-0030,Data Platform Modernization Program 030,Data Platform Modernization,Operations,Transformation Lead 03,Legacy platform,Modern digital process,Medium,Low,10245465.44,2027-12-02,Planning
+TR-0031,Cybersecurity Modernization Program 031,Cybersecurity Modernization,Technology,Transformation Lead 15,Legacy application,Modern cloud platform,Medium,High,10802255.16,2026-05-24,On Hold
+TR-0032,Data Platform Modernization Program 032,Data Platform Modernization,Finance,Transformation Lead 14,Legacy platform,Modern technology stack,Medium,Critical,7456614.67,2027-02-15,Assessment
+TR-0033,Data Platform Modernization Program 033,Data Platform Modernization,Sales,Transformation Lead 03,Legacy application,Modern cloud platform,Low,Critical,9601132.9,2027-09-12,In Progress
+TR-0034,Legacy Application Replacement Program 034,Legacy Application Replacement,Sales,Transformation Lead 10,Legacy process,Modern technology stack,High,Critical,12114323.51,2026-12-29,Completed
+TR-0035,Legacy Application Replacement Program 035,Legacy Application Replacement,Finance,Transformation Lead 11,Legacy application,Modern digital process,Strategic,Medium,3681450.94,2026-10-28,At Risk
+TR-0036,Cybersecurity Modernization Program 036,Cybersecurity Modernization,Human Resources,Transformation Lead 14,Legacy application,Modern technology stack,High,High,6531760.77,2026-06-11,In Progress
+TR-0037,ERP Modernization Program 037,ERP Modernization,Customer Service,Transformation Lead 03,Legacy application,Modern cloud platform,Medium,Medium,12294389.26,2027-11-26,At Risk
+TR-0038,Data Platform Modernization Program 038,Data Platform Modernization,Technology,Transformation Lead 19,Legacy process,Modern cloud platform,Strategic,Medium,2372111.01,2027-10-29,Assessment
+TR-0039,ERP Modernization Program 039,ERP Modernization,Operations,Transformation Lead 04,Legacy application,Modern cloud platform,Medium,Medium,1067082.29,2026-08-01,Planning
+TR-0040,Data Platform Modernization Program 040,Data Platform Modernization,Technology,Transformation Lead 18,Legacy application,Modern technology stack,Medium,High,7691762.0,2027-07-08,Assessment
+TR-0041,Data Platform Modernization Program 041,Data Platform Modernization,Finance,Transformation Lead 09,Legacy platform,Modern cloud platform,Medium,Medium,8675681.61,2027-11-19,Assessment
+TR-0042,Cloud Migration Program 042,Cloud Migration,Sales,Transformation Lead 19,Legacy application,Modern cloud platform,Medium,High,1016437.53,2026-12-11,On Hold
+TR-0043,Legacy Application Replacement Program 043,Legacy Application Replacement,Supply Chain,Transformation Lead 13,Legacy process,Modern technology stack,Strategic,Critical,11747293.73,2027-05-01,On Hold
+TR-0044,Legacy Application Replacement Program 044,Legacy Application Replacement,Finance,Transformation Lead 08,Legacy application,Modern digital process,High,High,7076290.64,2027-08-08,Completed
+TR-0045,ERP Modernization Program 045,ERP Modernization,Operations,Transformation Lead 08,Legacy process,Modern digital process,High,Medium,3680406.62,2026-10-31,In Progress
+TR-0046,Legacy Application Replacement Program 046,Legacy Application Replacement,Sales,Transformation Lead 19,Legacy application,Modern digital process,High,Medium,14245654.42,2027-05-28,Assessment
+TR-0047,Legacy Application Replacement Program 047,Legacy Application Replacement,Sales,Transformation Lead 11,Legacy application,Modern digital process,Strategic,High,12114779.46,2027-03-15,At Risk
+TR-0048,Cloud Migration Program 048,Cloud Migration,Sales,Transformation Lead 03,Legacy application,Modern digital process,Medium,High,12945606.26,2027-10-31,At Risk
+TR-0049,AI Process Automation Program 049,AI Process Automation,Finance,Transformation Lead 20,Legacy platform,Modern technology stack,Low,High,2276766.97,2027-11-26,Completed
+TR-0050,CRM Transformation Program 050,CRM Transformation,Technology,Transformation Lead 12,Legacy platform,Modern cloud platform,High,High,3987404.47,2027-06-29,Completed
+TR-0051,Data Platform Modernization Program 051,Data Platform Modernization,Technology,Transformation Lead 11,Legacy application,Modern technology stack,High,Medium,7123281.01,2027-06-02,In Progress
+TR-0052,Cybersecurity Modernization Program 052,Cybersecurity Modernization,Supply Chain,Transformation Lead 03,Legacy application,Modern cloud platform,High,High,2016070.43,2027-08-09,Completed
+TR-0053,Data Platform Modernization Program 053,Data Platform Modernization,Technology,Transformation Lead 18,Legacy application,Modern technology stack,High,Medium,5171156.94,2027-07-10,At Risk
+TR-0054,AI Process Automation Program 054,AI Process Automation,Operations,Transformation Lead 19,Legacy process,Modern digital process,Medium,Medium,2429804.74,2026-05-25,Assessment
+TR-0055,Legacy Application Replacement Program 055,Legacy Application Replacement,Sales,Transformation Lead 10,Legacy platform,Modern digital process,High,High,11759447.04,2027-04-21,Completed
+TR-0056,AI Process Automation Program 056,AI Process Automation,Human Resources,Transformation Lead 13,Legacy platform,Modern cloud platform,Strategic,High,12795371.77,2027-10-06,Planning
+TR-0057,Data Platform Modernization Program 057,Data Platform Modernization,Technology,Transformation Lead 06,Legacy application,Modern digital process,Low,High,12424642.79,2026-12-28,In Progress
+TR-0058,CRM Transformation Program 058,CRM Transformation,Customer Service,Transformation Lead 20,Legacy platform,Modern technology stack,Strategic,Medium,1881179.06,2026-12-03,At Risk
+TR-0059,AI Process Automation Program 059,AI Process Automation,Operations,Transformation Lead 14,Legacy process,Modern cloud platform,Medium,High,10068849.86,2026-06-26,Completed
+TR-0060,AI Process Automation Program 060,AI Process Automation,Human Resources,Transformation Lead 04,Legacy platform,Modern technology stack,Medium,Low,11707327.13,2027-08-23,Planning
+TR-0061,CRM Transformation Program 061,CRM Transformation,Technology,Transformation Lead 17,Legacy application,Modern cloud platform,Low,Low,9187396.37,2027-12-09,Planning
+TR-0062,CRM Transformation Program 062,CRM Transformation,Supply Chain,Transformation Lead 14,Legacy application,Modern technology stack,Strategic,Low,11638598.89,2027-09-16,Completed
+TR-0063,Data Platform Modernization Program 063,Data Platform Modernization,Finance,Transformation Lead 13,Legacy platform,Modern technology stack,Medium,Medium,11241524.89,2027-03-12,In Progress
+TR-0064,Data Platform Modernization Program 064,Data Platform Modernization,Operations,Transformation Lead 20,Legacy application,Modern digital process,Medium,High,10721094.28,2027-02-24,Assessment
+TR-0065,Data Platform Modernization Program 065,Data Platform Modernization,Finance,Transformation Lead 04,Legacy process,Modern cloud platform,Low,High,10716279.71,2026-12-16,Completed
+TR-0066,Legacy Application Replacement Program 066,Legacy Application Replacement,Operations,Transformation Lead 12,Legacy process,Modern cloud platform,High,Critical,9637023.05,2027-10-02,At Risk
+TR-0067,ERP Modernization Program 067,ERP Modernization,Human Resources,Transformation Lead 19,Legacy platform,Modern cloud platform,High,Medium,9826189.04,2027-01-04,At Risk
+TR-0068,Data Platform Modernization Program 068,Data Platform Modernization,Customer Service,Transformation Lead 06,Legacy platform,Modern cloud platform,High,Medium,2227895.5,2027-11-19,Planning
+TR-0069,AI Process Automation Program 069,AI Process Automation,Sales,Transformation Lead 05,Legacy application,Modern digital process,High,High,6279550.86,2027-09-12,In Progress
+TR-0070,AI Process Automation Program 070,AI Process Automation,Sales,Transformation Lead 12,Legacy process,Modern digital process,High,Low,3577494.81,2026-05-31,In Progress
+TR-0071,AI Process Automation Program 071,AI Process Automation,Technology,Transformation Lead 11,Legacy platform,Modern digital process,High,High,11864625.27,2026-11-02,Assessment
+TR-0072,Data Platform Modernization Program 072,Data Platform Modernization,Technology,Transformation Lead 19,Legacy application,Modern digital process,High,Medium,13324442.58,2026-06-20,At Risk
+TR-0073,Legacy Application Replacement Program 073,Legacy Application Replacement,Customer Service,Transformation Lead 03,Legacy platform,Modern cloud platform,Medium,High,7538589.29,2026-04-27,On Hold
+TR-0074,Cybersecurity Modernization Program 074,Cybersecurity Modernization,Supply Chain,Transformation Lead 07,Legacy platform,Modern technology stack,Medium,Low,2801668.07,2027-07-05,Assessment
+TR-0075,Cybersecurity Modernization Program 075,Cybersecurity Modernization,Finance,Transformation Lead 13,Legacy application,Modern cloud platform,Strategic,High,2515790.26,2026-08-29,In Progress
+TR-0076,Data Platform Modernization Program 076,Data Platform Modernization,Sales,Transformation Lead 14,Legacy platform,Modern technology stack,Strategic,Critical,4836682.27,2027-07-30,At Risk
+TR-0077,Legacy Application Replacement Program 077,Legacy Application Replacement,Sales,Transformation Lead 04,Legacy application,Modern cloud platform,Low,High,7995052.47,2027-01-20,Assessment
+TR-0078,CRM Transformation Program 078,CRM Transformation,Supply Chain,Transformation Lead 03,Legacy process,Modern digital process,High,Critical,14857244.55,2027-05-16,On Hold
+TR-0079,Legacy Application Replacement Program 079,Legacy Application Replacement,Sales,Transformation Lead 04,Legacy platform,Modern cloud platform,High,Low,7172572.28,2027-10-31,In Progress
+TR-0080,ERP Modernization Program 080,ERP Modernization,Human Resources,Transformation Lead 12,Legacy application,Modern digital process,Medium,Low,7480413.75,2027-12-19,Assessment
+TR-0081,Cloud Migration Program 081,Cloud Migration,Finance,Transformation Lead 14,Legacy application,Modern technology stack,Strategic,Medium,9824948.49,2026-12-13,In Progress
+TR-0082,AI Process Automation Program 082,AI Process Automation,Finance,Transformation Lead 10,Legacy process,Modern technology stack,High,Medium,12706063.38,2026-10-26,Assessment
+TR-0083,AI Process Automation Program 083,AI Process Automation,Supply Chain,Transformation Lead 07,Legacy process,Modern digital process,Strategic,High,12791545.91,2026-11-29,In Progress
+TR-0084,Legacy Application Replacement Program 084,Legacy Application Replacement,Customer Service,Transformation Lead 04,Legacy platform,Modern digital process,Medium,Medium,9554775.55,2026-12-03,Completed
+TR-0085,CRM Transformation Program 085,CRM Transformation,Operations,Transformation Lead 12,Legacy process,Modern cloud platform,Strategic,Low,4786142.32,2026-06-29,In Progress
+TR-0086,CRM Transformation Program 086,CRM Transformation,Operations,Transformation Lead 10,Legacy application,Modern technology stack,High,High,9400276.22,2027-10-06,Completed
+TR-0087,AI Process Automation Program 087,AI Process Automation,Human Resources,Transformation Lead 03,Legacy process,Modern technology stack,Strategic,High,13035321.21,2026-05-17,At Risk
+TR-0088,Legacy Application Replacement Program 088,Legacy Application Replacement,Customer Service,Transformation Lead 06,Legacy application,Modern technology stack,High,High,14772526.7,2026-07-07,Completed
+TR-0089,Cybersecurity Modernization Program 089,Cybersecurity Modernization,Supply Chain,Transformation Lead 10,Legacy application,Modern technology stack,Medium,Medium,11715811.13,2027-11-28,Planning
+TR-0090,Cybersecurity Modernization Program 090,Cybersecurity Modernization,Customer Service,Transformation Lead 12,Legacy process,Modern technology stack,High,Critical,1501084.27,2026-08-18,At Risk
+TR-0091,ERP Modernization Program 091,ERP Modernization,Human Resources,Transformation Lead 03,Legacy application,Modern technology stack,Low,High,968302.47,2026-11-19,In Progress
+TR-0092,Legacy Application Replacement Program 092,Legacy Application Replacement,Technology,Transformation Lead 01,Legacy application,Modern cloud platform,Strategic,High,12062855.98,2026-11-27,At Risk
+TR-0093,Cloud Migration Program 093,Cloud Migration,Technology,Transformation Lead 01,Legacy application,Modern digital process,Low,Critical,10239989.14,2027-03-01,In Progress
+TR-0094,AI Process Automation Program 094,AI Process Automation,Human Resources,Transformation Lead 18,Legacy application,Modern cloud platform,Medium,High,5383463.5,2027-08-05,Completed
+TR-0095,AI Process Automation Program 095,AI Process Automation,Technology,Transformation Lead 02,Legacy application,Modern digital process,Medium,Medium,3017006.81,2027-06-02,Completed
+TR-0096,Data Platform Modernization Program 096,Data Platform Modernization,Supply Chain,Transformation Lead 03,Legacy platform,Modern digital process,Strategic,High,6267143.78,2027-03-03,Assessment
+TR-0097,ERP Modernization Program 097,ERP Modernization,Human Resources,Transformation Lead 10,Legacy process,Modern cloud platform,High,High,13750656.71,2026-08-17,In Progress
+TR-0098,Cloud Migration Program 098,Cloud Migration,Sales,Transformation Lead 13,Legacy application,Modern digital process,Medium,Low,6935878.77,2027-11-28,Planning
+TR-0099,Data Platform Modernization Program 099,Data Platform Modernization,Sales,Transformation Lead 18,Legacy process,Modern cloud platform,High,Critical,4446977.91,2026-11-05,In Progress
+TR-0100,Data Platform Modernization Program 100,Data Platform Modernization,Sales,Transformation Lead 14,Legacy platform,Modern cloud platform,High,Critical,8963485.71,2027-04-26,At Risk

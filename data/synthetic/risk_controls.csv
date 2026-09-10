@@ -1,0 +1,681 @@
+control_id,risk_id,control_name,control_type,control_owner,control_frequency,effectiveness_score,control_status,description
+CTRL-00001,RSK-00001,Compliance Control 001,Preventive,Control Owner 13,Daily,42.57,Weak,Management control designed to reduce transformation risk.
+CTRL-00002,RSK-00001,Compliance Control 002,Preventive,Control Owner 29,Weekly,81.77,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00003,RSK-00002,Operational Control 003,Detective,Control Owner 28,Daily,61.2,Effective,Management control designed to reduce transformation risk.
+CTRL-00004,RSK-00003,Financial Control 004,Preventive,Control Owner 17,Quarterly,71.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00005,RSK-00005,Cybersecurity Control 005,Preventive,Control Owner 16,Daily,85.04,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00006,RSK-00006,Vendor & Dependency Control 006,Detective,Control Owner 21,Per Transaction,78.98,Weak,Management control designed to reduce transformation risk.
+CTRL-00007,RSK-00006,Vendor & Dependency Control 007,Detective,Control Owner 08,Monthly,61.24,Effective,Management control designed to reduce transformation risk.
+CTRL-00008,RSK-00008,Technology Control 008,Detective,Control Owner 14,Quarterly,76.64,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00009,RSK-00010,Cybersecurity Control 009,Detective,Control Owner 25,Daily,59.16,Effective,Management control designed to reduce transformation risk.
+CTRL-00010,RSK-00011,People & Change Control 010,Preventive,Control Owner 12,Weekly,91.97,Weak,Management control designed to reduce transformation risk.
+CTRL-00011,RSK-00011,People & Change Control 011,Corrective,Control Owner 23,Per Transaction,75.74,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00012,RSK-00015,Vendor & Dependency Control 012,Corrective,Control Owner 21,Quarterly,48.29,Effective,Management control designed to reduce transformation risk.
+CTRL-00013,RSK-00015,Vendor & Dependency Control 013,Corrective,Control Owner 13,Monthly,55.54,Effective,Management control designed to reduce transformation risk.
+CTRL-00014,RSK-00016,Technology Control 014,Preventive,Control Owner 25,Weekly,31.89,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00015,RSK-00016,Technology Control 015,Preventive,Control Owner 05,Quarterly,67.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00016,RSK-00017,Operational Control 016,Preventive,Control Owner 22,Per Transaction,47.82,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00017,RSK-00019,Data Control 017,Corrective,Control Owner 01,Monthly,65.05,Effective,Management control designed to reduce transformation risk.
+CTRL-00018,RSK-00019,Data Control 018,Detective,Control Owner 04,Monthly,41.58,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00019,RSK-00020,Technology Control 019,Preventive,Control Owner 07,Daily,42.12,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00020,RSK-00020,Technology Control 020,Preventive,Control Owner 11,Monthly,70.42,Weak,Management control designed to reduce transformation risk.
+CTRL-00021,RSK-00021,People & Change Control 021,Preventive,Control Owner 14,Weekly,72.82,Effective,Management control designed to reduce transformation risk.
+CTRL-00022,RSK-00023,Financial Control 022,Corrective,Control Owner 22,Per Transaction,36.21,Weak,Management control designed to reduce transformation risk.
+CTRL-00023,RSK-00023,Financial Control 023,Corrective,Control Owner 10,Daily,63.71,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00024,RSK-00024,Vendor & Dependency Control 024,Corrective,Control Owner 11,Monthly,62.52,Effective,Management control designed to reduce transformation risk.
+CTRL-00025,RSK-00024,Vendor & Dependency Control 025,Detective,Control Owner 26,Quarterly,68.32,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00026,RSK-00026,People & Change Control 026,Corrective,Control Owner 18,Quarterly,81.88,Effective,Management control designed to reduce transformation risk.
+CTRL-00027,RSK-00026,People & Change Control 027,Detective,Control Owner 05,Per Transaction,94.77,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00028,RSK-00027,Technology Control 028,Detective,Control Owner 28,Monthly,81.9,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00029,RSK-00028,Compliance Control 029,Preventive,Control Owner 16,Per Transaction,57.78,Effective,Management control designed to reduce transformation risk.
+CTRL-00030,RSK-00028,Compliance Control 030,Detective,Control Owner 03,Quarterly,62.7,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00031,RSK-00030,Operational Control 031,Preventive,Control Owner 16,Monthly,55.38,Effective,Management control designed to reduce transformation risk.
+CTRL-00032,RSK-00030,Operational Control 032,Preventive,Control Owner 13,Daily,60.84,Effective,Management control designed to reduce transformation risk.
+CTRL-00033,RSK-00032,Cybersecurity Control 033,Preventive,Control Owner 13,Quarterly,58.28,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00034,RSK-00032,Cybersecurity Control 034,Preventive,Control Owner 15,Weekly,58.47,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00035,RSK-00035,Data Control 035,Corrective,Control Owner 21,Weekly,34.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00036,RSK-00036,Cybersecurity Control 036,Detective,Control Owner 16,Quarterly,48.21,Effective,Management control designed to reduce transformation risk.
+CTRL-00037,RSK-00038,Compliance Control 037,Corrective,Control Owner 01,Quarterly,46.18,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00038,RSK-00039,Financial Control 038,Corrective,Control Owner 29,Daily,59.87,Weak,Management control designed to reduce transformation risk.
+CTRL-00039,RSK-00040,Financial Control 039,Corrective,Control Owner 24,Per Transaction,49.18,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00040,RSK-00040,Financial Control 040,Detective,Control Owner 29,Monthly,94.08,Weak,Management control designed to reduce transformation risk.
+CTRL-00041,RSK-00042,People & Change Control 041,Corrective,Control Owner 21,Daily,38.28,Weak,Management control designed to reduce transformation risk.
+CTRL-00042,RSK-00042,People & Change Control 042,Detective,Control Owner 20,Per Transaction,82.44,Effective,Management control designed to reduce transformation risk.
+CTRL-00043,RSK-00045,Data Control 043,Detective,Control Owner 13,Monthly,35.25,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00044,RSK-00045,Data Control 044,Corrective,Control Owner 09,Quarterly,84.33,Effective,Management control designed to reduce transformation risk.
+CTRL-00045,RSK-00046,Operational Control 045,Corrective,Control Owner 06,Quarterly,87.5,Effective,Management control designed to reduce transformation risk.
+CTRL-00046,RSK-00049,Vendor & Dependency Control 046,Preventive,Control Owner 19,Per Transaction,36.88,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00047,RSK-00049,Vendor & Dependency Control 047,Corrective,Control Owner 21,Per Transaction,42.35,Effective,Management control designed to reduce transformation risk.
+CTRL-00048,RSK-00050,Cybersecurity Control 048,Preventive,Control Owner 08,Daily,75.45,Effective,Management control designed to reduce transformation risk.
+CTRL-00049,RSK-00050,Cybersecurity Control 049,Detective,Control Owner 18,Per Transaction,37.38,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00050,RSK-00052,Compliance Control 050,Preventive,Control Owner 08,Monthly,93.43,Effective,Management control designed to reduce transformation risk.
+CTRL-00051,RSK-00055,Technology Control 051,Detective,Control Owner 25,Daily,39.93,Weak,Management control designed to reduce transformation risk.
+CTRL-00052,RSK-00055,Technology Control 052,Corrective,Control Owner 06,Quarterly,69.21,Effective,Management control designed to reduce transformation risk.
+CTRL-00053,RSK-00056,Data Control 053,Corrective,Control Owner 01,Weekly,93.45,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00054,RSK-00057,Cybersecurity Control 054,Detective,Control Owner 06,Weekly,34.37,Weak,Management control designed to reduce transformation risk.
+CTRL-00055,RSK-00057,Cybersecurity Control 055,Detective,Control Owner 19,Monthly,64.9,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00056,RSK-00058,People & Change Control 056,Corrective,Control Owner 14,Weekly,60.96,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00057,RSK-00058,People & Change Control 057,Detective,Control Owner 26,Daily,47.12,Effective,Management control designed to reduce transformation risk.
+CTRL-00058,RSK-00060,Data Control 058,Corrective,Control Owner 09,Per Transaction,52.12,Effective,Management control designed to reduce transformation risk.
+CTRL-00059,RSK-00061,Technology Control 059,Detective,Control Owner 21,Per Transaction,85.0,Effective,Management control designed to reduce transformation risk.
+CTRL-00060,RSK-00062,Operational Control 060,Detective,Control Owner 28,Daily,92.15,Weak,Management control designed to reduce transformation risk.
+CTRL-00061,RSK-00063,Compliance Control 061,Corrective,Control Owner 16,Quarterly,48.4,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00062,RSK-00063,Compliance Control 062,Preventive,Control Owner 13,Weekly,63.27,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00063,RSK-00064,Data Control 063,Detective,Control Owner 30,Weekly,79.2,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00064,RSK-00064,Data Control 064,Detective,Control Owner 03,Daily,86.06,Effective,Management control designed to reduce transformation risk.
+CTRL-00065,RSK-00065,Operational Control 065,Detective,Control Owner 27,Daily,85.69,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00066,RSK-00066,Financial Control 066,Preventive,Control Owner 04,Monthly,53.1,Effective,Management control designed to reduce transformation risk.
+CTRL-00067,RSK-00066,Financial Control 067,Corrective,Control Owner 05,Quarterly,88.28,Effective,Management control designed to reduce transformation risk.
+CTRL-00068,RSK-00067,Technology Control 068,Corrective,Control Owner 19,Per Transaction,94.63,Effective,Management control designed to reduce transformation risk.
+CTRL-00069,RSK-00067,Technology Control 069,Preventive,Control Owner 23,Weekly,34.87,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00070,RSK-00068,Cybersecurity Control 070,Detective,Control Owner 06,Weekly,58.91,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00071,RSK-00070,People & Change Control 071,Preventive,Control Owner 22,Per Transaction,60.67,Effective,Management control designed to reduce transformation risk.
+CTRL-00072,RSK-00070,People & Change Control 072,Corrective,Control Owner 07,Per Transaction,30.79,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00073,RSK-00072,Technology Control 073,Preventive,Control Owner 19,Per Transaction,91.1,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00074,RSK-00073,Cybersecurity Control 074,Corrective,Control Owner 25,Daily,46.81,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00075,RSK-00075,Operational Control 075,Corrective,Control Owner 01,Quarterly,81.21,Effective,Management control designed to reduce transformation risk.
+CTRL-00076,RSK-00076,Data Control 076,Corrective,Control Owner 02,Monthly,65.8,Effective,Management control designed to reduce transformation risk.
+CTRL-00077,RSK-00077,Financial Control 077,Preventive,Control Owner 10,Per Transaction,65.81,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00078,RSK-00077,Financial Control 078,Preventive,Control Owner 28,Quarterly,84.6,Weak,Management control designed to reduce transformation risk.
+CTRL-00079,RSK-00081,Data Control 079,Detective,Control Owner 21,Per Transaction,84.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00080,RSK-00081,Data Control 080,Corrective,Control Owner 16,Weekly,31.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00081,RSK-00082,Financial Control 081,Corrective,Control Owner 18,Per Transaction,38.1,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00082,RSK-00082,Financial Control 082,Preventive,Control Owner 30,Monthly,91.73,Weak,Management control designed to reduce transformation risk.
+CTRL-00083,RSK-00083,Vendor & Dependency Control 083,Detective,Control Owner 17,Per Transaction,84.1,Effective,Management control designed to reduce transformation risk.
+CTRL-00084,RSK-00083,Vendor & Dependency Control 084,Detective,Control Owner 02,Weekly,72.64,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00085,RSK-00084,People & Change Control 085,Detective,Control Owner 10,Monthly,91.89,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00086,RSK-00084,People & Change Control 086,Detective,Control Owner 23,Weekly,45.78,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00087,RSK-00085,Technology Control 087,Corrective,Control Owner 18,Per Transaction,78.41,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00088,RSK-00085,Technology Control 088,Detective,Control Owner 05,Monthly,68.27,Effective,Management control designed to reduce transformation risk.
+CTRL-00089,RSK-00086,Operational Control 089,Detective,Control Owner 16,Per Transaction,37.72,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00090,RSK-00090,Financial Control 090,Corrective,Control Owner 22,Quarterly,42.69,Effective,Management control designed to reduce transformation risk.
+CTRL-00091,RSK-00091,People & Change Control 091,Detective,Control Owner 09,Daily,50.81,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00092,RSK-00091,People & Change Control 092,Detective,Control Owner 28,Weekly,84.73,Effective,Management control designed to reduce transformation risk.
+CTRL-00093,RSK-00093,Technology Control 093,Corrective,Control Owner 17,Daily,67.83,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00094,RSK-00093,Technology Control 094,Preventive,Control Owner 20,Per Transaction,63.73,Effective,Management control designed to reduce transformation risk.
+CTRL-00095,RSK-00094,Vendor & Dependency Control 095,Detective,Control Owner 23,Daily,41.72,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00096,RSK-00096,People & Change Control 096,Corrective,Control Owner 16,Per Transaction,78.53,Effective,Management control designed to reduce transformation risk.
+CTRL-00097,RSK-00096,People & Change Control 097,Corrective,Control Owner 18,Weekly,60.44,Effective,Management control designed to reduce transformation risk.
+CTRL-00098,RSK-00097,Compliance Control 098,Corrective,Control Owner 05,Weekly,86.88,Effective,Management control designed to reduce transformation risk.
+CTRL-00099,RSK-00097,Compliance Control 099,Detective,Control Owner 07,Per Transaction,78.26,Effective,Management control designed to reduce transformation risk.
+CTRL-00100,RSK-00098,Operational Control 100,Corrective,Control Owner 29,Per Transaction,64.76,Effective,Management control designed to reduce transformation risk.
+CTRL-00101,RSK-00098,Operational Control 101,Preventive,Control Owner 10,Monthly,63.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00102,RSK-00102,Compliance Control 102,Detective,Control Owner 17,Per Transaction,54.65,Effective,Management control designed to reduce transformation risk.
+CTRL-00103,RSK-00107,Technology Control 103,Preventive,Control Owner 25,Quarterly,88.63,Effective,Management control designed to reduce transformation risk.
+CTRL-00104,RSK-00107,Technology Control 104,Preventive,Control Owner 18,Quarterly,67.43,Effective,Management control designed to reduce transformation risk.
+CTRL-00105,RSK-00108,Technology Control 105,Detective,Control Owner 10,Weekly,49.27,Effective,Management control designed to reduce transformation risk.
+CTRL-00106,RSK-00108,Technology Control 106,Preventive,Control Owner 21,Quarterly,87.06,Effective,Management control designed to reduce transformation risk.
+CTRL-00107,RSK-00109,Compliance Control 107,Detective,Control Owner 15,Weekly,54.79,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00108,RSK-00109,Compliance Control 108,Preventive,Control Owner 26,Weekly,31.32,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00109,RSK-00110,Vendor & Dependency Control 109,Preventive,Control Owner 16,Daily,72.93,Effective,Management control designed to reduce transformation risk.
+CTRL-00110,RSK-00110,Vendor & Dependency Control 110,Detective,Control Owner 10,Per Transaction,67.96,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00111,RSK-00111,Data Control 111,Detective,Control Owner 11,Daily,56.96,Weak,Management control designed to reduce transformation risk.
+CTRL-00112,RSK-00111,Data Control 112,Corrective,Control Owner 05,Weekly,41.37,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00113,RSK-00113,Operational Control 113,Corrective,Control Owner 03,Quarterly,45.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00114,RSK-00113,Operational Control 114,Preventive,Control Owner 02,Quarterly,72.11,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00115,RSK-00114,Vendor & Dependency Control 115,Corrective,Control Owner 08,Monthly,64.86,Weak,Management control designed to reduce transformation risk.
+CTRL-00116,RSK-00115,Technology Control 116,Corrective,Control Owner 20,Quarterly,59.85,Effective,Management control designed to reduce transformation risk.
+CTRL-00117,RSK-00115,Technology Control 117,Corrective,Control Owner 19,Daily,86.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00118,RSK-00118,Data Control 118,Preventive,Control Owner 30,Weekly,64.69,Weak,Management control designed to reduce transformation risk.
+CTRL-00119,RSK-00118,Data Control 119,Corrective,Control Owner 04,Per Transaction,94.75,Effective,Management control designed to reduce transformation risk.
+CTRL-00120,RSK-00120,Financial Control 120,Detective,Control Owner 07,Quarterly,62.1,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00121,RSK-00120,Financial Control 121,Corrective,Control Owner 14,Monthly,31.23,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00122,RSK-00121,Compliance Control 122,Detective,Control Owner 12,Monthly,38.49,Effective,Management control designed to reduce transformation risk.
+CTRL-00123,RSK-00122,People & Change Control 123,Preventive,Control Owner 10,Monthly,79.16,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00124,RSK-00123,Cybersecurity Control 124,Corrective,Control Owner 04,Weekly,87.03,Effective,Management control designed to reduce transformation risk.
+CTRL-00125,RSK-00125,Data Control 125,Detective,Control Owner 19,Monthly,49.41,Effective,Management control designed to reduce transformation risk.
+CTRL-00126,RSK-00126,Data Control 126,Preventive,Control Owner 29,Monthly,56.9,Weak,Management control designed to reduce transformation risk.
+CTRL-00127,RSK-00126,Data Control 127,Preventive,Control Owner 17,Per Transaction,77.67,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00128,RSK-00127,Operational Control 128,Corrective,Control Owner 17,Monthly,45.23,Effective,Management control designed to reduce transformation risk.
+CTRL-00129,RSK-00127,Operational Control 129,Corrective,Control Owner 26,Weekly,72.51,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00130,RSK-00131,Cybersecurity Control 130,Corrective,Control Owner 05,Per Transaction,86.27,Effective,Management control designed to reduce transformation risk.
+CTRL-00131,RSK-00132,People & Change Control 131,Detective,Control Owner 30,Monthly,31.93,Effective,Management control designed to reduce transformation risk.
+CTRL-00132,RSK-00133,Operational Control 132,Corrective,Control Owner 30,Daily,47.87,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00133,RSK-00135,Financial Control 133,Preventive,Control Owner 15,Monthly,34.58,Effective,Management control designed to reduce transformation risk.
+CTRL-00134,RSK-00136,Data Control 134,Corrective,Control Owner 05,Monthly,46.27,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00135,RSK-00137,Compliance Control 135,Corrective,Control Owner 12,Monthly,31.59,Weak,Management control designed to reduce transformation risk.
+CTRL-00136,RSK-00138,Vendor & Dependency Control 136,Preventive,Control Owner 27,Quarterly,47.83,Effective,Management control designed to reduce transformation risk.
+CTRL-00137,RSK-00138,Vendor & Dependency Control 137,Corrective,Control Owner 23,Daily,72.94,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00138,RSK-00140,Data Control 138,Detective,Control Owner 03,Quarterly,49.72,Effective,Management control designed to reduce transformation risk.
+CTRL-00139,RSK-00140,Data Control 139,Detective,Control Owner 26,Quarterly,53.67,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00140,RSK-00142,Cybersecurity Control 140,Preventive,Control Owner 18,Per Transaction,61.8,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00141,RSK-00142,Cybersecurity Control 141,Corrective,Control Owner 26,Monthly,81.39,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00142,RSK-00143,Technology Control 142,Preventive,Control Owner 16,Weekly,79.99,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00143,RSK-00143,Technology Control 143,Corrective,Control Owner 26,Daily,87.43,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00144,RSK-00144,Financial Control 144,Corrective,Control Owner 13,Daily,43.18,Weak,Management control designed to reduce transformation risk.
+CTRL-00145,RSK-00144,Financial Control 145,Preventive,Control Owner 06,Quarterly,58.25,Effective,Management control designed to reduce transformation risk.
+CTRL-00146,RSK-00146,Technology Control 146,Detective,Control Owner 20,Quarterly,90.0,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00147,RSK-00147,Compliance Control 147,Corrective,Control Owner 29,Quarterly,50.92,Effective,Management control designed to reduce transformation risk.
+CTRL-00148,RSK-00148,Data Control 148,Preventive,Control Owner 05,Quarterly,93.26,Effective,Management control designed to reduce transformation risk.
+CTRL-00149,RSK-00148,Data Control 149,Corrective,Control Owner 15,Quarterly,73.89,Effective,Management control designed to reduce transformation risk.
+CTRL-00150,RSK-00150,Financial Control 150,Preventive,Control Owner 17,Weekly,65.71,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00151,RSK-00153,Cybersecurity Control 151,Corrective,Control Owner 28,Quarterly,71.51,Effective,Management control designed to reduce transformation risk.
+CTRL-00152,RSK-00154,Technology Control 152,Detective,Control Owner 27,Daily,85.22,Effective,Management control designed to reduce transformation risk.
+CTRL-00153,RSK-00157,People & Change Control 153,Preventive,Control Owner 19,Daily,59.07,Effective,Management control designed to reduce transformation risk.
+CTRL-00154,RSK-00158,Data Control 154,Detective,Control Owner 26,Daily,33.45,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00155,RSK-00158,Data Control 155,Corrective,Control Owner 07,Weekly,41.43,Effective,Management control designed to reduce transformation risk.
+CTRL-00156,RSK-00161,Cybersecurity Control 156,Detective,Control Owner 09,Weekly,32.53,Weak,Management control designed to reduce transformation risk.
+CTRL-00157,RSK-00162,Technology Control 157,Corrective,Control Owner 10,Quarterly,43.98,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00158,RSK-00162,Technology Control 158,Detective,Control Owner 14,Per Transaction,82.17,Effective,Management control designed to reduce transformation risk.
+CTRL-00159,RSK-00163,Operational Control 159,Detective,Control Owner 13,Quarterly,86.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00160,RSK-00164,Financial Control 160,Detective,Control Owner 09,Monthly,40.12,Weak,Management control designed to reduce transformation risk.
+CTRL-00161,RSK-00164,Financial Control 161,Preventive,Control Owner 03,Weekly,59.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00162,RSK-00165,Compliance Control 162,Corrective,Control Owner 11,Daily,82.71,Effective,Management control designed to reduce transformation risk.
+CTRL-00163,RSK-00166,Vendor & Dependency Control 163,Detective,Control Owner 10,Quarterly,40.24,Effective,Management control designed to reduce transformation risk.
+CTRL-00164,RSK-00166,Vendor & Dependency Control 164,Preventive,Control Owner 21,Per Transaction,72.91,Effective,Management control designed to reduce transformation risk.
+CTRL-00165,RSK-00167,Operational Control 165,Preventive,Control Owner 24,Quarterly,35.04,Weak,Management control designed to reduce transformation risk.
+CTRL-00166,RSK-00168,Financial Control 166,Preventive,Control Owner 11,Monthly,79.4,Weak,Management control designed to reduce transformation risk.
+CTRL-00167,RSK-00168,Financial Control 167,Preventive,Control Owner 09,Daily,52.61,Weak,Management control designed to reduce transformation risk.
+CTRL-00168,RSK-00169,Data Control 168,Preventive,Control Owner 15,Monthly,77.36,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00169,RSK-00171,People & Change Control 169,Corrective,Control Owner 12,Monthly,56.0,Effective,Management control designed to reduce transformation risk.
+CTRL-00170,RSK-00171,People & Change Control 170,Preventive,Control Owner 16,Quarterly,61.1,Weak,Management control designed to reduce transformation risk.
+CTRL-00171,RSK-00172,Data Control 171,Corrective,Control Owner 11,Quarterly,58.88,Effective,Management control designed to reduce transformation risk.
+CTRL-00172,RSK-00172,Data Control 172,Detective,Control Owner 25,Per Transaction,49.3,Effective,Management control designed to reduce transformation risk.
+CTRL-00173,RSK-00173,Compliance Control 173,Preventive,Control Owner 15,Monthly,52.52,Effective,Management control designed to reduce transformation risk.
+CTRL-00174,RSK-00175,Operational Control 174,Detective,Control Owner 18,Per Transaction,88.58,Effective,Management control designed to reduce transformation risk.
+CTRL-00175,RSK-00177,Cybersecurity Control 175,Detective,Control Owner 11,Per Transaction,62.93,Effective,Management control designed to reduce transformation risk.
+CTRL-00176,RSK-00179,Compliance Control 176,Corrective,Control Owner 19,Monthly,47.38,Effective,Management control designed to reduce transformation risk.
+CTRL-00177,RSK-00181,Technology Control 177,Corrective,Control Owner 02,Monthly,46.85,Effective,Management control designed to reduce transformation risk.
+CTRL-00178,RSK-00181,Technology Control 178,Detective,Control Owner 28,Per Transaction,50.57,Effective,Management control designed to reduce transformation risk.
+CTRL-00179,RSK-00182,Technology Control 179,Detective,Control Owner 23,Monthly,89.1,Effective,Management control designed to reduce transformation risk.
+CTRL-00180,RSK-00183,Vendor & Dependency Control 180,Preventive,Control Owner 20,Weekly,38.53,Effective,Management control designed to reduce transformation risk.
+CTRL-00181,RSK-00183,Vendor & Dependency Control 181,Preventive,Control Owner 11,Daily,80.64,Effective,Management control designed to reduce transformation risk.
+CTRL-00182,RSK-00186,Financial Control 182,Detective,Control Owner 12,Quarterly,70.11,Effective,Management control designed to reduce transformation risk.
+CTRL-00183,RSK-00187,Data Control 183,Preventive,Control Owner 01,Daily,64.44,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00184,RSK-00187,Data Control 184,Preventive,Control Owner 17,Weekly,90.07,Weak,Management control designed to reduce transformation risk.
+CTRL-00185,RSK-00188,Cybersecurity Control 185,Corrective,Control Owner 28,Daily,34.24,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00186,RSK-00189,People & Change Control 186,Corrective,Control Owner 16,Per Transaction,89.93,Effective,Management control designed to reduce transformation risk.
+CTRL-00187,RSK-00190,Cybersecurity Control 187,Preventive,Control Owner 18,Monthly,72.82,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00188,RSK-00193,Compliance Control 188,Detective,Control Owner 01,Per Transaction,55.83,Effective,Management control designed to reduce transformation risk.
+CTRL-00189,RSK-00194,Technology Control 189,Detective,Control Owner 13,Weekly,34.87,Effective,Management control designed to reduce transformation risk.
+CTRL-00190,RSK-00196,Vendor & Dependency Control 190,Detective,Control Owner 20,Quarterly,50.06,Weak,Management control designed to reduce transformation risk.
+CTRL-00191,RSK-00196,Vendor & Dependency Control 191,Detective,Control Owner 30,Quarterly,68.05,Effective,Management control designed to reduce transformation risk.
+CTRL-00192,RSK-00197,Data Control 192,Detective,Control Owner 05,Per Transaction,78.72,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00193,RSK-00197,Data Control 193,Corrective,Control Owner 23,Daily,31.09,Weak,Management control designed to reduce transformation risk.
+CTRL-00194,RSK-00198,Cybersecurity Control 194,Preventive,Control Owner 30,Per Transaction,41.79,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00195,RSK-00199,People & Change Control 195,Corrective,Control Owner 18,Weekly,79.27,Effective,Management control designed to reduce transformation risk.
+CTRL-00196,RSK-00199,People & Change Control 196,Preventive,Control Owner 14,Weekly,32.99,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00197,RSK-00200,Vendor & Dependency Control 197,Corrective,Control Owner 18,Weekly,56.56,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00198,RSK-00200,Vendor & Dependency Control 198,Detective,Control Owner 07,Monthly,63.64,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00199,RSK-00201,Financial Control 199,Corrective,Control Owner 01,Per Transaction,57.82,Effective,Management control designed to reduce transformation risk.
+CTRL-00200,RSK-00202,Compliance Control 200,Detective,Control Owner 28,Weekly,65.14,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00201,RSK-00202,Compliance Control 201,Detective,Control Owner 20,Daily,47.85,Effective,Management control designed to reduce transformation risk.
+CTRL-00202,RSK-00203,Technology Control 202,Corrective,Control Owner 06,Quarterly,56.14,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00203,RSK-00203,Technology Control 203,Detective,Control Owner 06,Weekly,89.08,Effective,Management control designed to reduce transformation risk.
+CTRL-00204,RSK-00205,Technology Control 204,Preventive,Control Owner 10,Monthly,78.11,Effective,Management control designed to reduce transformation risk.
+CTRL-00205,RSK-00205,Technology Control 205,Corrective,Control Owner 25,Per Transaction,30.7,Effective,Management control designed to reduce transformation risk.
+CTRL-00206,RSK-00207,Operational Control 206,Detective,Control Owner 09,Monthly,57.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00207,RSK-00207,Operational Control 207,Detective,Control Owner 18,Per Transaction,49.6,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00208,RSK-00208,Data Control 208,Preventive,Control Owner 02,Daily,80.4,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00209,RSK-00210,Technology Control 209,Corrective,Control Owner 03,Per Transaction,38.15,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00210,RSK-00210,Technology Control 210,Corrective,Control Owner 19,Per Transaction,70.97,Effective,Management control designed to reduce transformation risk.
+CTRL-00211,RSK-00211,Financial Control 211,Detective,Control Owner 09,Daily,87.6,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00212,RSK-00211,Financial Control 212,Corrective,Control Owner 04,Weekly,73.04,Effective,Management control designed to reduce transformation risk.
+CTRL-00213,RSK-00214,People & Change Control 213,Detective,Control Owner 14,Weekly,71.3,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00214,RSK-00217,Compliance Control 214,Preventive,Control Owner 17,Monthly,63.76,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00215,RSK-00220,Data Control 215,Detective,Control Owner 05,Quarterly,53.63,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00216,RSK-00221,Operational Control 216,Corrective,Control Owner 26,Per Transaction,52.12,Effective,Management control designed to reduce transformation risk.
+CTRL-00217,RSK-00222,People & Change Control 217,Corrective,Control Owner 12,Monthly,75.18,Effective,Management control designed to reduce transformation risk.
+CTRL-00218,RSK-00222,People & Change Control 218,Corrective,Control Owner 15,Weekly,48.23,Effective,Management control designed to reduce transformation risk.
+CTRL-00219,RSK-00223,People & Change Control 219,Corrective,Control Owner 02,Daily,61.26,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00220,RSK-00223,People & Change Control 220,Corrective,Control Owner 24,Monthly,87.77,Effective,Management control designed to reduce transformation risk.
+CTRL-00221,RSK-00224,Financial Control 221,Corrective,Control Owner 27,Per Transaction,41.69,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00222,RSK-00225,Vendor & Dependency Control 222,Detective,Control Owner 04,Daily,87.16,Effective,Management control designed to reduce transformation risk.
+CTRL-00223,RSK-00225,Vendor & Dependency Control 223,Corrective,Control Owner 07,Weekly,37.84,Effective,Management control designed to reduce transformation risk.
+CTRL-00224,RSK-00226,Operational Control 224,Corrective,Control Owner 02,Quarterly,51.06,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00225,RSK-00226,Operational Control 225,Detective,Control Owner 28,Per Transaction,73.42,Effective,Management control designed to reduce transformation risk.
+CTRL-00226,RSK-00227,Compliance Control 226,Corrective,Control Owner 09,Weekly,40.46,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00227,RSK-00228,Cybersecurity Control 227,Corrective,Control Owner 07,Monthly,52.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00228,RSK-00228,Cybersecurity Control 228,Detective,Control Owner 16,Monthly,48.63,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00229,RSK-00229,Technology Control 229,Corrective,Control Owner 15,Monthly,46.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00230,RSK-00230,People & Change Control 230,Detective,Control Owner 30,Monthly,77.08,Effective,Management control designed to reduce transformation risk.
+CTRL-00231,RSK-00230,People & Change Control 231,Detective,Control Owner 02,Daily,85.79,Weak,Management control designed to reduce transformation risk.
+CTRL-00232,RSK-00231,Vendor & Dependency Control 232,Detective,Control Owner 25,Per Transaction,64.55,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00233,RSK-00232,Financial Control 233,Detective,Control Owner 21,Weekly,72.61,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00234,RSK-00234,Operational Control 234,Preventive,Control Owner 19,Daily,93.74,Effective,Management control designed to reduce transformation risk.
+CTRL-00235,RSK-00235,Compliance Control 235,Corrective,Control Owner 03,Daily,45.79,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00236,RSK-00238,People & Change Control 236,Preventive,Control Owner 18,Daily,61.61,Effective,Management control designed to reduce transformation risk.
+CTRL-00237,RSK-00238,People & Change Control 237,Preventive,Control Owner 12,Per Transaction,30.6,Effective,Management control designed to reduce transformation risk.
+CTRL-00238,RSK-00240,Cybersecurity Control 238,Detective,Control Owner 25,Per Transaction,70.73,Effective,Management control designed to reduce transformation risk.
+CTRL-00239,RSK-00241,Financial Control 239,Corrective,Control Owner 13,Weekly,67.84,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00240,RSK-00241,Financial Control 240,Corrective,Control Owner 25,Daily,43.54,Weak,Management control designed to reduce transformation risk.
+CTRL-00241,RSK-00242,Financial Control 241,Detective,Control Owner 10,Monthly,44.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00242,RSK-00242,Financial Control 242,Preventive,Control Owner 19,Monthly,51.63,Effective,Management control designed to reduce transformation risk.
+CTRL-00243,RSK-00244,Cybersecurity Control 243,Detective,Control Owner 01,Daily,36.7,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00244,RSK-00244,Cybersecurity Control 244,Corrective,Control Owner 20,Weekly,53.1,Effective,Management control designed to reduce transformation risk.
+CTRL-00245,RSK-00245,Compliance Control 245,Preventive,Control Owner 30,Daily,60.62,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00246,RSK-00245,Compliance Control 246,Detective,Control Owner 20,Daily,44.18,Effective,Management control designed to reduce transformation risk.
+CTRL-00247,RSK-00246,Vendor & Dependency Control 247,Detective,Control Owner 14,Monthly,32.85,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00248,RSK-00246,Vendor & Dependency Control 248,Corrective,Control Owner 25,Weekly,75.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00249,RSK-00247,People & Change Control 249,Detective,Control Owner 30,Monthly,43.28,Effective,Management control designed to reduce transformation risk.
+CTRL-00250,RSK-00250,Cybersecurity Control 250,Detective,Control Owner 15,Monthly,61.64,Effective,Management control designed to reduce transformation risk.
+CTRL-00251,RSK-00250,Cybersecurity Control 251,Detective,Control Owner 26,Weekly,89.77,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00252,RSK-00251,Operational Control 252,Preventive,Control Owner 19,Monthly,71.28,Effective,Management control designed to reduce transformation risk.
+CTRL-00253,RSK-00251,Operational Control 253,Detective,Control Owner 16,Per Transaction,68.48,Effective,Management control designed to reduce transformation risk.
+CTRL-00254,RSK-00252,Data Control 254,Corrective,Control Owner 24,Weekly,33.02,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00255,RSK-00252,Data Control 255,Detective,Control Owner 27,Monthly,42.88,Weak,Management control designed to reduce transformation risk.
+CTRL-00256,RSK-00254,Financial Control 256,Corrective,Control Owner 07,Per Transaction,45.65,Effective,Management control designed to reduce transformation risk.
+CTRL-00257,RSK-00254,Financial Control 257,Detective,Control Owner 08,Per Transaction,55.87,Effective,Management control designed to reduce transformation risk.
+CTRL-00258,RSK-00255,Compliance Control 258,Corrective,Control Owner 05,Monthly,83.99,Effective,Management control designed to reduce transformation risk.
+CTRL-00259,RSK-00255,Compliance Control 259,Corrective,Control Owner 15,Weekly,57.41,Effective,Management control designed to reduce transformation risk.
+CTRL-00260,RSK-00256,Financial Control 260,Corrective,Control Owner 02,Weekly,47.85,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00261,RSK-00257,People & Change Control 261,Detective,Control Owner 17,Per Transaction,33.61,Effective,Management control designed to reduce transformation risk.
+CTRL-00262,RSK-00257,People & Change Control 262,Detective,Control Owner 05,Daily,49.63,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00263,RSK-00258,Operational Control 263,Preventive,Control Owner 11,Daily,70.53,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00264,RSK-00258,Operational Control 264,Preventive,Control Owner 13,Daily,49.13,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00265,RSK-00259,Cybersecurity Control 265,Detective,Control Owner 19,Daily,93.98,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00266,RSK-00259,Cybersecurity Control 266,Preventive,Control Owner 11,Quarterly,39.72,Effective,Management control designed to reduce transformation risk.
+CTRL-00267,RSK-00260,Vendor & Dependency Control 267,Detective,Control Owner 13,Daily,67.79,Weak,Management control designed to reduce transformation risk.
+CTRL-00268,RSK-00260,Vendor & Dependency Control 268,Preventive,Control Owner 16,Monthly,56.88,Effective,Management control designed to reduce transformation risk.
+CTRL-00269,RSK-00261,Data Control 269,Corrective,Control Owner 25,Weekly,48.88,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00270,RSK-00261,Data Control 270,Detective,Control Owner 11,Per Transaction,52.34,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00271,RSK-00262,Technology Control 271,Corrective,Control Owner 20,Monthly,74.81,Weak,Management control designed to reduce transformation risk.
+CTRL-00272,RSK-00262,Technology Control 272,Corrective,Control Owner 25,Daily,66.61,Effective,Management control designed to reduce transformation risk.
+CTRL-00273,RSK-00263,People & Change Control 273,Detective,Control Owner 07,Weekly,83.66,Effective,Management control designed to reduce transformation risk.
+CTRL-00274,RSK-00263,People & Change Control 274,Detective,Control Owner 16,Monthly,48.73,Effective,Management control designed to reduce transformation risk.
+CTRL-00275,RSK-00264,Compliance Control 275,Corrective,Control Owner 23,Daily,69.79,Effective,Management control designed to reduce transformation risk.
+CTRL-00276,RSK-00264,Compliance Control 276,Corrective,Control Owner 06,Monthly,90.22,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00277,RSK-00265,Cybersecurity Control 277,Preventive,Control Owner 21,Monthly,62.9,Effective,Management control designed to reduce transformation risk.
+CTRL-00278,RSK-00265,Cybersecurity Control 278,Preventive,Control Owner 17,Monthly,58.06,Effective,Management control designed to reduce transformation risk.
+CTRL-00279,RSK-00266,Data Control 279,Preventive,Control Owner 07,Monthly,58.57,Weak,Management control designed to reduce transformation risk.
+CTRL-00280,RSK-00267,Technology Control 280,Corrective,Control Owner 06,Monthly,49.48,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00281,RSK-00267,Technology Control 281,Preventive,Control Owner 30,Weekly,86.84,Effective,Management control designed to reduce transformation risk.
+CTRL-00282,RSK-00270,Data Control 282,Preventive,Control Owner 22,Monthly,84.78,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00283,RSK-00270,Data Control 283,Corrective,Control Owner 28,Daily,50.73,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00284,RSK-00273,Operational Control 284,Detective,Control Owner 27,Monthly,61.42,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00285,RSK-00273,Operational Control 285,Preventive,Control Owner 30,Weekly,35.72,Effective,Management control designed to reduce transformation risk.
+CTRL-00286,RSK-00276,Cybersecurity Control 286,Preventive,Control Owner 16,Weekly,51.11,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00287,RSK-00279,Cybersecurity Control 287,Corrective,Control Owner 16,Per Transaction,91.07,Effective,Management control designed to reduce transformation risk.
+CTRL-00288,RSK-00279,Cybersecurity Control 288,Preventive,Control Owner 23,Weekly,72.18,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00289,RSK-00280,Data Control 289,Corrective,Control Owner 10,Monthly,38.07,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00290,RSK-00281,People & Change Control 290,Corrective,Control Owner 02,Monthly,84.42,Effective,Management control designed to reduce transformation risk.
+CTRL-00291,RSK-00281,People & Change Control 291,Preventive,Control Owner 19,Per Transaction,42.49,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00292,RSK-00282,Vendor & Dependency Control 292,Detective,Control Owner 17,Daily,72.76,Effective,Management control designed to reduce transformation risk.
+CTRL-00293,RSK-00282,Vendor & Dependency Control 293,Detective,Control Owner 02,Per Transaction,73.8,Effective,Management control designed to reduce transformation risk.
+CTRL-00294,RSK-00283,Operational Control 294,Detective,Control Owner 27,Daily,64.48,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00295,RSK-00283,Operational Control 295,Detective,Control Owner 23,Per Transaction,74.3,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00296,RSK-00285,People & Change Control 296,Corrective,Control Owner 14,Daily,93.32,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00297,RSK-00285,People & Change Control 297,Detective,Control Owner 30,Daily,65.29,Effective,Management control designed to reduce transformation risk.
+CTRL-00298,RSK-00286,Vendor & Dependency Control 298,Preventive,Control Owner 12,Per Transaction,59.85,Effective,Management control designed to reduce transformation risk.
+CTRL-00299,RSK-00286,Vendor & Dependency Control 299,Detective,Control Owner 28,Per Transaction,33.39,Effective,Management control designed to reduce transformation risk.
+CTRL-00300,RSK-00288,Data Control 300,Detective,Control Owner 05,Quarterly,45.93,Weak,Management control designed to reduce transformation risk.
+CTRL-00301,RSK-00288,Data Control 301,Detective,Control Owner 14,Daily,56.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00302,RSK-00289,People & Change Control 302,Preventive,Control Owner 04,Weekly,49.04,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00303,RSK-00291,Technology Control 303,Preventive,Control Owner 13,Weekly,36.69,Effective,Management control designed to reduce transformation risk.
+CTRL-00304,RSK-00291,Technology Control 304,Preventive,Control Owner 01,Daily,38.95,Effective,Management control designed to reduce transformation risk.
+CTRL-00305,RSK-00293,Operational Control 305,Corrective,Control Owner 07,Weekly,89.5,Effective,Management control designed to reduce transformation risk.
+CTRL-00306,RSK-00293,Operational Control 306,Detective,Control Owner 19,Monthly,76.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00307,RSK-00295,Technology Control 307,Detective,Control Owner 09,Per Transaction,66.71,Effective,Management control designed to reduce transformation risk.
+CTRL-00308,RSK-00295,Technology Control 308,Corrective,Control Owner 08,Quarterly,49.89,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00309,RSK-00296,Financial Control 309,Detective,Control Owner 07,Weekly,63.11,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00310,RSK-00299,Operational Control 310,Detective,Control Owner 08,Per Transaction,34.04,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00311,RSK-00300,Cybersecurity Control 311,Corrective,Control Owner 19,Daily,86.93,Effective,Management control designed to reduce transformation risk.
+CTRL-00312,RSK-00300,Cybersecurity Control 312,Detective,Control Owner 30,Monthly,42.61,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00313,RSK-00301,People & Change Control 313,Preventive,Control Owner 26,Daily,87.57,Effective,Management control designed to reduce transformation risk.
+CTRL-00314,RSK-00302,Vendor & Dependency Control 314,Preventive,Control Owner 04,Quarterly,86.54,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00315,RSK-00302,Vendor & Dependency Control 315,Detective,Control Owner 27,Weekly,92.16,Weak,Management control designed to reduce transformation risk.
+CTRL-00316,RSK-00303,Vendor & Dependency Control 316,Corrective,Control Owner 23,Quarterly,54.82,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00317,RSK-00303,Vendor & Dependency Control 317,Detective,Control Owner 18,Monthly,41.56,Weak,Management control designed to reduce transformation risk.
+CTRL-00318,RSK-00306,Technology Control 318,Corrective,Control Owner 29,Per Transaction,54.59,Effective,Management control designed to reduce transformation risk.
+CTRL-00319,RSK-00306,Technology Control 319,Detective,Control Owner 17,Quarterly,81.02,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00320,RSK-00308,Compliance Control 320,Preventive,Control Owner 17,Quarterly,59.14,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00321,RSK-00308,Compliance Control 321,Corrective,Control Owner 18,Daily,79.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00322,RSK-00309,Operational Control 322,Corrective,Control Owner 03,Monthly,47.05,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00323,RSK-00309,Operational Control 323,Detective,Control Owner 16,Daily,77.19,Effective,Management control designed to reduce transformation risk.
+CTRL-00324,RSK-00310,Compliance Control 324,Detective,Control Owner 18,Daily,94.92,Effective,Management control designed to reduce transformation risk.
+CTRL-00325,RSK-00311,People & Change Control 325,Preventive,Control Owner 30,Daily,57.65,Effective,Management control designed to reduce transformation risk.
+CTRL-00326,RSK-00311,People & Change Control 326,Corrective,Control Owner 11,Per Transaction,71.48,Effective,Management control designed to reduce transformation risk.
+CTRL-00327,RSK-00312,Technology Control 327,Preventive,Control Owner 13,Monthly,89.67,Effective,Management control designed to reduce transformation risk.
+CTRL-00328,RSK-00314,Vendor & Dependency Control 328,Detective,Control Owner 11,Per Transaction,86.15,Effective,Management control designed to reduce transformation risk.
+CTRL-00329,RSK-00314,Vendor & Dependency Control 329,Corrective,Control Owner 19,Daily,39.52,Effective,Management control designed to reduce transformation risk.
+CTRL-00330,RSK-00315,Operational Control 330,Detective,Control Owner 23,Daily,52.35,Effective,Management control designed to reduce transformation risk.
+CTRL-00331,RSK-00315,Operational Control 331,Corrective,Control Owner 13,Daily,40.45,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00332,RSK-00317,Financial Control 332,Preventive,Control Owner 25,Daily,73.28,Effective,Management control designed to reduce transformation risk.
+CTRL-00333,RSK-00317,Financial Control 333,Preventive,Control Owner 19,Quarterly,32.75,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00334,RSK-00318,People & Change Control 334,Preventive,Control Owner 21,Monthly,34.51,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00335,RSK-00318,People & Change Control 335,Corrective,Control Owner 07,Weekly,73.3,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00336,RSK-00319,Cybersecurity Control 336,Detective,Control Owner 20,Monthly,72.75,Weak,Management control designed to reduce transformation risk.
+CTRL-00337,RSK-00319,Cybersecurity Control 337,Corrective,Control Owner 10,Weekly,68.72,Effective,Management control designed to reduce transformation risk.
+CTRL-00338,RSK-00321,Vendor & Dependency Control 338,Preventive,Control Owner 03,Quarterly,71.9,Weak,Management control designed to reduce transformation risk.
+CTRL-00339,RSK-00321,Vendor & Dependency Control 339,Preventive,Control Owner 13,Quarterly,87.49,Effective,Management control designed to reduce transformation risk.
+CTRL-00340,RSK-00322,Compliance Control 340,Corrective,Control Owner 01,Daily,83.83,Effective,Management control designed to reduce transformation risk.
+CTRL-00341,RSK-00323,Financial Control 341,Corrective,Control Owner 18,Weekly,31.96,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00342,RSK-00324,People & Change Control 342,Corrective,Control Owner 23,Monthly,46.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00343,RSK-00325,Technology Control 343,Corrective,Control Owner 25,Monthly,44.24,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00344,RSK-00326,Data Control 344,Preventive,Control Owner 02,Monthly,45.47,Effective,Management control designed to reduce transformation risk.
+CTRL-00345,RSK-00326,Data Control 345,Detective,Control Owner 14,Daily,42.4,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00346,RSK-00327,Vendor & Dependency Control 346,Corrective,Control Owner 30,Per Transaction,55.2,Effective,Management control designed to reduce transformation risk.
+CTRL-00347,RSK-00327,Vendor & Dependency Control 347,Detective,Control Owner 10,Daily,56.76,Effective,Management control designed to reduce transformation risk.
+CTRL-00348,RSK-00328,Operational Control 348,Corrective,Control Owner 16,Monthly,32.65,Effective,Management control designed to reduce transformation risk.
+CTRL-00349,RSK-00329,Compliance Control 349,Detective,Control Owner 04,Weekly,39.53,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00350,RSK-00330,Cybersecurity Control 350,Detective,Control Owner 23,Daily,40.62,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00351,RSK-00331,People & Change Control 351,Preventive,Control Owner 21,Daily,80.36,Effective,Management control designed to reduce transformation risk.
+CTRL-00352,RSK-00331,People & Change Control 352,Preventive,Control Owner 15,Daily,77.28,Weak,Management control designed to reduce transformation risk.
+CTRL-00353,RSK-00333,Cybersecurity Control 353,Preventive,Control Owner 30,Daily,52.97,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00354,RSK-00334,Financial Control 354,Corrective,Control Owner 28,Quarterly,30.4,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00355,RSK-00334,Financial Control 355,Preventive,Control Owner 25,Monthly,91.79,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00356,RSK-00335,Compliance Control 356,Preventive,Control Owner 14,Quarterly,53.23,Effective,Management control designed to reduce transformation risk.
+CTRL-00357,RSK-00335,Compliance Control 357,Detective,Control Owner 08,Per Transaction,77.56,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00358,RSK-00336,Vendor & Dependency Control 358,Preventive,Control Owner 23,Per Transaction,91.36,Effective,Management control designed to reduce transformation risk.
+CTRL-00359,RSK-00337,Technology Control 359,Corrective,Control Owner 01,Monthly,83.22,Weak,Management control designed to reduce transformation risk.
+CTRL-00360,RSK-00338,Cybersecurity Control 360,Preventive,Control Owner 13,Daily,83.73,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00361,RSK-00339,Operational Control 361,Detective,Control Owner 02,Weekly,30.38,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00362,RSK-00340,People & Change Control 362,Preventive,Control Owner 19,Weekly,90.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00363,RSK-00340,People & Change Control 363,Detective,Control Owner 06,Per Transaction,71.99,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00364,RSK-00342,Data Control 364,Preventive,Control Owner 23,Monthly,36.9,Effective,Management control designed to reduce transformation risk.
+CTRL-00365,RSK-00344,Compliance Control 365,Detective,Control Owner 05,Quarterly,81.75,Effective,Management control designed to reduce transformation risk.
+CTRL-00366,RSK-00344,Compliance Control 366,Detective,Control Owner 20,Per Transaction,71.12,Weak,Management control designed to reduce transformation risk.
+CTRL-00367,RSK-00345,Vendor & Dependency Control 367,Preventive,Control Owner 02,Per Transaction,74.39,Effective,Management control designed to reduce transformation risk.
+CTRL-00368,RSK-00345,Vendor & Dependency Control 368,Detective,Control Owner 18,Monthly,59.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00369,RSK-00346,Vendor & Dependency Control 369,Detective,Control Owner 11,Quarterly,30.02,Weak,Management control designed to reduce transformation risk.
+CTRL-00370,RSK-00346,Vendor & Dependency Control 370,Detective,Control Owner 24,Quarterly,89.32,Effective,Management control designed to reduce transformation risk.
+CTRL-00371,RSK-00347,Financial Control 371,Detective,Control Owner 16,Daily,78.48,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00372,RSK-00348,Compliance Control 372,Preventive,Control Owner 14,Quarterly,51.02,Effective,Management control designed to reduce transformation risk.
+CTRL-00373,RSK-00348,Compliance Control 373,Preventive,Control Owner 10,Daily,92.68,Effective,Management control designed to reduce transformation risk.
+CTRL-00374,RSK-00350,Data Control 374,Preventive,Control Owner 19,Per Transaction,62.94,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00375,RSK-00350,Data Control 375,Detective,Control Owner 11,Per Transaction,86.87,Effective,Management control designed to reduce transformation risk.
+CTRL-00376,RSK-00352,Vendor & Dependency Control 376,Corrective,Control Owner 14,Per Transaction,68.45,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00377,RSK-00352,Vendor & Dependency Control 377,Corrective,Control Owner 10,Daily,60.43,Weak,Management control designed to reduce transformation risk.
+CTRL-00378,RSK-00354,Technology Control 378,Preventive,Control Owner 14,Per Transaction,42.53,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00379,RSK-00355,Compliance Control 379,Detective,Control Owner 07,Weekly,46.22,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00380,RSK-00358,People & Change Control 380,Corrective,Control Owner 05,Per Transaction,49.91,Weak,Management control designed to reduce transformation risk.
+CTRL-00381,RSK-00358,People & Change Control 381,Corrective,Control Owner 11,Weekly,82.69,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00382,RSK-00359,Financial Control 382,Detective,Control Owner 26,Daily,52.54,Effective,Management control designed to reduce transformation risk.
+CTRL-00383,RSK-00359,Financial Control 383,Corrective,Control Owner 15,Daily,69.43,Effective,Management control designed to reduce transformation risk.
+CTRL-00384,RSK-00361,Compliance Control 384,Preventive,Control Owner 18,Weekly,65.73,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00385,RSK-00361,Compliance Control 385,Detective,Control Owner 02,Quarterly,48.85,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00386,RSK-00362,Operational Control 386,Corrective,Control Owner 27,Daily,59.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00387,RSK-00362,Operational Control 387,Detective,Control Owner 06,Daily,52.76,Weak,Management control designed to reduce transformation risk.
+CTRL-00388,RSK-00363,Compliance Control 388,Detective,Control Owner 10,Daily,49.68,Effective,Management control designed to reduce transformation risk.
+CTRL-00389,RSK-00364,Vendor & Dependency Control 389,Preventive,Control Owner 11,Monthly,90.41,Effective,Management control designed to reduce transformation risk.
+CTRL-00390,RSK-00364,Vendor & Dependency Control 390,Preventive,Control Owner 23,Daily,90.63,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00391,RSK-00365,Financial Control 391,Preventive,Control Owner 18,Quarterly,42.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00392,RSK-00365,Financial Control 392,Corrective,Control Owner 16,Daily,31.22,Effective,Management control designed to reduce transformation risk.
+CTRL-00393,RSK-00366,Operational Control 393,Preventive,Control Owner 30,Weekly,38.33,Weak,Management control designed to reduce transformation risk.
+CTRL-00394,RSK-00366,Operational Control 394,Corrective,Control Owner 15,Monthly,78.89,Effective,Management control designed to reduce transformation risk.
+CTRL-00395,RSK-00367,Data Control 395,Preventive,Control Owner 23,Monthly,76.6,Weak,Management control designed to reduce transformation risk.
+CTRL-00396,RSK-00369,Cybersecurity Control 396,Detective,Control Owner 15,Quarterly,49.15,Effective,Management control designed to reduce transformation risk.
+CTRL-00397,RSK-00370,People & Change Control 397,Preventive,Control Owner 18,Weekly,81.42,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00398,RSK-00373,Data Control 398,Preventive,Control Owner 13,Per Transaction,89.49,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00399,RSK-00374,Technology Control 399,Detective,Control Owner 03,Daily,64.56,Weak,Management control designed to reduce transformation risk.
+CTRL-00400,RSK-00375,Operational Control 400,Detective,Control Owner 17,Per Transaction,65.62,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00401,RSK-00375,Operational Control 401,Preventive,Control Owner 09,Monthly,57.89,Effective,Management control designed to reduce transformation risk.
+CTRL-00402,RSK-00376,Cybersecurity Control 402,Corrective,Control Owner 28,Monthly,48.65,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00403,RSK-00377,Financial Control 403,Preventive,Control Owner 03,Quarterly,58.63,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00404,RSK-00377,Financial Control 404,Detective,Control Owner 14,Daily,34.47,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00405,RSK-00380,Compliance Control 405,Corrective,Control Owner 19,Daily,30.68,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00406,RSK-00381,Cybersecurity Control 406,Detective,Control Owner 10,Daily,33.83,Effective,Management control designed to reduce transformation risk.
+CTRL-00407,RSK-00381,Cybersecurity Control 407,Detective,Control Owner 05,Per Transaction,57.35,Effective,Management control designed to reduce transformation risk.
+CTRL-00408,RSK-00382,People & Change Control 408,Corrective,Control Owner 04,Monthly,47.07,Effective,Management control designed to reduce transformation risk.
+CTRL-00409,RSK-00384,Vendor & Dependency Control 409,Preventive,Control Owner 24,Monthly,55.44,Effective,Management control designed to reduce transformation risk.
+CTRL-00410,RSK-00385,Compliance Control 410,Corrective,Control Owner 07,Monthly,70.48,Effective,Management control designed to reduce transformation risk.
+CTRL-00411,RSK-00385,Compliance Control 411,Detective,Control Owner 09,Per Transaction,58.25,Weak,Management control designed to reduce transformation risk.
+CTRL-00412,RSK-00387,Financial Control 412,Preventive,Control Owner 11,Daily,68.4,Effective,Management control designed to reduce transformation risk.
+CTRL-00413,RSK-00389,People & Change Control 413,Corrective,Control Owner 05,Per Transaction,81.97,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00414,RSK-00389,People & Change Control 414,Detective,Control Owner 01,Daily,57.2,Effective,Management control designed to reduce transformation risk.
+CTRL-00415,RSK-00390,Financial Control 415,Corrective,Control Owner 21,Quarterly,43.65,Weak,Management control designed to reduce transformation risk.
+CTRL-00416,RSK-00392,Technology Control 416,Detective,Control Owner 30,Monthly,84.1,Weak,Management control designed to reduce transformation risk.
+CTRL-00417,RSK-00393,Cybersecurity Control 417,Detective,Control Owner 07,Weekly,65.69,Weak,Management control designed to reduce transformation risk.
+CTRL-00418,RSK-00393,Cybersecurity Control 418,Corrective,Control Owner 18,Daily,40.72,Effective,Management control designed to reduce transformation risk.
+CTRL-00419,RSK-00394,Data Control 419,Detective,Control Owner 12,Quarterly,86.39,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00420,RSK-00394,Data Control 420,Preventive,Control Owner 25,Per Transaction,57.34,Effective,Management control designed to reduce transformation risk.
+CTRL-00421,RSK-00395,Operational Control 421,Preventive,Control Owner 04,Quarterly,80.01,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00422,RSK-00399,People & Change Control 422,Preventive,Control Owner 23,Per Transaction,85.61,Effective,Management control designed to reduce transformation risk.
+CTRL-00423,RSK-00401,Operational Control 423,Corrective,Control Owner 18,Per Transaction,85.52,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00424,RSK-00404,Vendor & Dependency Control 424,Preventive,Control Owner 20,Weekly,79.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00425,RSK-00404,Vendor & Dependency Control 425,Detective,Control Owner 26,Monthly,88.75,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00426,RSK-00406,Compliance Control 426,Corrective,Control Owner 10,Quarterly,65.78,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00427,RSK-00407,People & Change Control 427,Preventive,Control Owner 16,Quarterly,42.89,Weak,Management control designed to reduce transformation risk.
+CTRL-00428,RSK-00410,Operational Control 428,Preventive,Control Owner 10,Per Transaction,79.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00429,RSK-00410,Operational Control 429,Corrective,Control Owner 25,Monthly,87.77,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00430,RSK-00411,Compliance Control 430,Detective,Control Owner 28,Daily,50.96,Effective,Management control designed to reduce transformation risk.
+CTRL-00431,RSK-00411,Compliance Control 431,Preventive,Control Owner 05,Monthly,87.62,Weak,Management control designed to reduce transformation risk.
+CTRL-00432,RSK-00412,Vendor & Dependency Control 432,Preventive,Control Owner 28,Monthly,91.9,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00433,RSK-00412,Vendor & Dependency Control 433,Preventive,Control Owner 12,Daily,89.41,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00434,RSK-00413,Technology Control 434,Preventive,Control Owner 27,Daily,81.2,Effective,Management control designed to reduce transformation risk.
+CTRL-00435,RSK-00413,Technology Control 435,Corrective,Control Owner 29,Quarterly,41.9,Weak,Management control designed to reduce transformation risk.
+CTRL-00436,RSK-00415,Cybersecurity Control 436,Corrective,Control Owner 12,Daily,32.39,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00437,RSK-00415,Cybersecurity Control 437,Corrective,Control Owner 10,Monthly,35.58,Effective,Management control designed to reduce transformation risk.
+CTRL-00438,RSK-00416,Technology Control 438,Detective,Control Owner 01,Per Transaction,45.58,Effective,Management control designed to reduce transformation risk.
+CTRL-00439,RSK-00416,Technology Control 439,Detective,Control Owner 23,Daily,89.21,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00440,RSK-00417,Financial Control 440,Corrective,Control Owner 11,Quarterly,56.86,Effective,Management control designed to reduce transformation risk.
+CTRL-00441,RSK-00417,Financial Control 441,Detective,Control Owner 25,Quarterly,78.51,Weak,Management control designed to reduce transformation risk.
+CTRL-00442,RSK-00418,Operational Control 442,Preventive,Control Owner 10,Daily,64.26,Effective,Management control designed to reduce transformation risk.
+CTRL-00443,RSK-00418,Operational Control 443,Corrective,Control Owner 17,Daily,76.01,Effective,Management control designed to reduce transformation risk.
+CTRL-00444,RSK-00419,Cybersecurity Control 444,Corrective,Control Owner 30,Per Transaction,94.71,Weak,Management control designed to reduce transformation risk.
+CTRL-00445,RSK-00419,Cybersecurity Control 445,Detective,Control Owner 03,Monthly,45.83,Weak,Management control designed to reduce transformation risk.
+CTRL-00446,RSK-00420,People & Change Control 446,Corrective,Control Owner 30,Weekly,82.77,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00447,RSK-00420,People & Change Control 447,Detective,Control Owner 04,Per Transaction,74.9,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00448,RSK-00423,Data Control 448,Detective,Control Owner 28,Weekly,63.76,Effective,Management control designed to reduce transformation risk.
+CTRL-00449,RSK-00424,Cybersecurity Control 449,Corrective,Control Owner 19,Monthly,56.91,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00450,RSK-00425,Technology Control 450,Detective,Control Owner 22,Quarterly,63.07,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00451,RSK-00425,Technology Control 451,Corrective,Control Owner 11,Monthly,34.07,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00452,RSK-00426,People & Change Control 452,Preventive,Control Owner 16,Monthly,74.14,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00453,RSK-00426,People & Change Control 453,Preventive,Control Owner 10,Weekly,81.6,Effective,Management control designed to reduce transformation risk.
+CTRL-00454,RSK-00429,Data Control 454,Preventive,Control Owner 26,Weekly,75.24,Effective,Management control designed to reduce transformation risk.
+CTRL-00455,RSK-00430,People & Change Control 455,Detective,Control Owner 05,Weekly,53.8,Effective,Management control designed to reduce transformation risk.
+CTRL-00456,RSK-00430,People & Change Control 456,Corrective,Control Owner 16,Monthly,64.15,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00457,RSK-00431,Vendor & Dependency Control 457,Preventive,Control Owner 11,Monthly,51.64,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00458,RSK-00431,Vendor & Dependency Control 458,Corrective,Control Owner 27,Quarterly,36.27,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00459,RSK-00432,Operational Control 459,Preventive,Control Owner 12,Quarterly,42.9,Effective,Management control designed to reduce transformation risk.
+CTRL-00460,RSK-00434,Cybersecurity Control 460,Detective,Control Owner 04,Quarterly,60.05,Weak,Management control designed to reduce transformation risk.
+CTRL-00461,RSK-00435,Technology Control 461,Preventive,Control Owner 29,Monthly,36.51,Weak,Management control designed to reduce transformation risk.
+CTRL-00462,RSK-00435,Technology Control 462,Preventive,Control Owner 01,Quarterly,86.13,Effective,Management control designed to reduce transformation risk.
+CTRL-00463,RSK-00437,Technology Control 463,Corrective,Control Owner 20,Weekly,67.79,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00464,RSK-00438,Data Control 464,Preventive,Control Owner 18,Per Transaction,69.11,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00465,RSK-00438,Data Control 465,Corrective,Control Owner 21,Weekly,77.74,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00466,RSK-00440,Operational Control 466,Corrective,Control Owner 07,Per Transaction,38.34,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00467,RSK-00441,Compliance Control 467,Preventive,Control Owner 15,Per Transaction,37.76,Effective,Management control designed to reduce transformation risk.
+CTRL-00468,RSK-00443,Compliance Control 468,Detective,Control Owner 06,Per Transaction,69.48,Effective,Management control designed to reduce transformation risk.
+CTRL-00469,RSK-00444,Data Control 469,Preventive,Control Owner 07,Weekly,50.25,Weak,Management control designed to reduce transformation risk.
+CTRL-00470,RSK-00444,Data Control 470,Corrective,Control Owner 12,Per Transaction,62.01,Effective,Management control designed to reduce transformation risk.
+CTRL-00471,RSK-00445,Cybersecurity Control 471,Preventive,Control Owner 29,Per Transaction,84.78,Weak,Management control designed to reduce transformation risk.
+CTRL-00472,RSK-00446,Technology Control 472,Detective,Control Owner 17,Quarterly,63.65,Effective,Management control designed to reduce transformation risk.
+CTRL-00473,RSK-00446,Technology Control 473,Preventive,Control Owner 04,Per Transaction,80.51,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00474,RSK-00447,Financial Control 474,Preventive,Control Owner 25,Weekly,33.97,Effective,Management control designed to reduce transformation risk.
+CTRL-00475,RSK-00447,Financial Control 475,Preventive,Control Owner 25,Weekly,81.86,Weak,Management control designed to reduce transformation risk.
+CTRL-00476,RSK-00448,Vendor & Dependency Control 476,Detective,Control Owner 18,Daily,70.53,Effective,Management control designed to reduce transformation risk.
+CTRL-00477,RSK-00449,Cybersecurity Control 477,Corrective,Control Owner 17,Weekly,36.81,Effective,Management control designed to reduce transformation risk.
+CTRL-00478,RSK-00449,Cybersecurity Control 478,Detective,Control Owner 18,Monthly,47.17,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00479,RSK-00450,Operational Control 479,Preventive,Control Owner 09,Weekly,86.47,Effective,Management control designed to reduce transformation risk.
+CTRL-00480,RSK-00450,Operational Control 480,Detective,Control Owner 25,Daily,78.55,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00481,RSK-00451,Financial Control 481,Preventive,Control Owner 22,Quarterly,83.26,Weak,Management control designed to reduce transformation risk.
+CTRL-00482,RSK-00455,Compliance Control 482,Corrective,Control Owner 10,Weekly,46.11,Effective,Management control designed to reduce transformation risk.
+CTRL-00483,RSK-00455,Compliance Control 483,Preventive,Control Owner 01,Daily,65.92,Effective,Management control designed to reduce transformation risk.
+CTRL-00484,RSK-00456,Vendor & Dependency Control 484,Detective,Control Owner 07,Monthly,84.34,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00485,RSK-00457,Operational Control 485,Preventive,Control Owner 27,Per Transaction,83.05,Effective,Management control designed to reduce transformation risk.
+CTRL-00486,RSK-00457,Operational Control 486,Detective,Control Owner 21,Weekly,33.71,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00487,RSK-00458,Technology Control 487,Preventive,Control Owner 14,Weekly,52.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00488,RSK-00459,Data Control 488,Preventive,Control Owner 20,Quarterly,57.96,Effective,Management control designed to reduce transformation risk.
+CTRL-00489,RSK-00460,Financial Control 489,Preventive,Control Owner 10,Quarterly,73.42,Effective,Management control designed to reduce transformation risk.
+CTRL-00490,RSK-00462,Compliance Control 490,Detective,Control Owner 30,Monthly,50.18,Effective,Management control designed to reduce transformation risk.
+CTRL-00491,RSK-00462,Compliance Control 491,Preventive,Control Owner 09,Daily,80.23,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00492,RSK-00463,Data Control 492,Detective,Control Owner 02,Monthly,55.06,Weak,Management control designed to reduce transformation risk.
+CTRL-00493,RSK-00464,Operational Control 493,Corrective,Control Owner 07,Monthly,92.98,Effective,Management control designed to reduce transformation risk.
+CTRL-00494,RSK-00465,Cybersecurity Control 494,Preventive,Control Owner 20,Quarterly,40.42,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00495,RSK-00465,Cybersecurity Control 495,Detective,Control Owner 19,Daily,83.78,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00496,RSK-00466,Technology Control 496,Detective,Control Owner 13,Daily,32.78,Weak,Management control designed to reduce transformation risk.
+CTRL-00497,RSK-00466,Technology Control 497,Detective,Control Owner 04,Weekly,61.41,Weak,Management control designed to reduce transformation risk.
+CTRL-00498,RSK-00467,Financial Control 498,Corrective,Control Owner 18,Per Transaction,89.02,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00499,RSK-00467,Financial Control 499,Detective,Control Owner 02,Quarterly,83.04,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00500,RSK-00468,Vendor & Dependency Control 500,Detective,Control Owner 18,Weekly,37.73,Effective,Management control designed to reduce transformation risk.
+CTRL-00501,RSK-00469,People & Change Control 501,Preventive,Control Owner 19,Monthly,62.41,Weak,Management control designed to reduce transformation risk.
+CTRL-00502,RSK-00470,Compliance Control 502,Corrective,Control Owner 12,Monthly,85.72,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00503,RSK-00471,Financial Control 503,Preventive,Control Owner 17,Per Transaction,70.7,Effective,Management control designed to reduce transformation risk.
+CTRL-00504,RSK-00471,Financial Control 504,Detective,Control Owner 25,Weekly,40.17,Weak,Management control designed to reduce transformation risk.
+CTRL-00505,RSK-00472,People & Change Control 505,Detective,Control Owner 27,Monthly,93.63,Weak,Management control designed to reduce transformation risk.
+CTRL-00506,RSK-00472,People & Change Control 506,Preventive,Control Owner 04,Quarterly,84.51,Effective,Management control designed to reduce transformation risk.
+CTRL-00507,RSK-00473,Operational Control 507,Preventive,Control Owner 07,Per Transaction,90.05,Effective,Management control designed to reduce transformation risk.
+CTRL-00508,RSK-00473,Operational Control 508,Preventive,Control Owner 04,Daily,59.64,Weak,Management control designed to reduce transformation risk.
+CTRL-00509,RSK-00475,Cybersecurity Control 509,Corrective,Control Owner 06,Daily,89.3,Effective,Management control designed to reduce transformation risk.
+CTRL-00510,RSK-00476,Technology Control 510,Detective,Control Owner 24,Per Transaction,59.47,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00511,RSK-00476,Technology Control 511,Corrective,Control Owner 16,Weekly,94.78,Effective,Management control designed to reduce transformation risk.
+CTRL-00512,RSK-00477,Data Control 512,Preventive,Control Owner 08,Weekly,36.25,Effective,Management control designed to reduce transformation risk.
+CTRL-00513,RSK-00478,Vendor & Dependency Control 513,Preventive,Control Owner 26,Monthly,65.43,Effective,Management control designed to reduce transformation risk.
+CTRL-00514,RSK-00480,Financial Control 514,Preventive,Control Owner 20,Weekly,38.72,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00515,RSK-00482,Technology Control 515,Corrective,Control Owner 13,Daily,71.28,Effective,Management control designed to reduce transformation risk.
+CTRL-00516,RSK-00482,Technology Control 516,Preventive,Control Owner 29,Quarterly,51.61,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00517,RSK-00483,Operational Control 517,Preventive,Control Owner 18,Per Transaction,48.77,Weak,Management control designed to reduce transformation risk.
+CTRL-00518,RSK-00483,Operational Control 518,Detective,Control Owner 01,Per Transaction,33.27,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00519,RSK-00486,Cybersecurity Control 519,Detective,Control Owner 11,Quarterly,70.68,Weak,Management control designed to reduce transformation risk.
+CTRL-00520,RSK-00493,Technology Control 520,Corrective,Control Owner 03,Monthly,35.41,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00521,RSK-00494,Operational Control 521,Corrective,Control Owner 11,Per Transaction,45.7,Effective,Management control designed to reduce transformation risk.
+CTRL-00522,RSK-00494,Operational Control 522,Corrective,Control Owner 02,Monthly,37.57,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00523,RSK-00496,Compliance Control 523,Detective,Control Owner 02,Per Transaction,54.35,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00524,RSK-00496,Compliance Control 524,Detective,Control Owner 17,Weekly,39.07,Effective,Management control designed to reduce transformation risk.
+CTRL-00525,RSK-00497,Operational Control 525,Corrective,Control Owner 22,Weekly,84.29,Weak,Management control designed to reduce transformation risk.
+CTRL-00526,RSK-00499,Cybersecurity Control 526,Preventive,Control Owner 12,Quarterly,38.4,Effective,Management control designed to reduce transformation risk.
+CTRL-00527,RSK-00499,Cybersecurity Control 527,Detective,Control Owner 15,Daily,54.87,Weak,Management control designed to reduce transformation risk.
+CTRL-00528,RSK-00500,Technology Control 528,Detective,Control Owner 15,Daily,79.57,Effective,Management control designed to reduce transformation risk.
+CTRL-00529,RSK-00501,Data Control 529,Corrective,Control Owner 07,Per Transaction,30.03,Effective,Management control designed to reduce transformation risk.
+CTRL-00530,RSK-00503,Vendor & Dependency Control 530,Corrective,Control Owner 02,Daily,52.21,Effective,Management control designed to reduce transformation risk.
+CTRL-00531,RSK-00503,Vendor & Dependency Control 531,Preventive,Control Owner 29,Weekly,30.35,Effective,Management control designed to reduce transformation risk.
+CTRL-00532,RSK-00507,Compliance Control 532,Preventive,Control Owner 08,Daily,77.13,Effective,Management control designed to reduce transformation risk.
+CTRL-00533,RSK-00510,Data Control 533,Corrective,Control Owner 06,Per Transaction,42.38,Effective,Management control designed to reduce transformation risk.
+CTRL-00534,RSK-00510,Data Control 534,Detective,Control Owner 24,Per Transaction,40.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00535,RSK-00512,Technology Control 535,Detective,Control Owner 24,Monthly,72.26,Weak,Management control designed to reduce transformation risk.
+CTRL-00536,RSK-00514,Data Control 536,Corrective,Control Owner 09,Monthly,82.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00537,RSK-00514,Data Control 537,Corrective,Control Owner 13,Daily,48.4,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00538,RSK-00516,People & Change Control 538,Preventive,Control Owner 10,Quarterly,30.26,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00539,RSK-00518,Vendor & Dependency Control 539,Preventive,Control Owner 18,Daily,52.17,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00540,RSK-00519,Cybersecurity Control 540,Corrective,Control Owner 14,Quarterly,69.16,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00541,RSK-00519,Cybersecurity Control 541,Detective,Control Owner 12,Weekly,93.76,Effective,Management control designed to reduce transformation risk.
+CTRL-00542,RSK-00520,Cybersecurity Control 542,Detective,Control Owner 07,Quarterly,57.66,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00543,RSK-00520,Cybersecurity Control 543,Corrective,Control Owner 12,Quarterly,53.35,Effective,Management control designed to reduce transformation risk.
+CTRL-00544,RSK-00521,Vendor & Dependency Control 544,Detective,Control Owner 25,Monthly,64.31,Effective,Management control designed to reduce transformation risk.
+CTRL-00545,RSK-00522,Financial Control 545,Preventive,Control Owner 22,Per Transaction,77.32,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00546,RSK-00524,Operational Control 546,Detective,Control Owner 07,Per Transaction,84.59,Effective,Management control designed to reduce transformation risk.
+CTRL-00547,RSK-00524,Operational Control 547,Corrective,Control Owner 02,Per Transaction,61.59,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00548,RSK-00525,Technology Control 548,Corrective,Control Owner 14,Quarterly,39.67,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00549,RSK-00526,Compliance Control 549,Preventive,Control Owner 17,Weekly,62.39,Effective,Management control designed to reduce transformation risk.
+CTRL-00550,RSK-00526,Compliance Control 550,Preventive,Control Owner 12,Daily,74.03,Effective,Management control designed to reduce transformation risk.
+CTRL-00551,RSK-00527,Operational Control 551,Preventive,Control Owner 16,Per Transaction,84.99,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00552,RSK-00527,Operational Control 552,Detective,Control Owner 18,Quarterly,54.83,Effective,Management control designed to reduce transformation risk.
+CTRL-00553,RSK-00529,Cybersecurity Control 553,Detective,Control Owner 12,Per Transaction,75.22,Effective,Management control designed to reduce transformation risk.
+CTRL-00554,RSK-00530,Data Control 554,Detective,Control Owner 09,Weekly,44.04,Effective,Management control designed to reduce transformation risk.
+CTRL-00555,RSK-00531,Financial Control 555,Detective,Control Owner 26,Weekly,37.37,Effective,Management control designed to reduce transformation risk.
+CTRL-00556,RSK-00533,Operational Control 556,Detective,Control Owner 28,Quarterly,58.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00557,RSK-00534,Cybersecurity Control 557,Detective,Control Owner 11,Per Transaction,44.67,Effective,Management control designed to reduce transformation risk.
+CTRL-00558,RSK-00536,Data Control 558,Corrective,Control Owner 15,Weekly,84.48,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00559,RSK-00536,Data Control 559,Detective,Control Owner 02,Per Transaction,41.52,Effective,Management control designed to reduce transformation risk.
+CTRL-00560,RSK-00537,Compliance Control 560,Preventive,Control Owner 29,Monthly,35.93,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00561,RSK-00537,Compliance Control 561,Corrective,Control Owner 06,Quarterly,54.61,Effective,Management control designed to reduce transformation risk.
+CTRL-00562,RSK-00538,Vendor & Dependency Control 562,Detective,Control Owner 09,Quarterly,53.21,Weak,Management control designed to reduce transformation risk.
+CTRL-00563,RSK-00539,People & Change Control 563,Detective,Control Owner 29,Weekly,37.2,Effective,Management control designed to reduce transformation risk.
+CTRL-00564,RSK-00539,People & Change Control 564,Detective,Control Owner 05,Monthly,87.52,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00565,RSK-00541,Compliance Control 565,Detective,Control Owner 06,Per Transaction,84.49,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00566,RSK-00541,Compliance Control 566,Preventive,Control Owner 01,Quarterly,32.43,Effective,Management control designed to reduce transformation risk.
+CTRL-00567,RSK-00542,Vendor & Dependency Control 567,Corrective,Control Owner 01,Per Transaction,68.59,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00568,RSK-00544,Cybersecurity Control 568,Preventive,Control Owner 06,Monthly,72.67,Effective,Management control designed to reduce transformation risk.
+CTRL-00569,RSK-00545,People & Change Control 569,Corrective,Control Owner 23,Daily,47.45,Effective,Management control designed to reduce transformation risk.
+CTRL-00570,RSK-00546,Data Control 570,Corrective,Control Owner 24,Weekly,66.45,Weak,Management control designed to reduce transformation risk.
+CTRL-00571,RSK-00546,Data Control 571,Detective,Control Owner 27,Weekly,51.74,Weak,Management control designed to reduce transformation risk.
+CTRL-00572,RSK-00547,Financial Control 572,Corrective,Control Owner 30,Monthly,89.01,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00573,RSK-00547,Financial Control 573,Preventive,Control Owner 29,Monthly,82.29,Effective,Management control designed to reduce transformation risk.
+CTRL-00574,RSK-00548,Operational Control 574,Corrective,Control Owner 29,Weekly,43.29,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00575,RSK-00549,People & Change Control 575,Preventive,Control Owner 26,Per Transaction,76.96,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00576,RSK-00550,Data Control 576,Corrective,Control Owner 02,Monthly,52.71,Effective,Management control designed to reduce transformation risk.
+CTRL-00577,RSK-00552,Vendor & Dependency Control 577,Corrective,Control Owner 05,Per Transaction,91.88,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00578,RSK-00552,Vendor & Dependency Control 578,Corrective,Control Owner 11,Monthly,64.55,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00579,RSK-00553,Operational Control 579,Detective,Control Owner 08,Daily,45.01,Weak,Management control designed to reduce transformation risk.
+CTRL-00580,RSK-00556,Technology Control 580,Detective,Control Owner 26,Quarterly,41.98,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00581,RSK-00558,Cybersecurity Control 581,Detective,Control Owner 14,Per Transaction,46.24,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00582,RSK-00559,Data Control 582,Corrective,Control Owner 23,Quarterly,60.52,Effective,Management control designed to reduce transformation risk.
+CTRL-00583,RSK-00559,Data Control 583,Detective,Control Owner 14,Per Transaction,51.9,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00584,RSK-00560,People & Change Control 584,Corrective,Control Owner 03,Quarterly,88.86,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00585,RSK-00561,Vendor & Dependency Control 585,Preventive,Control Owner 30,Quarterly,71.47,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00586,RSK-00562,Cybersecurity Control 586,Detective,Control Owner 28,Monthly,74.77,Weak,Management control designed to reduce transformation risk.
+CTRL-00587,RSK-00564,Data Control 587,Corrective,Control Owner 09,Quarterly,58.16,Effective,Management control designed to reduce transformation risk.
+CTRL-00588,RSK-00564,Data Control 588,Detective,Control Owner 04,Weekly,91.28,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00589,RSK-00565,Technology Control 589,Detective,Control Owner 28,Weekly,71.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00590,RSK-00566,People & Change Control 590,Corrective,Control Owner 19,Weekly,53.34,Effective,Management control designed to reduce transformation risk.
+CTRL-00591,RSK-00566,People & Change Control 591,Preventive,Control Owner 22,Weekly,65.97,Effective,Management control designed to reduce transformation risk.
+CTRL-00592,RSK-00567,Compliance Control 592,Preventive,Control Owner 22,Quarterly,93.27,Effective,Management control designed to reduce transformation risk.
+CTRL-00593,RSK-00567,Compliance Control 593,Preventive,Control Owner 21,Quarterly,49.25,Effective,Management control designed to reduce transformation risk.
+CTRL-00594,RSK-00568,Technology Control 594,Detective,Control Owner 05,Quarterly,75.87,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00595,RSK-00568,Technology Control 595,Detective,Control Owner 06,Per Transaction,78.95,Effective,Management control designed to reduce transformation risk.
+CTRL-00596,RSK-00569,Cybersecurity Control 596,Corrective,Control Owner 30,Daily,38.34,Effective,Management control designed to reduce transformation risk.
+CTRL-00597,RSK-00569,Cybersecurity Control 597,Preventive,Control Owner 30,Daily,70.69,Effective,Management control designed to reduce transformation risk.
+CTRL-00598,RSK-00570,Operational Control 598,Detective,Control Owner 14,Monthly,79.33,Effective,Management control designed to reduce transformation risk.
+CTRL-00599,RSK-00572,Data Control 599,Corrective,Control Owner 05,Daily,82.89,Effective,Management control designed to reduce transformation risk.
+CTRL-00600,RSK-00575,Data Control 600,Preventive,Control Owner 22,Monthly,42.65,Effective,Management control designed to reduce transformation risk.
+CTRL-00601,RSK-00576,People & Change Control 601,Preventive,Control Owner 07,Weekly,72.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00602,RSK-00576,People & Change Control 602,Preventive,Control Owner 15,Quarterly,58.21,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00603,RSK-00577,Cybersecurity Control 603,Preventive,Control Owner 10,Daily,59.24,Weak,Management control designed to reduce transformation risk.
+CTRL-00604,RSK-00577,Cybersecurity Control 604,Preventive,Control Owner 11,Monthly,74.91,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00605,RSK-00578,Vendor & Dependency Control 605,Preventive,Control Owner 03,Quarterly,80.89,Effective,Management control designed to reduce transformation risk.
+CTRL-00606,RSK-00581,Financial Control 606,Corrective,Control Owner 05,Quarterly,60.34,Effective,Management control designed to reduce transformation risk.
+CTRL-00607,RSK-00582,Compliance Control 607,Detective,Control Owner 28,Weekly,37.09,Effective,Management control designed to reduce transformation risk.
+CTRL-00608,RSK-00583,Operational Control 608,Corrective,Control Owner 10,Quarterly,62.95,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00609,RSK-00584,Vendor & Dependency Control 609,Corrective,Control Owner 28,Monthly,62.17,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00610,RSK-00584,Vendor & Dependency Control 610,Corrective,Control Owner 01,Per Transaction,44.66,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00611,RSK-00585,Financial Control 611,Detective,Control Owner 11,Monthly,74.44,Effective,Management control designed to reduce transformation risk.
+CTRL-00612,RSK-00588,Cybersecurity Control 612,Detective,Control Owner 08,Monthly,47.78,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00613,RSK-00588,Cybersecurity Control 613,Preventive,Control Owner 22,Quarterly,60.68,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00614,RSK-00589,Compliance Control 614,Preventive,Control Owner 23,Daily,44.62,Effective,Management control designed to reduce transformation risk.
+CTRL-00615,RSK-00590,Data Control 615,Detective,Control Owner 26,Daily,66.14,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00616,RSK-00590,Data Control 616,Preventive,Control Owner 24,Quarterly,92.01,Effective,Management control designed to reduce transformation risk.
+CTRL-00617,RSK-00592,Compliance Control 617,Corrective,Control Owner 18,Weekly,94.47,Effective,Management control designed to reduce transformation risk.
+CTRL-00618,RSK-00594,Financial Control 618,Corrective,Control Owner 15,Daily,57.54,Effective,Management control designed to reduce transformation risk.
+CTRL-00619,RSK-00594,Financial Control 619,Preventive,Control Owner 14,Quarterly,79.23,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00620,RSK-00595,Operational Control 620,Corrective,Control Owner 27,Quarterly,93.31,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00621,RSK-00595,Operational Control 621,Preventive,Control Owner 09,Quarterly,31.34,Effective,Management control designed to reduce transformation risk.
+CTRL-00622,RSK-00596,Technology Control 622,Detective,Control Owner 18,Per Transaction,85.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00623,RSK-00599,Operational Control 623,Detective,Control Owner 06,Daily,60.68,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00624,RSK-00600,Cybersecurity Control 624,Corrective,Control Owner 08,Weekly,51.25,Weak,Management control designed to reduce transformation risk.
+CTRL-00625,RSK-00600,Cybersecurity Control 625,Preventive,Control Owner 02,Quarterly,80.24,Effective,Management control designed to reduce transformation risk.
+CTRL-00626,RSK-00601,Financial Control 626,Corrective,Control Owner 18,Monthly,68.27,Effective,Management control designed to reduce transformation risk.
+CTRL-00627,RSK-00601,Financial Control 627,Corrective,Control Owner 07,Monthly,41.66,Effective,Management control designed to reduce transformation risk.
+CTRL-00628,RSK-00603,Vendor & Dependency Control 628,Corrective,Control Owner 20,Monthly,77.56,Effective,Management control designed to reduce transformation risk.
+CTRL-00629,RSK-00606,Data Control 629,Detective,Control Owner 02,Quarterly,59.16,Effective,Management control designed to reduce transformation risk.
+CTRL-00630,RSK-00606,Data Control 630,Preventive,Control Owner 06,Daily,94.97,Effective,Management control designed to reduce transformation risk.
+CTRL-00631,RSK-00608,Technology Control 631,Preventive,Control Owner 09,Weekly,35.43,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00632,RSK-00609,Financial Control 632,Detective,Control Owner 14,Weekly,33.29,Effective,Management control designed to reduce transformation risk.
+CTRL-00633,RSK-00609,Financial Control 633,Preventive,Control Owner 02,Weekly,68.16,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00634,RSK-00611,People & Change Control 634,Preventive,Control Owner 28,Monthly,46.03,Effective,Management control designed to reduce transformation risk.
+CTRL-00635,RSK-00611,People & Change Control 635,Detective,Control Owner 29,Per Transaction,84.98,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00636,RSK-00613,Compliance Control 636,Preventive,Control Owner 26,Daily,48.2,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00637,RSK-00613,Compliance Control 637,Preventive,Control Owner 25,Per Transaction,35.11,Effective,Management control designed to reduce transformation risk.
+CTRL-00638,RSK-00614,Cybersecurity Control 638,Corrective,Control Owner 18,Quarterly,39.4,Effective,Management control designed to reduce transformation risk.
+CTRL-00639,RSK-00616,Data Control 639,Preventive,Control Owner 04,Weekly,52.93,Effective,Management control designed to reduce transformation risk.
+CTRL-00640,RSK-00617,People & Change Control 640,Corrective,Control Owner 18,Monthly,74.87,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00641,RSK-00617,People & Change Control 641,Detective,Control Owner 09,Monthly,88.39,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00642,RSK-00618,Data Control 642,Detective,Control Owner 11,Weekly,69.42,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00643,RSK-00618,Data Control 643,Corrective,Control Owner 23,Weekly,58.83,Weak,Management control designed to reduce transformation risk.
+CTRL-00644,RSK-00619,Operational Control 644,Corrective,Control Owner 19,Monthly,83.35,Effective,Management control designed to reduce transformation risk.
+CTRL-00645,RSK-00619,Operational Control 645,Corrective,Control Owner 23,Daily,61.14,Effective,Management control designed to reduce transformation risk.
+CTRL-00646,RSK-00621,People & Change Control 646,Preventive,Control Owner 16,Monthly,86.15,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00647,RSK-00621,People & Change Control 647,Preventive,Control Owner 10,Quarterly,58.26,Weak,Management control designed to reduce transformation risk.
+CTRL-00648,RSK-00622,Cybersecurity Control 648,Detective,Control Owner 27,Daily,45.89,Effective,Management control designed to reduce transformation risk.
+CTRL-00649,RSK-00622,Cybersecurity Control 649,Detective,Control Owner 01,Quarterly,55.61,Effective,Management control designed to reduce transformation risk.
+CTRL-00650,RSK-00624,Financial Control 650,Preventive,Control Owner 03,Per Transaction,77.59,Weak,Management control designed to reduce transformation risk.
+CTRL-00651,RSK-00627,Technology Control 651,Preventive,Control Owner 15,Monthly,30.66,Effective,Management control designed to reduce transformation risk.
+CTRL-00652,RSK-00628,Vendor & Dependency Control 652,Detective,Control Owner 06,Quarterly,37.26,Effective,Management control designed to reduce transformation risk.
+CTRL-00653,RSK-00630,Compliance Control 653,Corrective,Control Owner 08,Per Transaction,85.36,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00654,RSK-00632,Cybersecurity Control 654,Preventive,Control Owner 01,Weekly,30.19,Effective,Management control designed to reduce transformation risk.
+CTRL-00655,RSK-00634,Technology Control 655,Detective,Control Owner 18,Daily,71.72,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00656,RSK-00634,Technology Control 656,Preventive,Control Owner 19,Per Transaction,74.02,Weak,Management control designed to reduce transformation risk.
+CTRL-00657,RSK-00635,Vendor & Dependency Control 657,Detective,Control Owner 14,Daily,81.51,Effective,Management control designed to reduce transformation risk.
+CTRL-00658,RSK-00636,Data Control 658,Corrective,Control Owner 02,Daily,81.6,Effective,Management control designed to reduce transformation risk.
+CTRL-00659,RSK-00636,Data Control 659,Detective,Control Owner 07,Monthly,83.19,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00660,RSK-00637,Financial Control 660,Preventive,Control Owner 03,Daily,36.5,Weak,Management control designed to reduce transformation risk.
+CTRL-00661,RSK-00641,Technology Control 661,Detective,Control Owner 19,Monthly,94.3,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00662,RSK-00641,Technology Control 662,Corrective,Control Owner 12,Per Transaction,63.86,Weak,Management control designed to reduce transformation risk.
+CTRL-00663,RSK-00642,Operational Control 663,Preventive,Control Owner 13,Weekly,81.22,Weak,Management control designed to reduce transformation risk.
+CTRL-00664,RSK-00646,Data Control 664,Corrective,Control Owner 22,Monthly,46.58,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00665,RSK-00646,Data Control 665,Preventive,Control Owner 06,Quarterly,61.0,Effective,Management control designed to reduce transformation risk.
+CTRL-00666,RSK-00647,Cybersecurity Control 666,Detective,Control Owner 16,Weekly,50.84,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00667,RSK-00647,Cybersecurity Control 667,Detective,Control Owner 11,Weekly,38.92,Weak,Management control designed to reduce transformation risk.
+CTRL-00668,RSK-00648,Technology Control 668,Preventive,Control Owner 18,Monthly,59.73,Weak,Management control designed to reduce transformation risk.
+CTRL-00669,RSK-00649,Compliance Control 669,Detective,Control Owner 17,Daily,83.59,Effective,Management control designed to reduce transformation risk.
+CTRL-00670,RSK-00651,Technology Control 670,Detective,Control Owner 17,Weekly,87.59,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00671,RSK-00651,Technology Control 671,Detective,Control Owner 06,Quarterly,33.82,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00672,RSK-00652,Financial Control 672,Detective,Control Owner 22,Daily,48.16,Effective,Management control designed to reduce transformation risk.
+CTRL-00673,RSK-00653,Cybersecurity Control 673,Corrective,Control Owner 28,Daily,66.18,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00674,RSK-00654,Data Control 674,Corrective,Control Owner 11,Weekly,37.96,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00675,RSK-00655,Operational Control 675,Preventive,Control Owner 18,Monthly,64.55,Effective,Management control designed to reduce transformation risk.
+CTRL-00676,RSK-00658,Vendor & Dependency Control 676,Corrective,Control Owner 03,Monthly,50.24,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00677,RSK-00659,Data Control 677,Corrective,Control Owner 13,Quarterly,78.09,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00678,RSK-00660,People & Change Control 678,Detective,Control Owner 01,Daily,55.58,Effective,Management control designed to reduce transformation risk.
+CTRL-00679,RSK-00664,Compliance Control 679,Preventive,Control Owner 02,Daily,55.31,Needs Improvement,Management control designed to reduce transformation risk.
+CTRL-00680,RSK-00667,People & Change Control 680,Detective,Control Owner 17,Monthly,82.4,Needs Improvement,Management control designed to reduce transformation risk.

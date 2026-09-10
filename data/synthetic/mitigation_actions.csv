@@ -1,0 +1,340 @@
+action_id,risk_id,action_name,action_owner,priority,status,due_date,completion_percentage,expected_risk_reduction
+ACT-00001,RSK-00001,Complete regulatory control review,Action Owner 26,Medium,Blocked,2026-09-22,1,28.87
+ACT-00002,RSK-00002,Complete business continuity test,Action Owner 12,Critical,In Progress,2026-10-14,13,7.42
+ACT-00003,RSK-00003,Validate transformation cost controls,Action Owner 11,Medium,Open,2026-10-17,9,29.44
+ACT-00004,RSK-00007,Complete migration reconciliation,Action Owner 14,Medium,Completed,2026-10-07,60,22.53
+ACT-00005,RSK-00008,Perform architecture review,Action Owner 28,Medium,Completed,2026-10-09,89,21.55
+ACT-00006,RSK-00009,Complete regulatory control review,Action Owner 30,Medium,In Progress,2026-09-11,60,32.12
+ACT-00007,RSK-00010,Perform security assessment,Action Owner 28,Medium,In Progress,2026-09-08,84,24.03
+ACT-00008,RSK-00012,Validate transformation cost controls,Action Owner 02,Medium,In Progress,2026-10-16,90,44.08
+ACT-00009,RSK-00015,Review vendor SLA and dependency risk,Action Owner 14,High,In Progress,2026-09-29,35,33.92
+ACT-00010,RSK-00016,Perform architecture review,Action Owner 03,Critical,In Progress,2026-10-20,29,31.21
+ACT-00011,RSK-00018,Perform security assessment,Action Owner 02,Medium,Completed,2026-11-27,76,38.85
+ACT-00012,RSK-00020,Perform architecture review,Action Owner 03,High,In Progress,2026-11-27,14,27.22
+ACT-00013,RSK-00022,Complete regulatory control review,Action Owner 19,Medium,In Progress,2026-12-24,15,21.29
+ACT-00014,RSK-00024,Review vendor SLA and dependency risk,Action Owner 26,Critical,Completed,2026-10-19,27,26.05
+ACT-00015,RSK-00026,Execute user adoption program,Action Owner 24,High,Completed,2026-12-02,16,16.43
+ACT-00016,RSK-00027,Perform architecture review,Action Owner 04,High,In Progress,2026-09-18,40,30.37
+ACT-00017,RSK-00028,Complete regulatory control review,Action Owner 06,Medium,Open,2026-09-08,97,31.33
+ACT-00018,RSK-00030,Complete business continuity test,Action Owner 14,Medium,In Progress,2026-09-09,37,5.6
+ACT-00019,RSK-00033,Review vendor SLA and dependency risk,Action Owner 17,Critical,In Progress,2026-11-12,62,15.3
+ACT-00020,RSK-00035,Complete migration reconciliation,Action Owner 28,Medium,Open,2026-09-24,23,44.34
+ACT-00021,RSK-00037,Execute user adoption program,Action Owner 20,Critical,Blocked,2026-09-16,73,18.57
+ACT-00022,RSK-00039,Validate transformation cost controls,Action Owner 19,Medium,In Progress,2026-10-01,58,43.14
+ACT-00023,RSK-00043,Review vendor SLA and dependency risk,Action Owner 07,Critical,Open,2026-09-08,34,14.33
+ACT-00024,RSK-00044,Perform security assessment,Action Owner 18,Critical,Open,2026-09-30,33,41.23
+ACT-00025,RSK-00045,Complete migration reconciliation,Action Owner 07,Medium,Open,2026-10-29,53,19.18
+ACT-00026,RSK-00047,Perform architecture review,Action Owner 15,Medium,In Progress,2026-11-19,53,27.69
+ACT-00027,RSK-00048,Execute user adoption program,Action Owner 21,Medium,In Progress,2026-09-22,22,25.0
+ACT-00028,RSK-00049,Review vendor SLA and dependency risk,Action Owner 27,Medium,In Progress,2026-10-13,98,7.52
+ACT-00029,RSK-00050,Perform security assessment,Action Owner 04,Critical,In Progress,2026-09-16,80,42.49
+ACT-00030,RSK-00052,Complete regulatory control review,Action Owner 22,Critical,In Progress,2026-10-06,44,29.89
+ACT-00031,RSK-00053,Complete business continuity test,Action Owner 19,High,Open,2026-12-02,21,11.18
+ACT-00032,RSK-00054,Validate transformation cost controls,Action Owner 25,Medium,Open,2026-12-21,87,42.9
+ACT-00033,RSK-00055,Perform architecture review,Action Owner 19,Medium,In Progress,2026-11-27,70,17.69
+ACT-00034,RSK-00056,Complete migration reconciliation,Action Owner 20,Medium,Completed,2026-12-08,84,44.49
+ACT-00035,RSK-00057,Perform security assessment,Action Owner 25,Critical,Completed,2026-10-03,60,31.66
+ACT-00036,RSK-00059,Review vendor SLA and dependency risk,Action Owner 25,High,Open,2026-12-16,4,16.21
+ACT-00037,RSK-00062,Complete business continuity test,Action Owner 20,High,In Progress,2026-10-29,51,18.35
+ACT-00038,RSK-00063,Complete regulatory control review,Action Owner 11,Medium,Blocked,2026-10-05,10,43.99
+ACT-00039,RSK-00064,Complete migration reconciliation,Action Owner 10,Critical,Completed,2026-12-25,57,32.87
+ACT-00040,RSK-00069,Review vendor SLA and dependency risk,Action Owner 27,Medium,Completed,2026-10-07,94,26.94
+ACT-00041,RSK-00071,Complete regulatory control review,Action Owner 15,High,Completed,2026-12-12,73,33.57
+ACT-00042,RSK-00072,Perform architecture review,Action Owner 26,Critical,In Progress,2026-12-17,71,9.77
+ACT-00043,RSK-00073,Perform security assessment,Action Owner 30,High,Completed,2026-09-09,48,16.53
+ACT-00044,RSK-00075,Complete business continuity test,Action Owner 08,High,In Progress,2026-12-19,33,28.06
+ACT-00045,RSK-00076,Complete migration reconciliation,Action Owner 06,Medium,Open,2026-12-22,57,26.51
+ACT-00046,RSK-00077,Validate transformation cost controls,Action Owner 16,High,In Progress,2026-11-13,74,19.46
+ACT-00047,RSK-00078,Execute user adoption program,Action Owner 24,Critical,Blocked,2026-10-09,56,6.09
+ACT-00048,RSK-00080,Perform security assessment,Action Owner 23,Medium,Completed,2026-12-05,63,43.62
+ACT-00049,RSK-00082,Validate transformation cost controls,Action Owner 30,High,Open,2026-12-28,63,28.91
+ACT-00050,RSK-00083,Review vendor SLA and dependency risk,Action Owner 03,Medium,Open,2026-09-06,94,15.31
+ACT-00051,RSK-00085,Perform architecture review,Action Owner 04,Critical,Completed,2026-09-23,84,34.4
+ACT-00052,RSK-00089,Perform security assessment,Action Owner 03,Critical,In Progress,2026-12-18,19,40.61
+ACT-00053,RSK-00090,Validate transformation cost controls,Action Owner 16,Critical,Completed,2026-09-19,5,5.05
+ACT-00054,RSK-00092,Complete business continuity test,Action Owner 28,Medium,Open,2026-12-27,39,14.74
+ACT-00055,RSK-00095,Perform architecture review,Action Owner 22,Medium,Open,2026-09-10,55,44.47
+ACT-00056,RSK-00098,Complete business continuity test,Action Owner 18,Medium,In Progress,2026-09-17,27,15.04
+ACT-00057,RSK-00101,Review vendor SLA and dependency risk,Action Owner 18,Medium,Open,2026-10-06,21,9.96
+ACT-00058,RSK-00102,Complete regulatory control review,Action Owner 16,Medium,Open,2026-11-16,81,40.48
+ACT-00059,RSK-00105,Execute user adoption program,Action Owner 23,Medium,Open,2026-10-28,23,43.48
+ACT-00060,RSK-00107,Perform architecture review,Action Owner 10,High,In Progress,2026-10-13,48,44.19
+ACT-00061,RSK-00108,Perform architecture review,Action Owner 09,Medium,In Progress,2026-12-28,43,10.0
+ACT-00062,RSK-00109,Complete regulatory control review,Action Owner 10,Medium,Open,2026-12-13,95,21.27
+ACT-00063,RSK-00110,Review vendor SLA and dependency risk,Action Owner 18,Medium,Open,2026-09-14,27,7.47
+ACT-00064,RSK-00111,Complete migration reconciliation,Action Owner 04,Medium,Completed,2026-12-08,52,22.08
+ACT-00065,RSK-00113,Complete business continuity test,Action Owner 29,High,Open,2026-11-15,30,26.19
+ACT-00066,RSK-00115,Perform architecture review,Action Owner 25,High,Blocked,2026-10-02,40,43.24
+ACT-00067,RSK-00119,Perform architecture review,Action Owner 04,Medium,In Progress,2026-11-29,76,34.83
+ACT-00068,RSK-00121,Complete regulatory control review,Action Owner 30,High,In Progress,2026-10-13,72,38.48
+ACT-00069,RSK-00122,Execute user adoption program,Action Owner 18,Critical,In Progress,2026-09-10,26,24.16
+ACT-00070,RSK-00123,Perform security assessment,Action Owner 03,High,Open,2026-10-03,84,15.24
+ACT-00071,RSK-00125,Complete migration reconciliation,Action Owner 11,Medium,Open,2026-10-17,4,30.66
+ACT-00072,RSK-00127,Complete business continuity test,Action Owner 14,Medium,Blocked,2026-09-22,56,32.16
+ACT-00073,RSK-00128,Perform architecture review,Action Owner 18,Critical,Completed,2026-11-13,90,20.31
+ACT-00074,RSK-00129,Perform security assessment,Action Owner 27,High,In Progress,2026-10-02,77,5.27
+ACT-00075,RSK-00135,Validate transformation cost controls,Action Owner 12,Medium,Completed,2026-10-26,30,23.02
+ACT-00076,RSK-00137,Complete regulatory control review,Action Owner 30,Medium,Open,2026-10-24,46,10.44
+ACT-00077,RSK-00138,Review vendor SLA and dependency risk,Action Owner 21,High,Completed,2026-12-07,15,21.88
+ACT-00078,RSK-00140,Complete migration reconciliation,Action Owner 13,High,Completed,2026-09-16,56,18.57
+ACT-00079,RSK-00143,Perform architecture review,Action Owner 22,Critical,In Progress,2026-09-15,74,44.97
+ACT-00080,RSK-00144,Validate transformation cost controls,Action Owner 28,Critical,Completed,2026-12-08,38,43.18
+ACT-00081,RSK-00145,Perform security assessment,Action Owner 26,Medium,Open,2026-12-29,59,22.97
+ACT-00082,RSK-00149,Execute user adoption program,Action Owner 11,High,Open,2026-11-27,49,5.87
+ACT-00083,RSK-00152,Review vendor SLA and dependency risk,Action Owner 17,Critical,In Progress,2026-12-11,36,5.23
+ACT-00084,RSK-00153,Perform security assessment,Action Owner 27,High,Blocked,2026-12-26,59,15.35
+ACT-00085,RSK-00154,Perform architecture review,Action Owner 10,High,In Progress,2026-10-18,36,7.69
+ACT-00086,RSK-00157,Execute user adoption program,Action Owner 10,High,In Progress,2026-09-24,35,15.83
+ACT-00087,RSK-00158,Complete migration reconciliation,Action Owner 16,High,In Progress,2026-10-20,80,43.24
+ACT-00088,RSK-00159,Execute user adoption program,Action Owner 13,High,Completed,2026-12-16,79,19.97
+ACT-00089,RSK-00160,Review vendor SLA and dependency risk,Action Owner 21,Critical,Open,2026-11-06,99,29.26
+ACT-00090,RSK-00161,Perform security assessment,Action Owner 19,Critical,Open,2026-11-07,90,29.93
+ACT-00091,RSK-00162,Perform architecture review,Action Owner 06,High,Completed,2026-12-23,66,29.06
+ACT-00092,RSK-00164,Validate transformation cost controls,Action Owner 28,High,Completed,2026-11-24,93,12.83
+ACT-00093,RSK-00165,Complete regulatory control review,Action Owner 09,Medium,Open,2026-09-24,52,10.43
+ACT-00094,RSK-00167,Complete business continuity test,Action Owner 23,Medium,Open,2026-09-09,86,44.55
+ACT-00095,RSK-00169,Complete migration reconciliation,Action Owner 06,Medium,Open,2026-11-19,37,29.23
+ACT-00096,RSK-00171,Execute user adoption program,Action Owner 16,Medium,In Progress,2026-11-16,37,27.76
+ACT-00097,RSK-00172,Complete migration reconciliation,Action Owner 26,Critical,Completed,2026-11-22,82,23.62
+ACT-00098,RSK-00175,Complete business continuity test,Action Owner 26,Medium,In Progress,2026-12-05,62,25.56
+ACT-00099,RSK-00177,Perform security assessment,Action Owner 17,High,In Progress,2026-11-15,4,22.93
+ACT-00100,RSK-00180,Execute user adoption program,Action Owner 23,High,Completed,2026-12-16,93,5.9
+ACT-00101,RSK-00182,Perform architecture review,Action Owner 17,Medium,Open,2026-10-13,63,41.52
+ACT-00102,RSK-00183,Review vendor SLA and dependency risk,Action Owner 08,High,Blocked,2026-12-13,34,14.58
+ACT-00103,RSK-00188,Perform security assessment,Action Owner 01,Critical,Completed,2026-09-24,72,8.43
+ACT-00104,RSK-00189,Execute user adoption program,Action Owner 24,Medium,Blocked,2026-09-21,17,36.9
+ACT-00105,RSK-00190,Perform security assessment,Action Owner 28,Critical,In Progress,2026-12-14,18,19.74
+ACT-00106,RSK-00191,Validate transformation cost controls,Action Owner 04,Medium,Open,2026-12-10,54,44.36
+ACT-00107,RSK-00193,Complete regulatory control review,Action Owner 20,Medium,Blocked,2026-10-21,64,23.25
+ACT-00108,RSK-00194,Perform architecture review,Action Owner 04,High,In Progress,2026-12-16,34,23.1
+ACT-00109,RSK-00195,Execute user adoption program,Action Owner 16,Medium,Completed,2026-12-03,12,20.78
+ACT-00110,RSK-00196,Review vendor SLA and dependency risk,Action Owner 17,High,In Progress,2026-10-08,72,17.46
+ACT-00111,RSK-00197,Complete migration reconciliation,Action Owner 19,Critical,Completed,2026-09-08,98,23.34
+ACT-00112,RSK-00198,Perform security assessment,Action Owner 07,Medium,Open,2026-09-11,48,42.21
+ACT-00113,RSK-00200,Review vendor SLA and dependency risk,Action Owner 12,High,Blocked,2026-10-20,43,16.07
+ACT-00114,RSK-00201,Validate transformation cost controls,Action Owner 18,Critical,Completed,2026-09-30,43,31.32
+ACT-00115,RSK-00202,Complete regulatory control review,Action Owner 11,High,Blocked,2026-09-28,64,24.53
+ACT-00116,RSK-00203,Perform architecture review,Action Owner 21,Medium,In Progress,2026-12-18,50,40.12
+ACT-00117,RSK-00204,Validate transformation cost controls,Action Owner 09,Medium,Open,2026-11-28,54,18.59
+ACT-00118,RSK-00205,Perform architecture review,Action Owner 17,Critical,Open,2026-10-06,8,11.31
+ACT-00119,RSK-00207,Complete business continuity test,Action Owner 02,High,In Progress,2026-12-17,38,33.34
+ACT-00120,RSK-00208,Complete migration reconciliation,Action Owner 01,Medium,In Progress,2026-10-07,57,35.8
+ACT-00121,RSK-00211,Validate transformation cost controls,Action Owner 15,Medium,Open,2026-12-24,17,36.34
+ACT-00122,RSK-00216,Complete migration reconciliation,Action Owner 03,High,In Progress,2026-12-09,66,8.17
+ACT-00123,RSK-00219,Review vendor SLA and dependency risk,Action Owner 05,Critical,In Progress,2026-11-15,38,42.8
+ACT-00124,RSK-00220,Complete migration reconciliation,Action Owner 16,Medium,Completed,2026-09-19,42,10.14
+ACT-00125,RSK-00221,Complete business continuity test,Action Owner 17,Medium,Open,2026-12-19,26,5.57
+ACT-00126,RSK-00222,Execute user adoption program,Action Owner 07,High,Completed,2026-11-29,96,20.6
+ACT-00127,RSK-00228,Perform security assessment,Action Owner 27,Medium,In Progress,2026-10-01,54,5.55
+ACT-00128,RSK-00232,Validate transformation cost controls,Action Owner 25,Medium,Completed,2026-12-02,73,28.8
+ACT-00129,RSK-00235,Complete regulatory control review,Action Owner 03,Critical,Completed,2026-11-26,46,8.86
+ACT-00130,RSK-00236,Complete migration reconciliation,Action Owner 16,Critical,Open,2026-09-28,70,34.95
+ACT-00131,RSK-00237,Review vendor SLA and dependency risk,Action Owner 15,Medium,Blocked,2026-11-07,16,28.98
+ACT-00132,RSK-00242,Validate transformation cost controls,Action Owner 27,Medium,In Progress,2026-09-07,100,19.31
+ACT-00133,RSK-00243,Complete business continuity test,Action Owner 03,Medium,Blocked,2026-10-20,88,37.76
+ACT-00134,RSK-00245,Complete regulatory control review,Action Owner 22,High,In Progress,2026-09-11,76,19.78
+ACT-00135,RSK-00246,Review vendor SLA and dependency risk,Action Owner 20,Medium,In Progress,2026-11-06,24,17.57
+ACT-00136,RSK-00250,Perform security assessment,Action Owner 16,Critical,Completed,2026-11-29,85,31.12
+ACT-00137,RSK-00252,Complete migration reconciliation,Action Owner 04,Critical,Open,2026-11-13,91,43.11
+ACT-00138,RSK-00253,Execute user adoption program,Action Owner 21,Medium,Open,2026-09-30,94,28.92
+ACT-00139,RSK-00254,Validate transformation cost controls,Action Owner 24,Medium,Completed,2026-10-17,35,23.43
+ACT-00140,RSK-00257,Execute user adoption program,Action Owner 14,High,In Progress,2026-10-07,36,25.12
+ACT-00141,RSK-00259,Perform security assessment,Action Owner 28,Critical,Completed,2026-10-19,29,36.62
+ACT-00142,RSK-00260,Review vendor SLA and dependency risk,Action Owner 26,Medium,Open,2026-09-08,12,42.88
+ACT-00143,RSK-00262,Perform architecture review,Action Owner 01,High,Open,2026-09-07,90,34.75
+ACT-00144,RSK-00266,Complete migration reconciliation,Action Owner 03,Medium,Completed,2026-11-02,57,22.75
+ACT-00145,RSK-00267,Perform architecture review,Action Owner 06,High,Completed,2026-10-17,97,38.93
+ACT-00146,RSK-00269,Validate transformation cost controls,Action Owner 04,High,In Progress,2026-11-14,31,32.93
+ACT-00147,RSK-00271,Review vendor SLA and dependency risk,Action Owner 02,High,Completed,2026-10-29,67,19.51
+ACT-00148,RSK-00272,Execute user adoption program,Action Owner 27,Medium,In Progress,2026-09-12,3,11.67
+ACT-00149,RSK-00273,Complete business continuity test,Action Owner 14,Medium,Open,2026-11-10,78,35.85
+ACT-00150,RSK-00274,Complete regulatory control review,Action Owner 28,Medium,Open,2026-09-25,77,20.65
+ACT-00151,RSK-00275,Perform architecture review,Action Owner 03,Critical,Open,2026-11-29,97,25.3
+ACT-00152,RSK-00277,Validate transformation cost controls,Action Owner 07,Medium,Blocked,2026-10-06,65,30.94
+ACT-00153,RSK-00280,Complete migration reconciliation,Action Owner 12,Critical,In Progress,2026-10-07,5,9.49
+ACT-00154,RSK-00281,Execute user adoption program,Action Owner 10,Medium,In Progress,2026-12-16,67,13.85
+ACT-00155,RSK-00289,Execute user adoption program,Action Owner 09,Critical,Open,2026-09-12,44,16.83
+ACT-00156,RSK-00291,Perform architecture review,Action Owner 20,Critical,Blocked,2026-11-17,40,31.01
+ACT-00157,RSK-00293,Complete business continuity test,Action Owner 30,Medium,In Progress,2026-09-07,0,44.25
+ACT-00158,RSK-00295,Perform architecture review,Action Owner 22,Medium,In Progress,2026-09-08,14,38.88
+ACT-00159,RSK-00296,Validate transformation cost controls,Action Owner 08,Medium,Completed,2026-10-23,56,20.1
+ACT-00160,RSK-00297,Complete regulatory control review,Action Owner 19,High,In Progress,2026-12-29,32,19.85
+ACT-00161,RSK-00301,Execute user adoption program,Action Owner 14,Critical,Completed,2026-11-21,30,33.15
+ACT-00162,RSK-00302,Review vendor SLA and dependency risk,Action Owner 13,Medium,Blocked,2026-11-13,10,25.5
+ACT-00163,RSK-00307,Complete migration reconciliation,Action Owner 30,High,Open,2026-12-05,90,35.73
+ACT-00164,RSK-00310,Complete regulatory control review,Action Owner 09,Medium,Completed,2026-10-22,34,32.39
+ACT-00165,RSK-00313,Validate transformation cost controls,Action Owner 09,Critical,Completed,2026-10-28,10,10.52
+ACT-00166,RSK-00315,Complete business continuity test,Action Owner 06,High,Blocked,2026-12-23,96,38.53
+ACT-00167,RSK-00317,Validate transformation cost controls,Action Owner 02,Critical,Completed,2026-11-16,58,9.65
+ACT-00168,RSK-00318,Execute user adoption program,Action Owner 21,Medium,Blocked,2026-11-02,55,19.92
+ACT-00169,RSK-00319,Perform security assessment,Action Owner 18,Critical,Blocked,2026-09-12,33,33.19
+ACT-00170,RSK-00320,Perform architecture review,Action Owner 03,Critical,Open,2026-10-05,34,17.69
+ACT-00171,RSK-00323,Validate transformation cost controls,Action Owner 12,Critical,In Progress,2026-12-27,4,13.57
+ACT-00172,RSK-00327,Review vendor SLA and dependency risk,Action Owner 14,High,In Progress,2026-11-08,16,31.16
+ACT-00173,RSK-00329,Complete regulatory control review,Action Owner 30,Medium,In Progress,2026-12-06,77,19.71
+ACT-00174,RSK-00333,Perform security assessment,Action Owner 24,Medium,In Progress,2026-12-22,35,26.14
+ACT-00175,RSK-00342,Complete migration reconciliation,Action Owner 15,High,Completed,2026-11-30,50,31.93
+ACT-00176,RSK-00343,Perform architecture review,Action Owner 13,Medium,Open,2026-10-18,8,21.33
+ACT-00177,RSK-00344,Complete regulatory control review,Action Owner 13,High,Open,2026-10-10,58,17.71
+ACT-00178,RSK-00346,Review vendor SLA and dependency risk,Action Owner 08,Medium,Open,2026-11-11,4,27.1
+ACT-00179,RSK-00348,Complete regulatory control review,Action Owner 16,Critical,In Progress,2026-09-28,18,23.52
+ACT-00180,RSK-00349,Complete business continuity test,Action Owner 11,Medium,In Progress,2026-11-21,37,22.04
+ACT-00181,RSK-00350,Complete migration reconciliation,Action Owner 24,Medium,Open,2026-12-02,4,26.6
+ACT-00182,RSK-00352,Review vendor SLA and dependency risk,Action Owner 14,High,Open,2026-10-26,57,7.27
+ACT-00183,RSK-00353,Execute user adoption program,Action Owner 26,High,Completed,2026-12-24,39,9.72
+ACT-00184,RSK-00354,Perform architecture review,Action Owner 28,Medium,Open,2026-11-14,79,22.53
+ACT-00185,RSK-00356,Perform security assessment,Action Owner 20,Medium,Completed,2026-11-06,40,34.54
+ACT-00186,RSK-00358,Execute user adoption program,Action Owner 02,Medium,In Progress,2026-10-26,79,37.65
+ACT-00187,RSK-00360,Review vendor SLA and dependency risk,Action Owner 14,Critical,In Progress,2026-09-06,54,30.78
+ACT-00188,RSK-00361,Complete regulatory control review,Action Owner 18,Critical,Completed,2026-12-08,80,41.11
+ACT-00189,RSK-00363,Complete regulatory control review,Action Owner 09,Medium,Blocked,2026-11-12,12,6.12
+ACT-00190,RSK-00368,Execute user adoption program,Action Owner 21,High,In Progress,2026-10-08,29,34.1
+ACT-00191,RSK-00372,Complete regulatory control review,Action Owner 01,Medium,Open,2026-12-05,8,43.1
+ACT-00192,RSK-00375,Complete business continuity test,Action Owner 13,Medium,Open,2026-12-15,53,35.53
+ACT-00193,RSK-00377,Validate transformation cost controls,Action Owner 22,High,Open,2026-10-05,38,43.61
+ACT-00194,RSK-00381,Perform security assessment,Action Owner 11,Medium,In Progress,2026-11-26,86,21.5
+ACT-00195,RSK-00384,Review vendor SLA and dependency risk,Action Owner 06,Critical,Completed,2026-09-11,38,15.85
+ACT-00196,RSK-00385,Complete regulatory control review,Action Owner 20,Medium,In Progress,2026-12-07,70,13.91
+ACT-00197,RSK-00386,Complete migration reconciliation,Action Owner 15,Critical,Completed,2026-11-24,34,42.8
+ACT-00198,RSK-00387,Validate transformation cost controls,Action Owner 24,High,In Progress,2026-09-21,69,15.03
+ACT-00199,RSK-00390,Validate transformation cost controls,Action Owner 22,Critical,In Progress,2026-10-17,98,23.23
+ACT-00200,RSK-00391,Review vendor SLA and dependency risk,Action Owner 19,High,Open,2026-11-11,43,44.51
+ACT-00201,RSK-00392,Perform architecture review,Action Owner 08,High,Completed,2026-10-26,14,37.17
+ACT-00202,RSK-00393,Perform security assessment,Action Owner 05,High,In Progress,2026-12-26,36,32.73
+ACT-00203,RSK-00395,Complete business continuity test,Action Owner 03,Medium,Open,2026-10-05,72,34.65
+ACT-00204,RSK-00396,Complete regulatory control review,Action Owner 28,Medium,Open,2026-12-15,72,28.99
+ACT-00205,RSK-00397,Complete regulatory control review,Action Owner 03,Medium,Open,2026-09-19,51,16.45
+ACT-00206,RSK-00398,Complete migration reconciliation,Action Owner 02,High,In Progress,2026-11-25,68,28.25
+ACT-00207,RSK-00399,Execute user adoption program,Action Owner 26,Medium,Open,2026-12-06,79,12.87
+ACT-00208,RSK-00400,Perform security assessment,Action Owner 23,Medium,Completed,2026-12-11,75,6.56
+ACT-00209,RSK-00401,Complete business continuity test,Action Owner 19,High,In Progress,2026-09-16,75,23.56
+ACT-00210,RSK-00402,Perform architecture review,Action Owner 28,High,In Progress,2026-09-27,69,6.34
+ACT-00211,RSK-00403,Perform security assessment,Action Owner 21,High,Open,2026-12-12,8,26.68
+ACT-00212,RSK-00404,Review vendor SLA and dependency risk,Action Owner 02,High,Completed,2026-11-19,3,42.94
+ACT-00213,RSK-00405,Validate transformation cost controls,Action Owner 30,High,Open,2026-09-17,33,33.34
+ACT-00214,RSK-00406,Complete regulatory control review,Action Owner 20,Medium,Open,2026-10-17,36,33.25
+ACT-00215,RSK-00410,Complete business continuity test,Action Owner 07,Medium,Open,2026-12-19,38,31.24
+ACT-00216,RSK-00412,Review vendor SLA and dependency risk,Action Owner 23,Medium,Open,2026-12-25,36,29.95
+ACT-00217,RSK-00414,Validate transformation cost controls,Action Owner 11,High,Blocked,2026-10-16,18,29.75
+ACT-00218,RSK-00417,Validate transformation cost controls,Action Owner 29,Medium,Open,2026-12-28,70,39.93
+ACT-00219,RSK-00421,Validate transformation cost controls,Action Owner 13,Medium,Blocked,2026-10-11,43,31.06
+ACT-00220,RSK-00426,Execute user adoption program,Action Owner 09,Medium,In Progress,2026-09-27,22,32.71
+ACT-00221,RSK-00429,Complete migration reconciliation,Action Owner 01,Medium,Open,2026-10-05,62,17.23
+ACT-00222,RSK-00430,Execute user adoption program,Action Owner 24,Medium,Open,2026-10-02,8,11.71
+ACT-00223,RSK-00431,Review vendor SLA and dependency risk,Action Owner 19,Medium,In Progress,2026-09-30,51,28.89
+ACT-00224,RSK-00432,Complete business continuity test,Action Owner 23,Medium,In Progress,2026-12-22,89,41.17
+ACT-00225,RSK-00436,Perform security assessment,Action Owner 09,Medium,Completed,2026-12-08,68,19.4
+ACT-00226,RSK-00438,Complete migration reconciliation,Action Owner 10,Medium,Open,2026-12-23,28,32.64
+ACT-00227,RSK-00440,Complete business continuity test,Action Owner 08,Medium,Completed,2026-11-22,51,38.94
+ACT-00228,RSK-00441,Complete regulatory control review,Action Owner 12,Medium,In Progress,2026-09-10,21,26.0
+ACT-00229,RSK-00442,Execute user adoption program,Action Owner 05,Medium,Completed,2026-11-23,90,38.56
+ACT-00230,RSK-00445,Perform security assessment,Action Owner 21,Medium,Completed,2026-10-21,45,43.91
+ACT-00231,RSK-00447,Validate transformation cost controls,Action Owner 28,Medium,Blocked,2026-11-21,95,31.65
+ACT-00232,RSK-00451,Validate transformation cost controls,Action Owner 11,Medium,Open,2026-12-14,12,10.41
+ACT-00233,RSK-00452,Complete migration reconciliation,Action Owner 11,Critical,Open,2026-11-21,96,27.37
+ACT-00234,RSK-00455,Complete regulatory control review,Action Owner 25,Medium,Completed,2026-12-04,41,37.61
+ACT-00235,RSK-00457,Complete business continuity test,Action Owner 17,High,Blocked,2026-11-09,72,32.08
+ACT-00236,RSK-00458,Perform architecture review,Action Owner 07,Critical,Open,2026-09-06,51,33.39
+ACT-00237,RSK-00461,Execute user adoption program,Action Owner 23,Critical,Open,2026-10-07,95,21.53
+ACT-00238,RSK-00462,Complete regulatory control review,Action Owner 24,Medium,In Progress,2026-11-01,90,43.48
+ACT-00239,RSK-00464,Complete business continuity test,Action Owner 22,High,In Progress,2026-09-22,57,17.77
+ACT-00240,RSK-00465,Perform security assessment,Action Owner 22,Medium,In Progress,2026-12-14,4,8.34
+ACT-00241,RSK-00467,Validate transformation cost controls,Action Owner 15,Medium,In Progress,2026-11-13,84,23.31
+ACT-00242,RSK-00469,Execute user adoption program,Action Owner 21,Medium,Blocked,2026-11-27,29,32.69
+ACT-00243,RSK-00470,Complete regulatory control review,Action Owner 17,Critical,Completed,2026-12-24,91,33.12
+ACT-00244,RSK-00472,Execute user adoption program,Action Owner 02,High,Open,2026-11-11,89,40.28
+ACT-00245,RSK-00473,Complete business continuity test,Action Owner 22,High,Open,2026-09-27,54,35.24
+ACT-00246,RSK-00475,Perform security assessment,Action Owner 02,Medium,In Progress,2026-09-20,86,44.22
+ACT-00247,RSK-00476,Perform architecture review,Action Owner 04,Medium,In Progress,2026-12-26,22,22.97
+ACT-00248,RSK-00478,Review vendor SLA and dependency risk,Action Owner 23,Medium,Open,2026-09-07,52,44.56
+ACT-00249,RSK-00479,Complete regulatory control review,Action Owner 30,High,In Progress,2026-10-11,7,28.1
+ACT-00250,RSK-00480,Validate transformation cost controls,Action Owner 17,Medium,Blocked,2026-12-09,21,23.51
+ACT-00251,RSK-00481,Complete business continuity test,Action Owner 06,Critical,Open,2026-11-30,6,15.58
+ACT-00252,RSK-00483,Complete business continuity test,Action Owner 01,Medium,Open,2026-12-13,84,23.08
+ACT-00253,RSK-00485,Perform architecture review,Action Owner 16,Medium,Open,2026-10-28,75,34.03
+ACT-00254,RSK-00487,Complete migration reconciliation,Action Owner 23,Medium,Completed,2026-10-05,19,29.09
+ACT-00255,RSK-00489,Validate transformation cost controls,Action Owner 19,High,Blocked,2026-09-25,73,10.07
+ACT-00256,RSK-00492,Review vendor SLA and dependency risk,Action Owner 08,Critical,Completed,2026-10-21,37,28.15
+ACT-00257,RSK-00494,Complete business continuity test,Action Owner 12,Medium,Blocked,2026-09-10,35,21.77
+ACT-00258,RSK-00495,Perform security assessment,Action Owner 07,High,In Progress,2026-11-15,93,41.11
+ACT-00259,RSK-00498,Execute user adoption program,Action Owner 20,High,In Progress,2026-10-10,55,6.77
+ACT-00260,RSK-00499,Perform security assessment,Action Owner 10,High,Open,2026-10-13,30,16.34
+ACT-00261,RSK-00501,Complete migration reconciliation,Action Owner 08,High,In Progress,2026-12-21,25,13.26
+ACT-00262,RSK-00503,Review vendor SLA and dependency risk,Action Owner 18,Critical,In Progress,2026-11-03,69,40.43
+ACT-00263,RSK-00507,Complete regulatory control review,Action Owner 18,High,Open,2026-10-06,34,20.66
+ACT-00264,RSK-00509,Execute user adoption program,Action Owner 10,Medium,In Progress,2026-10-01,40,32.53
+ACT-00265,RSK-00511,Review vendor SLA and dependency risk,Action Owner 21,Critical,In Progress,2026-12-11,97,32.6
+ACT-00266,RSK-00513,Validate transformation cost controls,Action Owner 06,High,Completed,2026-09-14,69,27.87
+ACT-00267,RSK-00515,Complete business continuity test,Action Owner 19,Medium,Open,2026-12-25,76,25.38
+ACT-00268,RSK-00516,Execute user adoption program,Action Owner 17,Critical,Blocked,2026-10-21,97,21.53
+ACT-00269,RSK-00517,Perform architecture review,Action Owner 12,High,Completed,2026-09-27,67,39.0
+ACT-00270,RSK-00518,Review vendor SLA and dependency risk,Action Owner 19,Medium,Blocked,2026-12-21,15,29.99
+ACT-00271,RSK-00519,Perform security assessment,Action Owner 16,Medium,In Progress,2026-12-23,20,5.88
+ACT-00272,RSK-00521,Review vendor SLA and dependency risk,Action Owner 22,High,Open,2026-11-13,100,20.91
+ACT-00273,RSK-00523,Execute user adoption program,Action Owner 12,High,Blocked,2026-11-26,43,43.93
+ACT-00274,RSK-00525,Perform architecture review,Action Owner 07,Critical,Open,2026-10-03,73,27.96
+ACT-00275,RSK-00528,Perform architecture review,Action Owner 26,Medium,Completed,2026-10-14,33,41.84
+ACT-00276,RSK-00530,Complete migration reconciliation,Action Owner 25,High,Open,2026-11-25,2,31.22
+ACT-00277,RSK-00531,Validate transformation cost controls,Action Owner 29,High,Open,2026-11-15,93,29.31
+ACT-00278,RSK-00533,Complete business continuity test,Action Owner 30,Medium,In Progress,2026-12-21,57,19.92
+ACT-00279,RSK-00534,Perform security assessment,Action Owner 21,Medium,Blocked,2026-09-26,100,19.58
+ACT-00280,RSK-00536,Complete migration reconciliation,Action Owner 15,Medium,Open,2026-09-23,50,7.09
+ACT-00281,RSK-00538,Review vendor SLA and dependency risk,Action Owner 12,Medium,Completed,2026-11-14,84,32.51
+ACT-00282,RSK-00539,Execute user adoption program,Action Owner 17,High,Open,2026-12-03,67,27.7
+ACT-00283,RSK-00540,Perform architecture review,Action Owner 23,Medium,Open,2026-12-01,83,42.59
+ACT-00284,RSK-00544,Perform security assessment,Action Owner 20,Medium,Open,2026-11-29,87,11.28
+ACT-00285,RSK-00547,Validate transformation cost controls,Action Owner 15,Critical,In Progress,2026-12-12,42,34.9
+ACT-00286,RSK-00552,Review vendor SLA and dependency risk,Action Owner 04,High,Open,2026-11-02,64,21.04
+ACT-00287,RSK-00554,Perform security assessment,Action Owner 06,Critical,Open,2026-12-27,75,42.97
+ACT-00288,RSK-00556,Perform architecture review,Action Owner 14,Medium,In Progress,2026-11-24,87,16.11
+ACT-00289,RSK-00557,Complete regulatory control review,Action Owner 21,Medium,Open,2026-12-29,71,20.72
+ACT-00290,RSK-00558,Perform security assessment,Action Owner 18,High,Completed,2026-10-29,84,32.67
+ACT-00291,RSK-00560,Execute user adoption program,Action Owner 04,High,Blocked,2026-12-09,90,17.65
+ACT-00292,RSK-00561,Review vendor SLA and dependency risk,Action Owner 06,Medium,Open,2026-10-11,51,41.75
+ACT-00293,RSK-00564,Complete migration reconciliation,Action Owner 17,High,Open,2026-09-09,54,7.53
+ACT-00294,RSK-00567,Complete regulatory control review,Action Owner 26,Medium,In Progress,2026-11-25,66,24.03
+ACT-00295,RSK-00568,Perform architecture review,Action Owner 25,Medium,In Progress,2026-12-25,8,28.38
+ACT-00296,RSK-00569,Perform security assessment,Action Owner 09,Medium,Completed,2026-11-23,37,21.01
+ACT-00297,RSK-00571,Review vendor SLA and dependency risk,Action Owner 04,High,In Progress,2026-10-14,67,19.19
+ACT-00298,RSK-00573,Complete regulatory control review,Action Owner 10,Critical,Open,2026-11-17,18,7.03
+ACT-00299,RSK-00577,Perform security assessment,Action Owner 01,Medium,In Progress,2026-11-18,80,31.99
+ACT-00300,RSK-00578,Review vendor SLA and dependency risk,Action Owner 13,Medium,Open,2026-12-17,81,41.04
+ACT-00301,RSK-00579,Perform architecture review,Action Owner 06,High,In Progress,2026-10-19,55,44.26
+ACT-00302,RSK-00580,Complete business continuity test,Action Owner 10,Critical,Open,2026-12-02,31,21.88
+ACT-00303,RSK-00582,Complete regulatory control review,Action Owner 04,Medium,In Progress,2026-10-05,64,28.06
+ACT-00304,RSK-00583,Complete business continuity test,Action Owner 06,High,In Progress,2026-12-11,39,24.87
+ACT-00305,RSK-00585,Validate transformation cost controls,Action Owner 13,Medium,Open,2026-11-13,17,20.43
+ACT-00306,RSK-00587,Execute user adoption program,Action Owner 17,Critical,In Progress,2026-10-25,8,22.4
+ACT-00307,RSK-00588,Perform security assessment,Action Owner 21,High,Completed,2026-10-24,6,26.6
+ACT-00308,RSK-00589,Complete regulatory control review,Action Owner 22,High,Blocked,2026-12-02,89,25.15
+ACT-00309,RSK-00590,Complete migration reconciliation,Action Owner 24,Medium,In Progress,2026-11-04,84,42.3
+ACT-00310,RSK-00592,Complete regulatory control review,Action Owner 09,Medium,Completed,2026-11-26,69,32.43
+ACT-00311,RSK-00596,Perform architecture review,Action Owner 21,Medium,Completed,2026-11-20,95,39.27
+ACT-00312,RSK-00598,Perform architecture review,Action Owner 07,Medium,Completed,2026-10-08,53,43.67
+ACT-00313,RSK-00599,Complete business continuity test,Action Owner 20,Medium,In Progress,2026-11-05,79,14.36
+ACT-00314,RSK-00602,Complete migration reconciliation,Action Owner 07,Medium,Completed,2026-09-08,45,35.52
+ACT-00315,RSK-00604,Complete regulatory control review,Action Owner 20,High,Completed,2026-10-23,94,11.89
+ACT-00316,RSK-00606,Complete migration reconciliation,Action Owner 01,Critical,In Progress,2026-10-12,93,5.88
+ACT-00317,RSK-00607,Complete business continuity test,Action Owner 26,High,In Progress,2026-10-10,11,36.69
+ACT-00318,RSK-00609,Validate transformation cost controls,Action Owner 30,Critical,Blocked,2026-09-23,50,8.16
+ACT-00319,RSK-00619,Complete business continuity test,Action Owner 06,Critical,In Progress,2026-09-11,50,25.9
+ACT-00320,RSK-00620,Review vendor SLA and dependency risk,Action Owner 10,Critical,Completed,2026-10-27,81,6.02
+ACT-00321,RSK-00621,Execute user adoption program,Action Owner 13,Medium,Open,2026-11-03,80,22.97
+ACT-00322,RSK-00624,Validate transformation cost controls,Action Owner 25,Medium,Completed,2026-09-26,79,35.95
+ACT-00323,RSK-00627,Perform architecture review,Action Owner 17,Critical,Completed,2026-09-19,71,13.28
+ACT-00324,RSK-00629,Complete regulatory control review,Action Owner 01,Medium,In Progress,2026-12-17,63,11.38
+ACT-00325,RSK-00631,Complete business continuity test,Action Owner 16,High,Open,2026-12-20,1,36.11
+ACT-00326,RSK-00632,Perform security assessment,Action Owner 27,Medium,In Progress,2026-11-13,34,27.77
+ACT-00327,RSK-00633,Execute user adoption program,Action Owner 09,Medium,Blocked,2026-11-04,86,16.52
+ACT-00328,RSK-00640,Perform security assessment,Action Owner 30,Medium,Open,2026-11-08,48,19.63
+ACT-00329,RSK-00642,Complete business continuity test,Action Owner 19,Medium,Open,2026-09-12,84,37.83
+ACT-00330,RSK-00644,Execute user adoption program,Action Owner 22,Critical,In Progress,2026-10-06,42,12.88
+ACT-00331,RSK-00647,Perform security assessment,Action Owner 02,Medium,Open,2026-10-04,95,9.49
+ACT-00332,RSK-00648,Perform architecture review,Action Owner 03,High,Open,2026-09-27,29,43.97
+ACT-00333,RSK-00649,Complete regulatory control review,Action Owner 10,High,In Progress,2026-12-13,75,27.04
+ACT-00334,RSK-00652,Validate transformation cost controls,Action Owner 11,High,Completed,2026-11-19,57,36.67
+ACT-00335,RSK-00653,Perform security assessment,Action Owner 22,Medium,In Progress,2026-12-15,74,17.0
+ACT-00336,RSK-00655,Complete business continuity test,Action Owner 14,Medium,Completed,2026-10-04,17,21.62
+ACT-00337,RSK-00661,Perform architecture review,Action Owner 08,High,Blocked,2026-12-24,81,21.01
+ACT-00338,RSK-00664,Complete regulatory control review,Action Owner 20,Medium,In Progress,2026-10-05,0,28.36
+ACT-00339,RSK-00667,Execute user adoption program,Action Owner 05,Medium,Completed,2026-11-12,36,10.61

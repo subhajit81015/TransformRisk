@@ -1,0 +1,668 @@
+risk_id,initiative_id,risk_name,risk_domain,description,likelihood,impact,control_effectiveness,status
+RSK-00001,TR-0001,Compliance risk for Cloud Migration Program 001,Compliance,Potential compliance risk associated with the transformation.,3,3,89.66,Monitoring
+RSK-00002,TR-0001,Operational risk for Cloud Migration Program 001,Operational,Potential operational risk associated with the transformation.,4,5,76.19,Open
+RSK-00003,TR-0001,Financial risk for Cloud Migration Program 001,Financial,Potential financial risk associated with the transformation.,4,2,67.44,Accepted
+RSK-00004,TR-0001,People & Change risk for Cloud Migration Program 001,People & Change,Potential people & change risk associated with the transformation.,3,3,27.33,Accepted
+RSK-00005,TR-0001,Cybersecurity risk for Cloud Migration Program 001,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,1,40.99,Open
+RSK-00006,TR-0001,Vendor & Dependency risk for Cloud Migration Program 001,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,45.32,Open
+RSK-00007,TR-0001,Data risk for Cloud Migration Program 001,Data,Potential data risk associated with the transformation.,2,3,28.93,Monitoring
+RSK-00008,TR-0001,Technology risk for Cloud Migration Program 001,Technology,Potential technology risk associated with the transformation.,3,3,50.62,Open
+RSK-00009,TR-0002,Compliance risk for Legacy Application Replacement Program 002,Compliance,Potential compliance risk associated with the transformation.,3,4,79.68,Open
+RSK-00010,TR-0002,Cybersecurity risk for Legacy Application Replacement Program 002,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,56.19,Monitoring
+RSK-00011,TR-0002,People & Change risk for Legacy Application Replacement Program 002,People & Change,Potential people & change risk associated with the transformation.,3,3,85.48,Open
+RSK-00012,TR-0002,Financial risk for Legacy Application Replacement Program 002,Financial,Potential financial risk associated with the transformation.,3,4,34.78,Open
+RSK-00013,TR-0002,Data risk for Legacy Application Replacement Program 002,Data,Potential data risk associated with the transformation.,2,5,25.6,Open
+RSK-00014,TR-0002,Operational risk for Legacy Application Replacement Program 002,Operational,Potential operational risk associated with the transformation.,1,2,65.31,Open
+RSK-00015,TR-0002,Vendor & Dependency risk for Legacy Application Replacement Program 002,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,80.21,Open
+RSK-00016,TR-0002,Technology risk for Legacy Application Replacement Program 002,Technology,Potential technology risk associated with the transformation.,5,4,35.58,Monitoring
+RSK-00017,TR-0003,Operational risk for Data Platform Modernization Program 003,Operational,Potential operational risk associated with the transformation.,3,4,64.05,Open
+RSK-00018,TR-0003,Cybersecurity risk for Data Platform Modernization Program 003,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,30.08,Open
+RSK-00019,TR-0003,Data risk for Data Platform Modernization Program 003,Data,Potential data risk associated with the transformation.,3,1,35.76,Monitoring
+RSK-00020,TR-0003,Technology risk for Data Platform Modernization Program 003,Technology,Potential technology risk associated with the transformation.,4,4,45.61,Mitigated
+RSK-00021,TR-0003,People & Change risk for Data Platform Modernization Program 003,People & Change,Potential people & change risk associated with the transformation.,4,2,34.34,Monitoring
+RSK-00022,TR-0003,Compliance risk for Data Platform Modernization Program 003,Compliance,Potential compliance risk associated with the transformation.,2,4,89.47,Open
+RSK-00023,TR-0003,Financial risk for Data Platform Modernization Program 003,Financial,Potential financial risk associated with the transformation.,1,5,63.0,Open
+RSK-00024,TR-0003,Vendor & Dependency risk for Data Platform Modernization Program 003,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,5,59.85,Monitoring
+RSK-00025,TR-0004,Data risk for AI Process Automation Program 004,Data,Potential data risk associated with the transformation.,4,3,81.8,Open
+RSK-00026,TR-0004,People & Change risk for AI Process Automation Program 004,People & Change,Potential people & change risk associated with the transformation.,4,4,50.75,Monitoring
+RSK-00027,TR-0004,Technology risk for AI Process Automation Program 004,Technology,Potential technology risk associated with the transformation.,4,4,74.3,Accepted
+RSK-00028,TR-0004,Compliance risk for AI Process Automation Program 004,Compliance,Potential compliance risk associated with the transformation.,3,4,25.81,Monitoring
+RSK-00029,TR-0004,Financial risk for AI Process Automation Program 004,Financial,Potential financial risk associated with the transformation.,3,3,31.11,Mitigated
+RSK-00030,TR-0004,Operational risk for AI Process Automation Program 004,Operational,Potential operational risk associated with the transformation.,3,4,34.71,Accepted
+RSK-00031,TR-0004,Vendor & Dependency risk for AI Process Automation Program 004,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,2,80.83,Mitigated
+RSK-00032,TR-0004,Cybersecurity risk for AI Process Automation Program 004,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,72.68,Mitigated
+RSK-00033,TR-0005,Vendor & Dependency risk for Data Platform Modernization Program 005,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,5,76.88,Open
+RSK-00034,TR-0005,Technology risk for Data Platform Modernization Program 005,Technology,Potential technology risk associated with the transformation.,3,4,26.5,Accepted
+RSK-00035,TR-0005,Data risk for Data Platform Modernization Program 005,Data,Potential data risk associated with the transformation.,3,4,82.69,Open
+RSK-00036,TR-0005,Cybersecurity risk for Data Platform Modernization Program 005,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,62.76,Open
+RSK-00037,TR-0005,People & Change risk for Data Platform Modernization Program 005,People & Change,Potential people & change risk associated with the transformation.,4,5,55.4,Open
+RSK-00038,TR-0005,Compliance risk for Data Platform Modernization Program 005,Compliance,Potential compliance risk associated with the transformation.,3,3,33.52,Open
+RSK-00039,TR-0005,Financial risk for Data Platform Modernization Program 005,Financial,Potential financial risk associated with the transformation.,4,3,87.07,Open
+RSK-00040,TR-0006,Financial risk for Legacy Application Replacement Program 006,Financial,Potential financial risk associated with the transformation.,2,4,55.45,Open
+RSK-00041,TR-0006,Technology risk for Legacy Application Replacement Program 006,Technology,Potential technology risk associated with the transformation.,1,3,87.36,Monitoring
+RSK-00042,TR-0006,People & Change risk for Legacy Application Replacement Program 006,People & Change,Potential people & change risk associated with the transformation.,3,2,41.41,Open
+RSK-00043,TR-0006,Vendor & Dependency risk for Legacy Application Replacement Program 006,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,5,83.61,Accepted
+RSK-00044,TR-0006,Cybersecurity risk for Legacy Application Replacement Program 006,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,5,29.67,Open
+RSK-00045,TR-0007,Data risk for AI Process Automation Program 007,Data,Potential data risk associated with the transformation.,2,5,62.97,Monitoring
+RSK-00046,TR-0007,Operational risk for AI Process Automation Program 007,Operational,Potential operational risk associated with the transformation.,3,3,51.32,Monitoring
+RSK-00047,TR-0007,Technology risk for AI Process Automation Program 007,Technology,Potential technology risk associated with the transformation.,4,3,86.2,Open
+RSK-00048,TR-0007,People & Change risk for AI Process Automation Program 007,People & Change,Potential people & change risk associated with the transformation.,5,2,42.2,Mitigated
+RSK-00049,TR-0007,Vendor & Dependency risk for AI Process Automation Program 007,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,3,54.24,Open
+RSK-00050,TR-0007,Cybersecurity risk for AI Process Automation Program 007,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,5,81.85,Open
+RSK-00051,TR-0007,Financial risk for AI Process Automation Program 007,Financial,Potential financial risk associated with the transformation.,3,3,40.91,Open
+RSK-00052,TR-0007,Compliance risk for AI Process Automation Program 007,Compliance,Potential compliance risk associated with the transformation.,5,5,75.53,Open
+RSK-00053,TR-0008,Operational risk for AI Process Automation Program 008,Operational,Potential operational risk associated with the transformation.,5,3,86.96,Open
+RSK-00054,TR-0008,Financial risk for AI Process Automation Program 008,Financial,Potential financial risk associated with the transformation.,4,3,41.46,Open
+RSK-00055,TR-0008,Technology risk for AI Process Automation Program 008,Technology,Potential technology risk associated with the transformation.,2,5,45.9,Monitoring
+RSK-00056,TR-0008,Data risk for AI Process Automation Program 008,Data,Potential data risk associated with the transformation.,3,3,59.57,Open
+RSK-00057,TR-0008,Cybersecurity risk for AI Process Automation Program 008,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,5,73.2,Open
+RSK-00058,TR-0008,People & Change risk for AI Process Automation Program 008,People & Change,Potential people & change risk associated with the transformation.,2,5,47.19,Open
+RSK-00059,TR-0009,Vendor & Dependency risk for Data Platform Modernization Program 009,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,5,53.47,Monitoring
+RSK-00060,TR-0009,Data risk for Data Platform Modernization Program 009,Data,Potential data risk associated with the transformation.,1,5,43.26,Open
+RSK-00061,TR-0009,Technology risk for Data Platform Modernization Program 009,Technology,Potential technology risk associated with the transformation.,3,2,34.9,Monitoring
+RSK-00062,TR-0009,Operational risk for Data Platform Modernization Program 009,Operational,Potential operational risk associated with the transformation.,3,5,45.75,Monitoring
+RSK-00063,TR-0009,Compliance risk for Data Platform Modernization Program 009,Compliance,Potential compliance risk associated with the transformation.,3,4,63.98,Open
+RSK-00064,TR-0010,Data risk for Cloud Migration Program 010,Data,Potential data risk associated with the transformation.,5,4,89.47,Open
+RSK-00065,TR-0010,Operational risk for Cloud Migration Program 010,Operational,Potential operational risk associated with the transformation.,4,3,86.59,Open
+RSK-00066,TR-0010,Financial risk for Cloud Migration Program 010,Financial,Potential financial risk associated with the transformation.,4,3,61.52,Monitoring
+RSK-00067,TR-0010,Technology risk for Cloud Migration Program 010,Technology,Potential technology risk associated with the transformation.,3,5,52.25,Monitoring
+RSK-00068,TR-0010,Cybersecurity risk for Cloud Migration Program 010,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,53.6,Open
+RSK-00069,TR-0010,Vendor & Dependency risk for Cloud Migration Program 010,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,4,67.61,Monitoring
+RSK-00070,TR-0010,People & Change risk for Cloud Migration Program 010,People & Change,Potential people & change risk associated with the transformation.,1,3,37.86,Monitoring
+RSK-00071,TR-0010,Compliance risk for Cloud Migration Program 010,Compliance,Potential compliance risk associated with the transformation.,5,3,68.41,Open
+RSK-00072,TR-0011,Technology risk for Cybersecurity Modernization Program 011,Technology,Potential technology risk associated with the transformation.,5,4,41.58,Monitoring
+RSK-00073,TR-0011,Cybersecurity risk for Cybersecurity Modernization Program 011,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,50.98,Monitoring
+RSK-00074,TR-0011,Compliance risk for Cybersecurity Modernization Program 011,Compliance,Potential compliance risk associated with the transformation.,1,3,81.88,Monitoring
+RSK-00075,TR-0011,Operational risk for Cybersecurity Modernization Program 011,Operational,Potential operational risk associated with the transformation.,3,5,80.51,Open
+RSK-00076,TR-0011,Data risk for Cybersecurity Modernization Program 011,Data,Potential data risk associated with the transformation.,3,3,66.09,Open
+RSK-00077,TR-0011,Financial risk for Cybersecurity Modernization Program 011,Financial,Potential financial risk associated with the transformation.,3,5,85.05,Mitigated
+RSK-00078,TR-0011,People & Change risk for Cybersecurity Modernization Program 011,People & Change,Potential people & change risk associated with the transformation.,5,4,74.7,Monitoring
+RSK-00079,TR-0011,Vendor & Dependency risk for Cybersecurity Modernization Program 011,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,3,40.61,Monitoring
+RSK-00080,TR-0012,Cybersecurity risk for Data Platform Modernization Program 012,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,1,46.85,Monitoring
+RSK-00081,TR-0012,Data risk for Data Platform Modernization Program 012,Data,Potential data risk associated with the transformation.,4,2,75.33,Open
+RSK-00082,TR-0012,Financial risk for Data Platform Modernization Program 012,Financial,Potential financial risk associated with the transformation.,3,5,37.52,Open
+RSK-00083,TR-0012,Vendor & Dependency risk for Data Platform Modernization Program 012,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,85.64,Accepted
+RSK-00084,TR-0012,People & Change risk for Data Platform Modernization Program 012,People & Change,Potential people & change risk associated with the transformation.,2,2,76.4,Open
+RSK-00085,TR-0012,Technology risk for Data Platform Modernization Program 012,Technology,Potential technology risk associated with the transformation.,5,4,32.27,Mitigated
+RSK-00086,TR-0012,Operational risk for Data Platform Modernization Program 012,Operational,Potential operational risk associated with the transformation.,2,3,60.89,Open
+RSK-00087,TR-0013,Compliance risk for CRM Transformation Program 013,Compliance,Potential compliance risk associated with the transformation.,5,3,54.98,Open
+RSK-00088,TR-0013,Data risk for CRM Transformation Program 013,Data,Potential data risk associated with the transformation.,2,4,47.97,Monitoring
+RSK-00089,TR-0013,Cybersecurity risk for CRM Transformation Program 013,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,5,52.08,Open
+RSK-00090,TR-0013,Financial risk for CRM Transformation Program 013,Financial,Potential financial risk associated with the transformation.,4,5,56.93,Mitigated
+RSK-00091,TR-0013,People & Change risk for CRM Transformation Program 013,People & Change,Potential people & change risk associated with the transformation.,2,5,31.25,Open
+RSK-00092,TR-0013,Operational risk for CRM Transformation Program 013,Operational,Potential operational risk associated with the transformation.,3,2,28.43,Open
+RSK-00093,TR-0013,Technology risk for CRM Transformation Program 013,Technology,Potential technology risk associated with the transformation.,3,4,27.26,Monitoring
+RSK-00094,TR-0013,Vendor & Dependency risk for CRM Transformation Program 013,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,2,34.55,Mitigated
+RSK-00095,TR-0014,Technology risk for Data Platform Modernization Program 014,Technology,Potential technology risk associated with the transformation.,3,4,57.77,Monitoring
+RSK-00096,TR-0014,People & Change risk for Data Platform Modernization Program 014,People & Change,Potential people & change risk associated with the transformation.,3,3,39.25,Open
+RSK-00097,TR-0014,Compliance risk for Data Platform Modernization Program 014,Compliance,Potential compliance risk associated with the transformation.,4,2,30.59,Open
+RSK-00098,TR-0014,Operational risk for Data Platform Modernization Program 014,Operational,Potential operational risk associated with the transformation.,2,5,50.9,Accepted
+RSK-00099,TR-0014,Financial risk for Data Platform Modernization Program 014,Financial,Potential financial risk associated with the transformation.,2,4,54.17,Open
+RSK-00100,TR-0014,Cybersecurity risk for Data Platform Modernization Program 014,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,5,81.74,Open
+RSK-00101,TR-0015,Vendor & Dependency risk for CRM Transformation Program 015,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,1,28.21,Monitoring
+RSK-00102,TR-0015,Compliance risk for CRM Transformation Program 015,Compliance,Potential compliance risk associated with the transformation.,3,3,52.21,Monitoring
+RSK-00103,TR-0015,Data risk for CRM Transformation Program 015,Data,Potential data risk associated with the transformation.,4,4,50.05,Open
+RSK-00104,TR-0015,Cybersecurity risk for CRM Transformation Program 015,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,61.67,Monitoring
+RSK-00105,TR-0015,People & Change risk for CRM Transformation Program 015,People & Change,Potential people & change risk associated with the transformation.,2,1,38.8,Mitigated
+RSK-00106,TR-0015,Financial risk for CRM Transformation Program 015,Financial,Potential financial risk associated with the transformation.,4,2,82.87,Open
+RSK-00107,TR-0015,Technology risk for CRM Transformation Program 015,Technology,Potential technology risk associated with the transformation.,3,5,28.87,Open
+RSK-00108,TR-0016,Technology risk for ERP Modernization Program 016,Technology,Potential technology risk associated with the transformation.,3,2,33.75,Mitigated
+RSK-00109,TR-0016,Compliance risk for ERP Modernization Program 016,Compliance,Potential compliance risk associated with the transformation.,3,3,28.59,Open
+RSK-00110,TR-0016,Vendor & Dependency risk for ERP Modernization Program 016,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,38.35,Mitigated
+RSK-00111,TR-0016,Data risk for ERP Modernization Program 016,Data,Potential data risk associated with the transformation.,5,2,31.98,Open
+RSK-00112,TR-0016,Financial risk for ERP Modernization Program 016,Financial,Potential financial risk associated with the transformation.,4,2,80.4,Monitoring
+RSK-00113,TR-0016,Operational risk for ERP Modernization Program 016,Operational,Potential operational risk associated with the transformation.,4,4,89.78,Open
+RSK-00114,TR-0017,Vendor & Dependency risk for Legacy Application Replacement Program 017,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,5,57.41,Open
+RSK-00115,TR-0017,Technology risk for Legacy Application Replacement Program 017,Technology,Potential technology risk associated with the transformation.,5,3,50.84,Monitoring
+RSK-00116,TR-0017,Operational risk for Legacy Application Replacement Program 017,Operational,Potential operational risk associated with the transformation.,2,3,37.56,Open
+RSK-00117,TR-0017,Compliance risk for Legacy Application Replacement Program 017,Compliance,Potential compliance risk associated with the transformation.,5,4,48.31,Open
+RSK-00118,TR-0017,Data risk for Legacy Application Replacement Program 017,Data,Potential data risk associated with the transformation.,3,4,85.24,Mitigated
+RSK-00119,TR-0018,Technology risk for CRM Transformation Program 018,Technology,Potential technology risk associated with the transformation.,3,3,49.61,Open
+RSK-00120,TR-0018,Financial risk for CRM Transformation Program 018,Financial,Potential financial risk associated with the transformation.,2,4,50.29,Open
+RSK-00121,TR-0018,Compliance risk for CRM Transformation Program 018,Compliance,Potential compliance risk associated with the transformation.,4,4,41.73,Mitigated
+RSK-00122,TR-0018,People & Change risk for CRM Transformation Program 018,People & Change,Potential people & change risk associated with the transformation.,5,4,68.48,Open
+RSK-00123,TR-0018,Cybersecurity risk for CRM Transformation Program 018,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,3,85.05,Monitoring
+RSK-00124,TR-0018,Vendor & Dependency risk for CRM Transformation Program 018,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,1,1,69.23,Monitoring
+RSK-00125,TR-0018,Data risk for CRM Transformation Program 018,Data,Potential data risk associated with the transformation.,1,4,80.39,Open
+RSK-00126,TR-0019,Data risk for ERP Modernization Program 019,Data,Potential data risk associated with the transformation.,3,4,42.57,Open
+RSK-00127,TR-0019,Operational risk for ERP Modernization Program 019,Operational,Potential operational risk associated with the transformation.,4,3,59.87,Accepted
+RSK-00128,TR-0019,Technology risk for ERP Modernization Program 019,Technology,Potential technology risk associated with the transformation.,5,5,37.19,Monitoring
+RSK-00129,TR-0019,Cybersecurity risk for ERP Modernization Program 019,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,3,31.57,Mitigated
+RSK-00130,TR-0019,People & Change risk for ERP Modernization Program 019,People & Change,Potential people & change risk associated with the transformation.,3,4,88.84,Monitoring
+RSK-00131,TR-0020,Cybersecurity risk for Data Platform Modernization Program 020,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,1,58.83,Open
+RSK-00132,TR-0020,People & Change risk for Data Platform Modernization Program 020,People & Change,Potential people & change risk associated with the transformation.,4,2,68.44,Open
+RSK-00133,TR-0020,Operational risk for Data Platform Modernization Program 020,Operational,Potential operational risk associated with the transformation.,4,1,55.01,Open
+RSK-00134,TR-0020,Technology risk for Data Platform Modernization Program 020,Technology,Potential technology risk associated with the transformation.,3,2,37.25,Open
+RSK-00135,TR-0020,Financial risk for Data Platform Modernization Program 020,Financial,Potential financial risk associated with the transformation.,2,5,51.32,Mitigated
+RSK-00136,TR-0020,Data risk for Data Platform Modernization Program 020,Data,Potential data risk associated with the transformation.,5,2,67.36,Mitigated
+RSK-00137,TR-0020,Compliance risk for Data Platform Modernization Program 020,Compliance,Potential compliance risk associated with the transformation.,4,3,53.02,Open
+RSK-00138,TR-0020,Vendor & Dependency risk for Data Platform Modernization Program 020,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,5,87.32,Open
+RSK-00139,TR-0021,Operational risk for ERP Modernization Program 021,Operational,Potential operational risk associated with the transformation.,2,2,79.26,Open
+RSK-00140,TR-0021,Data risk for ERP Modernization Program 021,Data,Potential data risk associated with the transformation.,3,5,61.88,Open
+RSK-00141,TR-0021,Vendor & Dependency risk for ERP Modernization Program 021,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,2,87.97,Open
+RSK-00142,TR-0021,Cybersecurity risk for ERP Modernization Program 021,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,3,87.68,Open
+RSK-00143,TR-0021,Technology risk for ERP Modernization Program 021,Technology,Potential technology risk associated with the transformation.,5,4,78.95,Accepted
+RSK-00144,TR-0021,Financial risk for ERP Modernization Program 021,Financial,Potential financial risk associated with the transformation.,4,5,33.25,Monitoring
+RSK-00145,TR-0022,Cybersecurity risk for Data Platform Modernization Program 022,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,50.45,Open
+RSK-00146,TR-0022,Technology risk for Data Platform Modernization Program 022,Technology,Potential technology risk associated with the transformation.,2,4,53.99,Mitigated
+RSK-00147,TR-0022,Compliance risk for Data Platform Modernization Program 022,Compliance,Potential compliance risk associated with the transformation.,4,1,35.24,Open
+RSK-00148,TR-0022,Data risk for Data Platform Modernization Program 022,Data,Potential data risk associated with the transformation.,5,3,58.52,Mitigated
+RSK-00149,TR-0022,People & Change risk for Data Platform Modernization Program 022,People & Change,Potential people & change risk associated with the transformation.,5,3,28.19,Open
+RSK-00150,TR-0022,Financial risk for Data Platform Modernization Program 022,Financial,Potential financial risk associated with the transformation.,2,2,61.96,Mitigated
+RSK-00151,TR-0022,Operational risk for Data Platform Modernization Program 022,Operational,Potential operational risk associated with the transformation.,3,4,38.12,Mitigated
+RSK-00152,TR-0022,Vendor & Dependency risk for Data Platform Modernization Program 022,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,5,86.67,Open
+RSK-00153,TR-0023,Cybersecurity risk for CRM Transformation Program 023,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,4,36.88,Open
+RSK-00154,TR-0023,Technology risk for CRM Transformation Program 023,Technology,Potential technology risk associated with the transformation.,4,4,53.26,Open
+RSK-00155,TR-0023,Data risk for CRM Transformation Program 023,Data,Potential data risk associated with the transformation.,4,2,85.88,Open
+RSK-00156,TR-0023,Operational risk for CRM Transformation Program 023,Operational,Potential operational risk associated with the transformation.,2,3,58.77,Open
+RSK-00157,TR-0023,People & Change risk for CRM Transformation Program 023,People & Change,Potential people & change risk associated with the transformation.,3,5,56.61,Open
+RSK-00158,TR-0024,Data risk for AI Process Automation Program 024,Data,Potential data risk associated with the transformation.,5,3,28.92,Mitigated
+RSK-00159,TR-0024,People & Change risk for AI Process Automation Program 024,People & Change,Potential people & change risk associated with the transformation.,4,4,52.83,Monitoring
+RSK-00160,TR-0024,Vendor & Dependency risk for AI Process Automation Program 024,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,4,47.6,Monitoring
+RSK-00161,TR-0024,Cybersecurity risk for AI Process Automation Program 024,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,5,49.11,Open
+RSK-00162,TR-0024,Technology risk for AI Process Automation Program 024,Technology,Potential technology risk associated with the transformation.,4,4,72.88,Open
+RSK-00163,TR-0024,Operational risk for AI Process Automation Program 024,Operational,Potential operational risk associated with the transformation.,3,4,33.53,Open
+RSK-00164,TR-0024,Financial risk for AI Process Automation Program 024,Financial,Potential financial risk associated with the transformation.,4,4,83.15,Open
+RSK-00165,TR-0024,Compliance risk for AI Process Automation Program 024,Compliance,Potential compliance risk associated with the transformation.,2,5,35.04,Open
+RSK-00166,TR-0025,Vendor & Dependency risk for Cybersecurity Modernization Program 025,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,3,34.58,Open
+RSK-00167,TR-0025,Operational risk for Cybersecurity Modernization Program 025,Operational,Potential operational risk associated with the transformation.,3,2,60.77,Monitoring
+RSK-00168,TR-0025,Financial risk for Cybersecurity Modernization Program 025,Financial,Potential financial risk associated with the transformation.,2,3,75.84,Monitoring
+RSK-00169,TR-0025,Data risk for Cybersecurity Modernization Program 025,Data,Potential data risk associated with the transformation.,4,3,78.34,Open
+RSK-00170,TR-0025,Compliance risk for Cybersecurity Modernization Program 025,Compliance,Potential compliance risk associated with the transformation.,3,2,55.39,Open
+RSK-00171,TR-0025,People & Change risk for Cybersecurity Modernization Program 025,People & Change,Potential people & change risk associated with the transformation.,3,4,45.4,Open
+RSK-00172,TR-0026,Data risk for Data Platform Modernization Program 026,Data,Potential data risk associated with the transformation.,4,5,57.37,Monitoring
+RSK-00173,TR-0026,Compliance risk for Data Platform Modernization Program 026,Compliance,Potential compliance risk associated with the transformation.,5,5,64.88,Mitigated
+RSK-00174,TR-0026,Vendor & Dependency risk for Data Platform Modernization Program 026,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,4,54.96,Open
+RSK-00175,TR-0026,Operational risk for Data Platform Modernization Program 026,Operational,Potential operational risk associated with the transformation.,1,3,57.13,Open
+RSK-00176,TR-0026,Technology risk for Data Platform Modernization Program 026,Technology,Potential technology risk associated with the transformation.,4,4,79.38,Open
+RSK-00177,TR-0027,Cybersecurity risk for Cloud Migration Program 027,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,3,51.11,Open
+RSK-00178,TR-0027,Data risk for Cloud Migration Program 027,Data,Potential data risk associated with the transformation.,4,5,47.4,Monitoring
+RSK-00179,TR-0027,Compliance risk for Cloud Migration Program 027,Compliance,Potential compliance risk associated with the transformation.,3,2,37.69,Open
+RSK-00180,TR-0027,People & Change risk for Cloud Migration Program 027,People & Change,Potential people & change risk associated with the transformation.,5,3,79.22,Monitoring
+RSK-00181,TR-0027,Technology risk for Cloud Migration Program 027,Technology,Potential technology risk associated with the transformation.,2,2,77.78,Open
+RSK-00182,TR-0028,Technology risk for CRM Transformation Program 028,Technology,Potential technology risk associated with the transformation.,3,3,53.11,Open
+RSK-00183,TR-0028,Vendor & Dependency risk for CRM Transformation Program 028,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,49.59,Mitigated
+RSK-00184,TR-0028,Operational risk for CRM Transformation Program 028,Operational,Potential operational risk associated with the transformation.,3,1,62.13,Accepted
+RSK-00185,TR-0028,Compliance risk for CRM Transformation Program 028,Compliance,Potential compliance risk associated with the transformation.,1,3,58.73,Mitigated
+RSK-00186,TR-0028,Financial risk for CRM Transformation Program 028,Financial,Potential financial risk associated with the transformation.,2,3,73.56,Open
+RSK-00187,TR-0028,Data risk for CRM Transformation Program 028,Data,Potential data risk associated with the transformation.,2,2,51.65,Open
+RSK-00188,TR-0028,Cybersecurity risk for CRM Transformation Program 028,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,4,69.88,Accepted
+RSK-00189,TR-0028,People & Change risk for CRM Transformation Program 028,People & Change,Potential people & change risk associated with the transformation.,3,3,85.02,Open
+RSK-00190,TR-0029,Cybersecurity risk for CRM Transformation Program 029,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,5,77.18,Open
+RSK-00191,TR-0029,Financial risk for CRM Transformation Program 029,Financial,Potential financial risk associated with the transformation.,3,3,33.78,Mitigated
+RSK-00192,TR-0029,Operational risk for CRM Transformation Program 029,Operational,Potential operational risk associated with the transformation.,3,3,80.03,Open
+RSK-00193,TR-0029,Compliance risk for CRM Transformation Program 029,Compliance,Potential compliance risk associated with the transformation.,1,2,66.55,Monitoring
+RSK-00194,TR-0029,Technology risk for CRM Transformation Program 029,Technology,Potential technology risk associated with the transformation.,3,5,80.31,Mitigated
+RSK-00195,TR-0029,People & Change risk for CRM Transformation Program 029,People & Change,Potential people & change risk associated with the transformation.,3,2,81.38,Open
+RSK-00196,TR-0029,Vendor & Dependency risk for CRM Transformation Program 029,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,33.34,Monitoring
+RSK-00197,TR-0029,Data risk for CRM Transformation Program 029,Data,Potential data risk associated with the transformation.,5,4,53.68,Mitigated
+RSK-00198,TR-0030,Cybersecurity risk for Data Platform Modernization Program 030,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,57.84,Monitoring
+RSK-00199,TR-0030,People & Change risk for Data Platform Modernization Program 030,People & Change,Potential people & change risk associated with the transformation.,3,4,84.35,Open
+RSK-00200,TR-0030,Vendor & Dependency risk for Data Platform Modernization Program 030,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,59.0,Open
+RSK-00201,TR-0030,Financial risk for Data Platform Modernization Program 030,Financial,Potential financial risk associated with the transformation.,4,5,71.92,Mitigated
+RSK-00202,TR-0030,Compliance risk for Data Platform Modernization Program 030,Compliance,Potential compliance risk associated with the transformation.,5,3,66.48,Open
+RSK-00203,TR-0030,Technology risk for Data Platform Modernization Program 030,Technology,Potential technology risk associated with the transformation.,5,2,51.8,Mitigated
+RSK-00204,TR-0031,Financial risk for Cybersecurity Modernization Program 031,Financial,Potential financial risk associated with the transformation.,3,4,46.9,Monitoring
+RSK-00205,TR-0031,Technology risk for Cybersecurity Modernization Program 031,Technology,Potential technology risk associated with the transformation.,4,5,26.59,Open
+RSK-00206,TR-0031,Compliance risk for Cybersecurity Modernization Program 031,Compliance,Potential compliance risk associated with the transformation.,4,4,57.21,Open
+RSK-00207,TR-0031,Operational risk for Cybersecurity Modernization Program 031,Operational,Potential operational risk associated with the transformation.,3,5,27.01,Open
+RSK-00208,TR-0031,Data risk for Cybersecurity Modernization Program 031,Data,Potential data risk associated with the transformation.,5,2,73.73,Open
+RSK-00209,TR-0032,Vendor & Dependency risk for Data Platform Modernization Program 032,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,1,87.3,Monitoring
+RSK-00210,TR-0032,Technology risk for Data Platform Modernization Program 032,Technology,Potential technology risk associated with the transformation.,4,4,59.55,Open
+RSK-00211,TR-0032,Financial risk for Data Platform Modernization Program 032,Financial,Potential financial risk associated with the transformation.,3,4,38.1,Mitigated
+RSK-00212,TR-0032,Compliance risk for Data Platform Modernization Program 032,Compliance,Potential compliance risk associated with the transformation.,4,3,62.61,Open
+RSK-00213,TR-0032,Cybersecurity risk for Data Platform Modernization Program 032,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,5,84.92,Open
+RSK-00214,TR-0032,People & Change risk for Data Platform Modernization Program 032,People & Change,Potential people & change risk associated with the transformation.,2,3,30.85,Open
+RSK-00215,TR-0032,Operational risk for Data Platform Modernization Program 032,Operational,Potential operational risk associated with the transformation.,2,5,29.81,Open
+RSK-00216,TR-0032,Data risk for Data Platform Modernization Program 032,Data,Potential data risk associated with the transformation.,4,4,75.34,Monitoring
+RSK-00217,TR-0033,Compliance risk for Data Platform Modernization Program 033,Compliance,Potential compliance risk associated with the transformation.,3,2,76.78,Open
+RSK-00218,TR-0033,Cybersecurity risk for Data Platform Modernization Program 033,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,3,79.73,Open
+RSK-00219,TR-0033,Vendor & Dependency risk for Data Platform Modernization Program 033,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,5,30.05,Monitoring
+RSK-00220,TR-0033,Data risk for Data Platform Modernization Program 033,Data,Potential data risk associated with the transformation.,3,3,69.78,Mitigated
+RSK-00221,TR-0033,Operational risk for Data Platform Modernization Program 033,Operational,Potential operational risk associated with the transformation.,3,4,43.84,Monitoring
+RSK-00222,TR-0033,People & Change risk for Data Platform Modernization Program 033,People & Change,Potential people & change risk associated with the transformation.,4,4,65.53,Open
+RSK-00223,TR-0034,People & Change risk for Legacy Application Replacement Program 034,People & Change,Potential people & change risk associated with the transformation.,2,3,53.66,Monitoring
+RSK-00224,TR-0034,Financial risk for Legacy Application Replacement Program 034,Financial,Potential financial risk associated with the transformation.,3,5,60.48,Monitoring
+RSK-00225,TR-0034,Vendor & Dependency risk for Legacy Application Replacement Program 034,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,3,65.28,Mitigated
+RSK-00226,TR-0034,Operational risk for Legacy Application Replacement Program 034,Operational,Potential operational risk associated with the transformation.,3,4,64.13,Monitoring
+RSK-00227,TR-0034,Compliance risk for Legacy Application Replacement Program 034,Compliance,Potential compliance risk associated with the transformation.,2,4,56.3,Mitigated
+RSK-00228,TR-0034,Cybersecurity risk for Legacy Application Replacement Program 034,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,87.54,Open
+RSK-00229,TR-0035,Technology risk for Legacy Application Replacement Program 035,Technology,Potential technology risk associated with the transformation.,1,4,35.03,Mitigated
+RSK-00230,TR-0035,People & Change risk for Legacy Application Replacement Program 035,People & Change,Potential people & change risk associated with the transformation.,2,4,46.21,Monitoring
+RSK-00231,TR-0035,Vendor & Dependency risk for Legacy Application Replacement Program 035,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,39.99,Mitigated
+RSK-00232,TR-0035,Financial risk for Legacy Application Replacement Program 035,Financial,Potential financial risk associated with the transformation.,3,4,80.23,Accepted
+RSK-00233,TR-0035,Data risk for Legacy Application Replacement Program 035,Data,Potential data risk associated with the transformation.,3,3,41.28,Open
+RSK-00234,TR-0035,Operational risk for Legacy Application Replacement Program 035,Operational,Potential operational risk associated with the transformation.,4,5,89.37,Open
+RSK-00235,TR-0035,Compliance risk for Legacy Application Replacement Program 035,Compliance,Potential compliance risk associated with the transformation.,4,5,85.64,Open
+RSK-00236,TR-0036,Data risk for Cybersecurity Modernization Program 036,Data,Potential data risk associated with the transformation.,5,4,42.49,Open
+RSK-00237,TR-0036,Vendor & Dependency risk for Cybersecurity Modernization Program 036,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,57.86,Monitoring
+RSK-00238,TR-0036,People & Change risk for Cybersecurity Modernization Program 036,People & Change,Potential people & change risk associated with the transformation.,3,4,46.68,Open
+RSK-00239,TR-0036,Compliance risk for Cybersecurity Modernization Program 036,Compliance,Potential compliance risk associated with the transformation.,2,2,80.28,Open
+RSK-00240,TR-0036,Cybersecurity risk for Cybersecurity Modernization Program 036,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,61.01,Open
+RSK-00241,TR-0036,Financial risk for Cybersecurity Modernization Program 036,Financial,Potential financial risk associated with the transformation.,3,2,67.63,Open
+RSK-00242,TR-0037,Financial risk for ERP Modernization Program 037,Financial,Potential financial risk associated with the transformation.,3,3,29.67,Mitigated
+RSK-00243,TR-0037,Operational risk for ERP Modernization Program 037,Operational,Potential operational risk associated with the transformation.,5,1,36.61,Mitigated
+RSK-00244,TR-0037,Cybersecurity risk for ERP Modernization Program 037,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,2,38.18,Monitoring
+RSK-00245,TR-0037,Compliance risk for ERP Modernization Program 037,Compliance,Potential compliance risk associated with the transformation.,4,4,86.95,Open
+RSK-00246,TR-0037,Vendor & Dependency risk for ERP Modernization Program 037,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,3,48.38,Open
+RSK-00247,TR-0037,People & Change risk for ERP Modernization Program 037,People & Change,Potential people & change risk associated with the transformation.,1,3,71.24,Open
+RSK-00248,TR-0037,Technology risk for ERP Modernization Program 037,Technology,Potential technology risk associated with the transformation.,3,4,64.68,Monitoring
+RSK-00249,TR-0038,Technology risk for Data Platform Modernization Program 038,Technology,Potential technology risk associated with the transformation.,3,3,51.91,Open
+RSK-00250,TR-0038,Cybersecurity risk for Data Platform Modernization Program 038,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,5,38.09,Mitigated
+RSK-00251,TR-0038,Operational risk for Data Platform Modernization Program 038,Operational,Potential operational risk associated with the transformation.,1,5,86.88,Open
+RSK-00252,TR-0038,Data risk for Data Platform Modernization Program 038,Data,Potential data risk associated with the transformation.,4,5,83.88,Accepted
+RSK-00253,TR-0038,People & Change risk for Data Platform Modernization Program 038,People & Change,Potential people & change risk associated with the transformation.,4,2,80.24,Monitoring
+RSK-00254,TR-0038,Financial risk for Data Platform Modernization Program 038,Financial,Potential financial risk associated with the transformation.,4,3,62.17,Open
+RSK-00255,TR-0038,Compliance risk for Data Platform Modernization Program 038,Compliance,Potential compliance risk associated with the transformation.,4,2,72.44,Mitigated
+RSK-00256,TR-0039,Financial risk for ERP Modernization Program 039,Financial,Potential financial risk associated with the transformation.,3,3,86.27,Monitoring
+RSK-00257,TR-0039,People & Change risk for ERP Modernization Program 039,People & Change,Potential people & change risk associated with the transformation.,3,5,49.58,Mitigated
+RSK-00258,TR-0039,Operational risk for ERP Modernization Program 039,Operational,Potential operational risk associated with the transformation.,3,4,85.23,Open
+RSK-00259,TR-0039,Cybersecurity risk for ERP Modernization Program 039,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,5,34.79,Open
+RSK-00260,TR-0039,Vendor & Dependency risk for ERP Modernization Program 039,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,3,29.63,Open
+RSK-00261,TR-0039,Data risk for ERP Modernization Program 039,Data,Potential data risk associated with the transformation.,4,3,46.78,Mitigated
+RSK-00262,TR-0039,Technology risk for ERP Modernization Program 039,Technology,Potential technology risk associated with the transformation.,3,5,54.02,Accepted
+RSK-00263,TR-0040,People & Change risk for Data Platform Modernization Program 040,People & Change,Potential people & change risk associated with the transformation.,4,1,43.63,Open
+RSK-00264,TR-0040,Compliance risk for Data Platform Modernization Program 040,Compliance,Potential compliance risk associated with the transformation.,3,3,58.92,Open
+RSK-00265,TR-0040,Cybersecurity risk for Data Platform Modernization Program 040,Cybersecurity,Potential cybersecurity risk associated with the transformation.,1,4,49.29,Monitoring
+RSK-00266,TR-0040,Data risk for Data Platform Modernization Program 040,Data,Potential data risk associated with the transformation.,2,1,41.14,Open
+RSK-00267,TR-0040,Technology risk for Data Platform Modernization Program 040,Technology,Potential technology risk associated with the transformation.,3,5,49.56,Open
+RSK-00268,TR-0040,Financial risk for Data Platform Modernization Program 040,Financial,Potential financial risk associated with the transformation.,4,1,58.48,Open
+RSK-00269,TR-0041,Financial risk for Data Platform Modernization Program 041,Financial,Potential financial risk associated with the transformation.,4,4,85.4,Accepted
+RSK-00270,TR-0041,Data risk for Data Platform Modernization Program 041,Data,Potential data risk associated with the transformation.,1,3,60.55,Open
+RSK-00271,TR-0041,Vendor & Dependency risk for Data Platform Modernization Program 041,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,5,26.05,Open
+RSK-00272,TR-0041,People & Change risk for Data Platform Modernization Program 041,People & Change,Potential people & change risk associated with the transformation.,4,3,56.19,Accepted
+RSK-00273,TR-0041,Operational risk for Data Platform Modernization Program 041,Operational,Potential operational risk associated with the transformation.,3,2,28.36,Mitigated
+RSK-00274,TR-0041,Compliance risk for Data Platform Modernization Program 041,Compliance,Potential compliance risk associated with the transformation.,3,4,30.9,Open
+RSK-00275,TR-0041,Technology risk for Data Platform Modernization Program 041,Technology,Potential technology risk associated with the transformation.,5,4,88.12,Open
+RSK-00276,TR-0041,Cybersecurity risk for Data Platform Modernization Program 041,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,54.14,Open
+RSK-00277,TR-0042,Financial risk for Cloud Migration Program 042,Financial,Potential financial risk associated with the transformation.,1,3,38.01,Monitoring
+RSK-00278,TR-0042,Operational risk for Cloud Migration Program 042,Operational,Potential operational risk associated with the transformation.,2,4,42.13,Open
+RSK-00279,TR-0042,Cybersecurity risk for Cloud Migration Program 042,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,55.32,Open
+RSK-00280,TR-0042,Data risk for Cloud Migration Program 042,Data,Potential data risk associated with the transformation.,5,4,38.9,Mitigated
+RSK-00281,TR-0042,People & Change risk for Cloud Migration Program 042,People & Change,Potential people & change risk associated with the transformation.,3,1,57.15,Open
+RSK-00282,TR-0042,Vendor & Dependency risk for Cloud Migration Program 042,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,33.5,Mitigated
+RSK-00283,TR-0043,Operational risk for Legacy Application Replacement Program 043,Operational,Potential operational risk associated with the transformation.,2,4,59.66,Open
+RSK-00284,TR-0043,Cybersecurity risk for Legacy Application Replacement Program 043,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,1,85.3,Open
+RSK-00285,TR-0043,People & Change risk for Legacy Application Replacement Program 043,People & Change,Potential people & change risk associated with the transformation.,1,2,40.62,Open
+RSK-00286,TR-0043,Vendor & Dependency risk for Legacy Application Replacement Program 043,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,1,3,37.54,Open
+RSK-00287,TR-0043,Compliance risk for Legacy Application Replacement Program 043,Compliance,Potential compliance risk associated with the transformation.,3,3,46.32,Open
+RSK-00288,TR-0043,Data risk for Legacy Application Replacement Program 043,Data,Potential data risk associated with the transformation.,1,3,74.18,Accepted
+RSK-00289,TR-0044,People & Change risk for Legacy Application Replacement Program 044,People & Change,Potential people & change risk associated with the transformation.,4,5,53.23,Monitoring
+RSK-00290,TR-0044,Compliance risk for Legacy Application Replacement Program 044,Compliance,Potential compliance risk associated with the transformation.,4,3,85.4,Open
+RSK-00291,TR-0044,Technology risk for Legacy Application Replacement Program 044,Technology,Potential technology risk associated with the transformation.,5,4,31.06,Monitoring
+RSK-00292,TR-0044,Data risk for Legacy Application Replacement Program 044,Data,Potential data risk associated with the transformation.,1,4,76.95,Monitoring
+RSK-00293,TR-0044,Operational risk for Legacy Application Replacement Program 044,Operational,Potential operational risk associated with the transformation.,5,2,42.94,Open
+RSK-00294,TR-0044,Financial risk for Legacy Application Replacement Program 044,Financial,Potential financial risk associated with the transformation.,1,3,42.24,Open
+RSK-00295,TR-0045,Technology risk for ERP Modernization Program 045,Technology,Potential technology risk associated with the transformation.,3,3,57.67,Open
+RSK-00296,TR-0045,Financial risk for ERP Modernization Program 045,Financial,Potential financial risk associated with the transformation.,3,4,51.87,Mitigated
+RSK-00297,TR-0045,Compliance risk for ERP Modernization Program 045,Compliance,Potential compliance risk associated with the transformation.,3,5,76.01,Accepted
+RSK-00298,TR-0045,Data risk for ERP Modernization Program 045,Data,Potential data risk associated with the transformation.,4,2,59.22,Open
+RSK-00299,TR-0045,Operational risk for ERP Modernization Program 045,Operational,Potential operational risk associated with the transformation.,4,4,42.12,Mitigated
+RSK-00300,TR-0045,Cybersecurity risk for ERP Modernization Program 045,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,4,71.87,Open
+RSK-00301,TR-0045,People & Change risk for ERP Modernization Program 045,People & Change,Potential people & change risk associated with the transformation.,4,5,29.39,Open
+RSK-00302,TR-0045,Vendor & Dependency risk for ERP Modernization Program 045,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,32.71,Mitigated
+RSK-00303,TR-0046,Vendor & Dependency risk for Legacy Application Replacement Program 046,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,2,89.98,Open
+RSK-00304,TR-0046,Cybersecurity risk for Legacy Application Replacement Program 046,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,3,84.95,Open
+RSK-00305,TR-0046,People & Change risk for Legacy Application Replacement Program 046,People & Change,Potential people & change risk associated with the transformation.,2,5,86.59,Open
+RSK-00306,TR-0046,Technology risk for Legacy Application Replacement Program 046,Technology,Potential technology risk associated with the transformation.,3,3,52.05,Open
+RSK-00307,TR-0046,Data risk for Legacy Application Replacement Program 046,Data,Potential data risk associated with the transformation.,5,3,70.84,Open
+RSK-00308,TR-0046,Compliance risk for Legacy Application Replacement Program 046,Compliance,Potential compliance risk associated with the transformation.,1,4,47.04,Monitoring
+RSK-00309,TR-0047,Operational risk for Legacy Application Replacement Program 047,Operational,Potential operational risk associated with the transformation.,3,4,44.3,Open
+RSK-00310,TR-0047,Compliance risk for Legacy Application Replacement Program 047,Compliance,Potential compliance risk associated with the transformation.,3,3,50.08,Open
+RSK-00311,TR-0047,People & Change risk for Legacy Application Replacement Program 047,People & Change,Potential people & change risk associated with the transformation.,3,4,50.23,Open
+RSK-00312,TR-0047,Technology risk for Legacy Application Replacement Program 047,Technology,Potential technology risk associated with the transformation.,3,4,49.63,Monitoring
+RSK-00313,TR-0047,Financial risk for Legacy Application Replacement Program 047,Financial,Potential financial risk associated with the transformation.,5,4,84.14,Monitoring
+RSK-00314,TR-0047,Vendor & Dependency risk for Legacy Application Replacement Program 047,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,3,70.39,Accepted
+RSK-00315,TR-0048,Operational risk for Cloud Migration Program 048,Operational,Potential operational risk associated with the transformation.,4,4,74.05,Mitigated
+RSK-00316,TR-0048,Data risk for Cloud Migration Program 048,Data,Potential data risk associated with the transformation.,5,1,61.15,Open
+RSK-00317,TR-0048,Financial risk for Cloud Migration Program 048,Financial,Potential financial risk associated with the transformation.,5,4,52.31,Open
+RSK-00318,TR-0048,People & Change risk for Cloud Migration Program 048,People & Change,Potential people & change risk associated with the transformation.,3,4,38.28,Open
+RSK-00319,TR-0048,Cybersecurity risk for Cloud Migration Program 048,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,4,37.99,Open
+RSK-00320,TR-0048,Technology risk for Cloud Migration Program 048,Technology,Potential technology risk associated with the transformation.,5,4,64.68,Open
+RSK-00321,TR-0048,Vendor & Dependency risk for Cloud Migration Program 048,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,1,72.35,Open
+RSK-00322,TR-0048,Compliance risk for Cloud Migration Program 048,Compliance,Potential compliance risk associated with the transformation.,1,4,86.68,Monitoring
+RSK-00323,TR-0049,Financial risk for AI Process Automation Program 049,Financial,Potential financial risk associated with the transformation.,5,5,30.12,Open
+RSK-00324,TR-0049,People & Change risk for AI Process Automation Program 049,People & Change,Potential people & change risk associated with the transformation.,2,3,43.69,Open
+RSK-00325,TR-0049,Technology risk for AI Process Automation Program 049,Technology,Potential technology risk associated with the transformation.,4,3,84.75,Open
+RSK-00326,TR-0049,Data risk for AI Process Automation Program 049,Data,Potential data risk associated with the transformation.,2,3,30.22,Open
+RSK-00327,TR-0049,Vendor & Dependency risk for AI Process Automation Program 049,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,3,37.88,Monitoring
+RSK-00328,TR-0049,Operational risk for AI Process Automation Program 049,Operational,Potential operational risk associated with the transformation.,3,4,49.49,Mitigated
+RSK-00329,TR-0049,Compliance risk for AI Process Automation Program 049,Compliance,Potential compliance risk associated with the transformation.,2,3,69.83,Mitigated
+RSK-00330,TR-0049,Cybersecurity risk for AI Process Automation Program 049,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,29.49,Open
+RSK-00331,TR-0050,People & Change risk for CRM Transformation Program 050,People & Change,Potential people & change risk associated with the transformation.,2,1,28.66,Mitigated
+RSK-00332,TR-0050,Data risk for CRM Transformation Program 050,Data,Potential data risk associated with the transformation.,3,4,52.71,Monitoring
+RSK-00333,TR-0050,Cybersecurity risk for CRM Transformation Program 050,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,89.29,Open
+RSK-00334,TR-0050,Financial risk for CRM Transformation Program 050,Financial,Potential financial risk associated with the transformation.,4,2,56.05,Mitigated
+RSK-00335,TR-0050,Compliance risk for CRM Transformation Program 050,Compliance,Potential compliance risk associated with the transformation.,4,4,42.12,Open
+RSK-00336,TR-0050,Vendor & Dependency risk for CRM Transformation Program 050,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,55.04,Open
+RSK-00337,TR-0050,Technology risk for CRM Transformation Program 050,Technology,Potential technology risk associated with the transformation.,3,3,48.73,Open
+RSK-00338,TR-0051,Cybersecurity risk for Data Platform Modernization Program 051,Cybersecurity,Potential cybersecurity risk associated with the transformation.,1,4,89.17,Open
+RSK-00339,TR-0051,Operational risk for Data Platform Modernization Program 051,Operational,Potential operational risk associated with the transformation.,4,2,63.49,Monitoring
+RSK-00340,TR-0051,People & Change risk for Data Platform Modernization Program 051,People & Change,Potential people & change risk associated with the transformation.,3,1,63.69,Accepted
+RSK-00341,TR-0051,Financial risk for Data Platform Modernization Program 051,Financial,Potential financial risk associated with the transformation.,3,2,33.06,Monitoring
+RSK-00342,TR-0051,Data risk for Data Platform Modernization Program 051,Data,Potential data risk associated with the transformation.,4,4,73.95,Mitigated
+RSK-00343,TR-0051,Technology risk for Data Platform Modernization Program 051,Technology,Potential technology risk associated with the transformation.,4,3,61.13,Open
+RSK-00344,TR-0051,Compliance risk for Data Platform Modernization Program 051,Compliance,Potential compliance risk associated with the transformation.,3,5,69.32,Accepted
+RSK-00345,TR-0051,Vendor & Dependency risk for Data Platform Modernization Program 051,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,56.66,Open
+RSK-00346,TR-0052,Vendor & Dependency risk for Cybersecurity Modernization Program 052,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,4,31.3,Mitigated
+RSK-00347,TR-0052,Financial risk for Cybersecurity Modernization Program 052,Financial,Potential financial risk associated with the transformation.,4,2,69.97,Monitoring
+RSK-00348,TR-0052,Compliance risk for Cybersecurity Modernization Program 052,Compliance,Potential compliance risk associated with the transformation.,4,5,71.69,Monitoring
+RSK-00349,TR-0052,Operational risk for Cybersecurity Modernization Program 052,Operational,Potential operational risk associated with the transformation.,3,4,87.2,Monitoring
+RSK-00350,TR-0052,Data risk for Cybersecurity Modernization Program 052,Data,Potential data risk associated with the transformation.,4,3,74.15,Accepted
+RSK-00351,TR-0053,Data risk for Data Platform Modernization Program 053,Data,Potential data risk associated with the transformation.,1,3,62.89,Monitoring
+RSK-00352,TR-0053,Vendor & Dependency risk for Data Platform Modernization Program 053,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,66.7,Monitoring
+RSK-00353,TR-0053,People & Change risk for Data Platform Modernization Program 053,People & Change,Potential people & change risk associated with the transformation.,4,4,64.4,Open
+RSK-00354,TR-0053,Technology risk for Data Platform Modernization Program 053,Technology,Potential technology risk associated with the transformation.,3,4,81.74,Monitoring
+RSK-00355,TR-0053,Compliance risk for Data Platform Modernization Program 053,Compliance,Potential compliance risk associated with the transformation.,2,4,39.41,Monitoring
+RSK-00356,TR-0054,Cybersecurity risk for AI Process Automation Program 054,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,28.27,Open
+RSK-00357,TR-0054,Data risk for AI Process Automation Program 054,Data,Potential data risk associated with the transformation.,2,3,86.37,Open
+RSK-00358,TR-0054,People & Change risk for AI Process Automation Program 054,People & Change,Potential people & change risk associated with the transformation.,3,2,46.99,Mitigated
+RSK-00359,TR-0054,Financial risk for AI Process Automation Program 054,Financial,Potential financial risk associated with the transformation.,3,4,77.18,Open
+RSK-00360,TR-0054,Vendor & Dependency risk for AI Process Automation Program 054,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,5,51.14,Open
+RSK-00361,TR-0054,Compliance risk for AI Process Automation Program 054,Compliance,Potential compliance risk associated with the transformation.,5,5,58.94,Monitoring
+RSK-00362,TR-0054,Operational risk for AI Process Automation Program 054,Operational,Potential operational risk associated with the transformation.,3,5,57.41,Open
+RSK-00363,TR-0055,Compliance risk for Legacy Application Replacement Program 055,Compliance,Potential compliance risk associated with the transformation.,3,4,55.07,Open
+RSK-00364,TR-0055,Vendor & Dependency risk for Legacy Application Replacement Program 055,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,2,40.13,Mitigated
+RSK-00365,TR-0055,Financial risk for Legacy Application Replacement Program 055,Financial,Potential financial risk associated with the transformation.,2,3,60.66,Open
+RSK-00366,TR-0055,Operational risk for Legacy Application Replacement Program 055,Operational,Potential operational risk associated with the transformation.,2,4,48.93,Monitoring
+RSK-00367,TR-0055,Data risk for Legacy Application Replacement Program 055,Data,Potential data risk associated with the transformation.,5,2,84.37,Mitigated
+RSK-00368,TR-0055,People & Change risk for Legacy Application Replacement Program 055,People & Change,Potential people & change risk associated with the transformation.,4,4,65.31,Monitoring
+RSK-00369,TR-0055,Cybersecurity risk for Legacy Application Replacement Program 055,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,1,87.28,Monitoring
+RSK-00370,TR-0056,People & Change risk for AI Process Automation Program 056,People & Change,Potential people & change risk associated with the transformation.,3,4,49.39,Accepted
+RSK-00371,TR-0056,Vendor & Dependency risk for AI Process Automation Program 056,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,3,44.11,Open
+RSK-00372,TR-0056,Compliance risk for AI Process Automation Program 056,Compliance,Potential compliance risk associated with the transformation.,3,4,86.75,Open
+RSK-00373,TR-0056,Data risk for AI Process Automation Program 056,Data,Potential data risk associated with the transformation.,4,1,42.06,Open
+RSK-00374,TR-0056,Technology risk for AI Process Automation Program 056,Technology,Potential technology risk associated with the transformation.,1,4,69.09,Monitoring
+RSK-00375,TR-0056,Operational risk for AI Process Automation Program 056,Operational,Potential operational risk associated with the transformation.,3,4,50.74,Open
+RSK-00376,TR-0056,Cybersecurity risk for AI Process Automation Program 056,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,4,89.71,Open
+RSK-00377,TR-0056,Financial risk for AI Process Automation Program 056,Financial,Potential financial risk associated with the transformation.,4,4,78.74,Open
+RSK-00378,TR-0057,Financial risk for Data Platform Modernization Program 057,Financial,Potential financial risk associated with the transformation.,1,5,29.99,Open
+RSK-00379,TR-0057,Data risk for Data Platform Modernization Program 057,Data,Potential data risk associated with the transformation.,1,3,46.73,Open
+RSK-00380,TR-0057,Compliance risk for Data Platform Modernization Program 057,Compliance,Potential compliance risk associated with the transformation.,3,3,74.9,Mitigated
+RSK-00381,TR-0057,Cybersecurity risk for Data Platform Modernization Program 057,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,2,44.2,Mitigated
+RSK-00382,TR-0057,People & Change risk for Data Platform Modernization Program 057,People & Change,Potential people & change risk associated with the transformation.,2,3,86.26,Accepted
+RSK-00383,TR-0058,Operational risk for CRM Transformation Program 058,Operational,Potential operational risk associated with the transformation.,4,3,68.29,Open
+RSK-00384,TR-0058,Vendor & Dependency risk for CRM Transformation Program 058,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,5,57.03,Monitoring
+RSK-00385,TR-0058,Compliance risk for CRM Transformation Program 058,Compliance,Potential compliance risk associated with the transformation.,3,3,37.84,Mitigated
+RSK-00386,TR-0058,Data risk for CRM Transformation Program 058,Data,Potential data risk associated with the transformation.,4,5,82.04,Accepted
+RSK-00387,TR-0058,Financial risk for CRM Transformation Program 058,Financial,Potential financial risk associated with the transformation.,3,5,62.13,Open
+RSK-00388,TR-0058,People & Change risk for CRM Transformation Program 058,People & Change,Potential people & change risk associated with the transformation.,4,3,43.76,Open
+RSK-00389,TR-0059,People & Change risk for AI Process Automation Program 059,People & Change,Potential people & change risk associated with the transformation.,4,2,71.58,Monitoring
+RSK-00390,TR-0059,Financial risk for AI Process Automation Program 059,Financial,Potential financial risk associated with the transformation.,4,5,43.92,Mitigated
+RSK-00391,TR-0059,Vendor & Dependency risk for AI Process Automation Program 059,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,68.2,Mitigated
+RSK-00392,TR-0059,Technology risk for AI Process Automation Program 059,Technology,Potential technology risk associated with the transformation.,5,3,77.9,Monitoring
+RSK-00393,TR-0059,Cybersecurity risk for AI Process Automation Program 059,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,50.64,Monitoring
+RSK-00394,TR-0059,Data risk for AI Process Automation Program 059,Data,Potential data risk associated with the transformation.,2,3,79.65,Open
+RSK-00395,TR-0059,Operational risk for AI Process Automation Program 059,Operational,Potential operational risk associated with the transformation.,3,3,56.95,Mitigated
+RSK-00396,TR-0059,Compliance risk for AI Process Automation Program 059,Compliance,Potential compliance risk associated with the transformation.,5,2,62.36,Open
+RSK-00397,TR-0060,Compliance risk for AI Process Automation Program 060,Compliance,Potential compliance risk associated with the transformation.,3,3,78.16,Monitoring
+RSK-00398,TR-0060,Data risk for AI Process Automation Program 060,Data,Potential data risk associated with the transformation.,3,5,80.49,Open
+RSK-00399,TR-0060,People & Change risk for AI Process Automation Program 060,People & Change,Potential people & change risk associated with the transformation.,4,3,73.05,Open
+RSK-00400,TR-0060,Cybersecurity risk for AI Process Automation Program 060,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,58.22,Mitigated
+RSK-00401,TR-0060,Operational risk for AI Process Automation Program 060,Operational,Potential operational risk associated with the transformation.,3,5,89.15,Mitigated
+RSK-00402,TR-0061,Technology risk for CRM Transformation Program 061,Technology,Potential technology risk associated with the transformation.,3,5,71.12,Open
+RSK-00403,TR-0061,Cybersecurity risk for CRM Transformation Program 061,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,3,36.08,Monitoring
+RSK-00404,TR-0061,Vendor & Dependency risk for CRM Transformation Program 061,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,3,41.23,Open
+RSK-00405,TR-0061,Financial risk for CRM Transformation Program 061,Financial,Potential financial risk associated with the transformation.,5,3,57.71,Accepted
+RSK-00406,TR-0061,Compliance risk for CRM Transformation Program 061,Compliance,Potential compliance risk associated with the transformation.,1,4,58.3,Mitigated
+RSK-00407,TR-0061,People & Change risk for CRM Transformation Program 061,People & Change,Potential people & change risk associated with the transformation.,3,3,35.92,Monitoring
+RSK-00408,TR-0061,Operational risk for CRM Transformation Program 061,Operational,Potential operational risk associated with the transformation.,4,2,50.57,Mitigated
+RSK-00409,TR-0062,Data risk for CRM Transformation Program 062,Data,Potential data risk associated with the transformation.,3,4,62.39,Open
+RSK-00410,TR-0062,Operational risk for CRM Transformation Program 062,Operational,Potential operational risk associated with the transformation.,4,2,74.71,Open
+RSK-00411,TR-0062,Compliance risk for CRM Transformation Program 062,Compliance,Potential compliance risk associated with the transformation.,4,3,37.13,Open
+RSK-00412,TR-0062,Vendor & Dependency risk for CRM Transformation Program 062,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,1,3,72.06,Mitigated
+RSK-00413,TR-0062,Technology risk for CRM Transformation Program 062,Technology,Potential technology risk associated with the transformation.,2,5,76.84,Mitigated
+RSK-00414,TR-0062,Financial risk for CRM Transformation Program 062,Financial,Potential financial risk associated with the transformation.,4,4,59.13,Monitoring
+RSK-00415,TR-0062,Cybersecurity risk for CRM Transformation Program 062,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,2,45.52,Open
+RSK-00416,TR-0063,Technology risk for Data Platform Modernization Program 063,Technology,Potential technology risk associated with the transformation.,2,4,82.68,Open
+RSK-00417,TR-0063,Financial risk for Data Platform Modernization Program 063,Financial,Potential financial risk associated with the transformation.,4,3,67.16,Open
+RSK-00418,TR-0063,Operational risk for Data Platform Modernization Program 063,Operational,Potential operational risk associated with the transformation.,3,2,32.6,Open
+RSK-00419,TR-0063,Cybersecurity risk for Data Platform Modernization Program 063,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,39.08,Monitoring
+RSK-00420,TR-0063,People & Change risk for Data Platform Modernization Program 063,People & Change,Potential people & change risk associated with the transformation.,4,4,85.77,Open
+RSK-00421,TR-0064,Financial risk for Data Platform Modernization Program 064,Financial,Potential financial risk associated with the transformation.,3,4,75.08,Accepted
+RSK-00422,TR-0064,Operational risk for Data Platform Modernization Program 064,Operational,Potential operational risk associated with the transformation.,3,2,63.73,Open
+RSK-00423,TR-0064,Data risk for Data Platform Modernization Program 064,Data,Potential data risk associated with the transformation.,3,3,72.52,Open
+RSK-00424,TR-0064,Cybersecurity risk for Data Platform Modernization Program 064,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,1,81.76,Monitoring
+RSK-00425,TR-0064,Technology risk for Data Platform Modernization Program 064,Technology,Potential technology risk associated with the transformation.,1,1,61.31,Open
+RSK-00426,TR-0064,People & Change risk for Data Platform Modernization Program 064,People & Change,Potential people & change risk associated with the transformation.,4,3,85.02,Open
+RSK-00427,TR-0064,Compliance risk for Data Platform Modernization Program 064,Compliance,Potential compliance risk associated with the transformation.,4,2,87.13,Accepted
+RSK-00428,TR-0064,Vendor & Dependency risk for Data Platform Modernization Program 064,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,3,39.3,Mitigated
+RSK-00429,TR-0065,Data risk for Data Platform Modernization Program 065,Data,Potential data risk associated with the transformation.,4,3,49.16,Open
+RSK-00430,TR-0065,People & Change risk for Data Platform Modernization Program 065,People & Change,Potential people & change risk associated with the transformation.,4,3,53.49,Open
+RSK-00431,TR-0065,Vendor & Dependency risk for Data Platform Modernization Program 065,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,40.12,Open
+RSK-00432,TR-0065,Operational risk for Data Platform Modernization Program 065,Operational,Potential operational risk associated with the transformation.,4,3,49.72,Open
+RSK-00433,TR-0065,Financial risk for Data Platform Modernization Program 065,Financial,Potential financial risk associated with the transformation.,4,3,74.27,Mitigated
+RSK-00434,TR-0065,Cybersecurity risk for Data Platform Modernization Program 065,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,73.61,Open
+RSK-00435,TR-0065,Technology risk for Data Platform Modernization Program 065,Technology,Potential technology risk associated with the transformation.,3,4,45.65,Open
+RSK-00436,TR-0066,Cybersecurity risk for Legacy Application Replacement Program 066,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,26.32,Open
+RSK-00437,TR-0066,Technology risk for Legacy Application Replacement Program 066,Technology,Potential technology risk associated with the transformation.,2,3,42.85,Open
+RSK-00438,TR-0066,Data risk for Legacy Application Replacement Program 066,Data,Potential data risk associated with the transformation.,3,1,35.52,Open
+RSK-00439,TR-0066,Vendor & Dependency risk for Legacy Application Replacement Program 066,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,3,60.65,Open
+RSK-00440,TR-0066,Operational risk for Legacy Application Replacement Program 066,Operational,Potential operational risk associated with the transformation.,1,5,32.04,Open
+RSK-00441,TR-0066,Compliance risk for Legacy Application Replacement Program 066,Compliance,Potential compliance risk associated with the transformation.,2,5,65.15,Monitoring
+RSK-00442,TR-0067,People & Change risk for ERP Modernization Program 067,People & Change,Potential people & change risk associated with the transformation.,5,2,89.81,Open
+RSK-00443,TR-0067,Compliance risk for ERP Modernization Program 067,Compliance,Potential compliance risk associated with the transformation.,4,5,28.74,Mitigated
+RSK-00444,TR-0067,Data risk for ERP Modernization Program 067,Data,Potential data risk associated with the transformation.,4,4,34.7,Open
+RSK-00445,TR-0067,Cybersecurity risk for ERP Modernization Program 067,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,35.07,Open
+RSK-00446,TR-0067,Technology risk for ERP Modernization Program 067,Technology,Potential technology risk associated with the transformation.,5,1,71.08,Accepted
+RSK-00447,TR-0067,Financial risk for ERP Modernization Program 067,Financial,Potential financial risk associated with the transformation.,1,2,68.82,Open
+RSK-00448,TR-0067,Vendor & Dependency risk for ERP Modernization Program 067,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,63.23,Open
+RSK-00449,TR-0068,Cybersecurity risk for Data Platform Modernization Program 068,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,30.58,Open
+RSK-00450,TR-0068,Operational risk for Data Platform Modernization Program 068,Operational,Potential operational risk associated with the transformation.,1,5,39.46,Mitigated
+RSK-00451,TR-0068,Financial risk for Data Platform Modernization Program 068,Financial,Potential financial risk associated with the transformation.,2,3,52.19,Open
+RSK-00452,TR-0068,Data risk for Data Platform Modernization Program 068,Data,Potential data risk associated with the transformation.,4,5,81.89,Open
+RSK-00453,TR-0068,Vendor & Dependency risk for Data Platform Modernization Program 068,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,2,84.37,Open
+RSK-00454,TR-0068,Compliance risk for Data Platform Modernization Program 068,Compliance,Potential compliance risk associated with the transformation.,3,2,25.77,Open
+RSK-00455,TR-0069,Compliance risk for AI Process Automation Program 069,Compliance,Potential compliance risk associated with the transformation.,3,3,62.3,Open
+RSK-00456,TR-0069,Vendor & Dependency risk for AI Process Automation Program 069,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,33.33,Mitigated
+RSK-00457,TR-0069,Operational risk for AI Process Automation Program 069,Operational,Potential operational risk associated with the transformation.,3,5,67.5,Monitoring
+RSK-00458,TR-0069,Technology risk for AI Process Automation Program 069,Technology,Potential technology risk associated with the transformation.,4,5,64.88,Open
+RSK-00459,TR-0069,Data risk for AI Process Automation Program 069,Data,Potential data risk associated with the transformation.,2,4,29.31,Open
+RSK-00460,TR-0069,Financial risk for AI Process Automation Program 069,Financial,Potential financial risk associated with the transformation.,2,4,35.42,Monitoring
+RSK-00461,TR-0069,People & Change risk for AI Process Automation Program 069,People & Change,Potential people & change risk associated with the transformation.,4,5,45.12,Open
+RSK-00462,TR-0070,Compliance risk for AI Process Automation Program 070,Compliance,Potential compliance risk associated with the transformation.,3,4,30.49,Monitoring
+RSK-00463,TR-0070,Data risk for AI Process Automation Program 070,Data,Potential data risk associated with the transformation.,4,2,30.17,Monitoring
+RSK-00464,TR-0070,Operational risk for AI Process Automation Program 070,Operational,Potential operational risk associated with the transformation.,3,5,74.53,Monitoring
+RSK-00465,TR-0070,Cybersecurity risk for AI Process Automation Program 070,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,86.63,Open
+RSK-00466,TR-0070,Technology risk for AI Process Automation Program 070,Technology,Potential technology risk associated with the transformation.,3,3,50.56,Monitoring
+RSK-00467,TR-0070,Financial risk for AI Process Automation Program 070,Financial,Potential financial risk associated with the transformation.,3,4,45.42,Open
+RSK-00468,TR-0070,Vendor & Dependency risk for AI Process Automation Program 070,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,5,64.16,Open
+RSK-00469,TR-0070,People & Change risk for AI Process Automation Program 070,People & Change,Potential people & change risk associated with the transformation.,4,2,41.5,Open
+RSK-00470,TR-0071,Compliance risk for AI Process Automation Program 071,Compliance,Potential compliance risk associated with the transformation.,5,4,54.08,Monitoring
+RSK-00471,TR-0071,Financial risk for AI Process Automation Program 071,Financial,Potential financial risk associated with the transformation.,5,3,66.76,Mitigated
+RSK-00472,TR-0071,People & Change risk for AI Process Automation Program 071,People & Change,Potential people & change risk associated with the transformation.,3,5,31.34,Monitoring
+RSK-00473,TR-0071,Operational risk for AI Process Automation Program 071,Operational,Potential operational risk associated with the transformation.,4,4,57.21,Monitoring
+RSK-00474,TR-0071,Vendor & Dependency risk for AI Process Automation Program 071,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,3,42.54,Monitoring
+RSK-00475,TR-0071,Cybersecurity risk for AI Process Automation Program 071,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,82.38,Open
+RSK-00476,TR-0071,Technology risk for AI Process Automation Program 071,Technology,Potential technology risk associated with the transformation.,3,3,36.83,Monitoring
+RSK-00477,TR-0072,Data risk for Data Platform Modernization Program 072,Data,Potential data risk associated with the transformation.,5,3,64.71,Monitoring
+RSK-00478,TR-0072,Vendor & Dependency risk for Data Platform Modernization Program 072,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,3,32.4,Monitoring
+RSK-00479,TR-0072,Compliance risk for Data Platform Modernization Program 072,Compliance,Potential compliance risk associated with the transformation.,4,4,45.56,Open
+RSK-00480,TR-0072,Financial risk for Data Platform Modernization Program 072,Financial,Potential financial risk associated with the transformation.,3,4,84.74,Mitigated
+RSK-00481,TR-0072,Operational risk for Data Platform Modernization Program 072,Operational,Potential operational risk associated with the transformation.,5,5,87.7,Open
+RSK-00482,TR-0072,Technology risk for Data Platform Modernization Program 072,Technology,Potential technology risk associated with the transformation.,1,2,50.37,Open
+RSK-00483,TR-0073,Operational risk for Legacy Application Replacement Program 073,Operational,Potential operational risk associated with the transformation.,3,4,37.13,Mitigated
+RSK-00484,TR-0073,Compliance risk for Legacy Application Replacement Program 073,Compliance,Potential compliance risk associated with the transformation.,3,3,71.23,Monitoring
+RSK-00485,TR-0073,Technology risk for Legacy Application Replacement Program 073,Technology,Potential technology risk associated with the transformation.,3,4,35.37,Monitoring
+RSK-00486,TR-0073,Cybersecurity risk for Legacy Application Replacement Program 073,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,35.54,Open
+RSK-00487,TR-0073,Data risk for Legacy Application Replacement Program 073,Data,Potential data risk associated with the transformation.,3,3,37.38,Open
+RSK-00488,TR-0073,People & Change risk for Legacy Application Replacement Program 073,People & Change,Potential people & change risk associated with the transformation.,3,2,69.78,Mitigated
+RSK-00489,TR-0073,Financial risk for Legacy Application Replacement Program 073,Financial,Potential financial risk associated with the transformation.,3,5,31.39,Open
+RSK-00490,TR-0073,Vendor & Dependency risk for Legacy Application Replacement Program 073,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,79.8,Open
+RSK-00491,TR-0074,People & Change risk for Cybersecurity Modernization Program 074,People & Change,Potential people & change risk associated with the transformation.,2,5,66.57,Monitoring
+RSK-00492,TR-0074,Vendor & Dependency risk for Cybersecurity Modernization Program 074,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,5,36.95,Open
+RSK-00493,TR-0074,Technology risk for Cybersecurity Modernization Program 074,Technology,Potential technology risk associated with the transformation.,4,3,33.05,Open
+RSK-00494,TR-0074,Operational risk for Cybersecurity Modernization Program 074,Operational,Potential operational risk associated with the transformation.,3,2,28.7,Mitigated
+RSK-00495,TR-0074,Cybersecurity risk for Cybersecurity Modernization Program 074,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,87.68,Open
+RSK-00496,TR-0075,Compliance risk for Cybersecurity Modernization Program 075,Compliance,Potential compliance risk associated with the transformation.,2,4,89.13,Monitoring
+RSK-00497,TR-0075,Operational risk for Cybersecurity Modernization Program 075,Operational,Potential operational risk associated with the transformation.,4,5,69.07,Open
+RSK-00498,TR-0075,People & Change risk for Cybersecurity Modernization Program 075,People & Change,Potential people & change risk associated with the transformation.,5,3,25.28,Open
+RSK-00499,TR-0075,Cybersecurity risk for Cybersecurity Modernization Program 075,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,3,56.95,Open
+RSK-00500,TR-0075,Technology risk for Cybersecurity Modernization Program 075,Technology,Potential technology risk associated with the transformation.,2,2,72.26,Mitigated
+RSK-00501,TR-0076,Data risk for Data Platform Modernization Program 076,Data,Potential data risk associated with the transformation.,4,4,50.22,Monitoring
+RSK-00502,TR-0076,Cybersecurity risk for Data Platform Modernization Program 076,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,2,85.57,Monitoring
+RSK-00503,TR-0076,Vendor & Dependency risk for Data Platform Modernization Program 076,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,5,67.21,Mitigated
+RSK-00504,TR-0076,Technology risk for Data Platform Modernization Program 076,Technology,Potential technology risk associated with the transformation.,3,1,29.07,Open
+RSK-00505,TR-0076,People & Change risk for Data Platform Modernization Program 076,People & Change,Potential people & change risk associated with the transformation.,2,3,70.58,Monitoring
+RSK-00506,TR-0077,Cybersecurity risk for Legacy Application Replacement Program 077,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,4,70.21,Open
+RSK-00507,TR-0077,Compliance risk for Legacy Application Replacement Program 077,Compliance,Potential compliance risk associated with the transformation.,4,4,37.66,Monitoring
+RSK-00508,TR-0077,Operational risk for Legacy Application Replacement Program 077,Operational,Potential operational risk associated with the transformation.,3,3,32.29,Open
+RSK-00509,TR-0077,People & Change risk for Legacy Application Replacement Program 077,People & Change,Potential people & change risk associated with the transformation.,2,2,33.62,Accepted
+RSK-00510,TR-0077,Data risk for Legacy Application Replacement Program 077,Data,Potential data risk associated with the transformation.,3,3,45.94,Mitigated
+RSK-00511,TR-0077,Vendor & Dependency risk for Legacy Application Replacement Program 077,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,5,44.5,Open
+RSK-00512,TR-0077,Technology risk for Legacy Application Replacement Program 077,Technology,Potential technology risk associated with the transformation.,4,3,77.12,Mitigated
+RSK-00513,TR-0077,Financial risk for Legacy Application Replacement Program 077,Financial,Potential financial risk associated with the transformation.,3,5,60.95,Open
+RSK-00514,TR-0078,Data risk for CRM Transformation Program 078,Data,Potential data risk associated with the transformation.,1,2,70.25,Open
+RSK-00515,TR-0078,Operational risk for CRM Transformation Program 078,Operational,Potential operational risk associated with the transformation.,3,3,39.83,Open
+RSK-00516,TR-0078,People & Change risk for CRM Transformation Program 078,People & Change,Potential people & change risk associated with the transformation.,4,5,34.11,Accepted
+RSK-00517,TR-0078,Technology risk for CRM Transformation Program 078,Technology,Potential technology risk associated with the transformation.,4,4,71.15,Monitoring
+RSK-00518,TR-0078,Vendor & Dependency risk for CRM Transformation Program 078,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,3,59.67,Open
+RSK-00519,TR-0078,Cybersecurity risk for CRM Transformation Program 078,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,4,27.18,Open
+RSK-00520,TR-0079,Cybersecurity risk for Legacy Application Replacement Program 079,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,62.64,Open
+RSK-00521,TR-0079,Vendor & Dependency risk for Legacy Application Replacement Program 079,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,5,74.16,Open
+RSK-00522,TR-0079,Financial risk for Legacy Application Replacement Program 079,Financial,Potential financial risk associated with the transformation.,3,1,86.26,Open
+RSK-00523,TR-0079,People & Change risk for Legacy Application Replacement Program 079,People & Change,Potential people & change risk associated with the transformation.,3,5,71.71,Open
+RSK-00524,TR-0079,Operational risk for Legacy Application Replacement Program 079,Operational,Potential operational risk associated with the transformation.,2,1,63.98,Open
+RSK-00525,TR-0079,Technology risk for Legacy Application Replacement Program 079,Technology,Potential technology risk associated with the transformation.,5,5,60.49,Monitoring
+RSK-00526,TR-0079,Compliance risk for Legacy Application Replacement Program 079,Compliance,Potential compliance risk associated with the transformation.,3,2,72.93,Open
+RSK-00527,TR-0080,Operational risk for ERP Modernization Program 080,Operational,Potential operational risk associated with the transformation.,4,5,51.42,Mitigated
+RSK-00528,TR-0080,Technology risk for ERP Modernization Program 080,Technology,Potential technology risk associated with the transformation.,3,3,86.37,Open
+RSK-00529,TR-0080,Cybersecurity risk for ERP Modernization Program 080,Cybersecurity,Potential cybersecurity risk associated with the transformation.,1,3,48.83,Open
+RSK-00530,TR-0080,Data risk for ERP Modernization Program 080,Data,Potential data risk associated with the transformation.,3,5,44.0,Open
+RSK-00531,TR-0080,Financial risk for ERP Modernization Program 080,Financial,Potential financial risk associated with the transformation.,3,5,35.24,Open
+RSK-00532,TR-0080,Vendor & Dependency risk for ERP Modernization Program 080,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,76.71,Monitoring
+RSK-00533,TR-0081,Operational risk for Cloud Migration Program 081,Operational,Potential operational risk associated with the transformation.,3,4,56.24,Monitoring
+RSK-00534,TR-0081,Cybersecurity risk for Cloud Migration Program 081,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,47.5,Monitoring
+RSK-00535,TR-0081,Financial risk for Cloud Migration Program 081,Financial,Potential financial risk associated with the transformation.,4,3,46.47,Monitoring
+RSK-00536,TR-0081,Data risk for Cloud Migration Program 081,Data,Potential data risk associated with the transformation.,4,2,53.67,Mitigated
+RSK-00537,TR-0081,Compliance risk for Cloud Migration Program 081,Compliance,Potential compliance risk associated with the transformation.,1,5,35.61,Open
+RSK-00538,TR-0081,Vendor & Dependency risk for Cloud Migration Program 081,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,1,84.5,Open
+RSK-00539,TR-0081,People & Change risk for Cloud Migration Program 081,People & Change,Potential people & change risk associated with the transformation.,5,3,81.31,Mitigated
+RSK-00540,TR-0081,Technology risk for Cloud Migration Program 081,Technology,Potential technology risk associated with the transformation.,4,3,69.54,Open
+RSK-00541,TR-0082,Compliance risk for AI Process Automation Program 082,Compliance,Potential compliance risk associated with the transformation.,5,2,32.16,Monitoring
+RSK-00542,TR-0082,Vendor & Dependency risk for AI Process Automation Program 082,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,2,79.24,Open
+RSK-00543,TR-0082,Technology risk for AI Process Automation Program 082,Technology,Potential technology risk associated with the transformation.,5,5,77.81,Open
+RSK-00544,TR-0082,Cybersecurity risk for AI Process Automation Program 082,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,31.55,Monitoring
+RSK-00545,TR-0082,People & Change risk for AI Process Automation Program 082,People & Change,Potential people & change risk associated with the transformation.,2,4,28.53,Open
+RSK-00546,TR-0082,Data risk for AI Process Automation Program 082,Data,Potential data risk associated with the transformation.,3,4,76.14,Open
+RSK-00547,TR-0082,Financial risk for AI Process Automation Program 082,Financial,Potential financial risk associated with the transformation.,5,5,47.25,Monitoring
+RSK-00548,TR-0082,Operational risk for AI Process Automation Program 082,Operational,Potential operational risk associated with the transformation.,3,2,59.36,Open
+RSK-00549,TR-0083,People & Change risk for AI Process Automation Program 083,People & Change,Potential people & change risk associated with the transformation.,2,4,46.37,Open
+RSK-00550,TR-0083,Data risk for AI Process Automation Program 083,Data,Potential data risk associated with the transformation.,1,4,42.16,Open
+RSK-00551,TR-0083,Compliance risk for AI Process Automation Program 083,Compliance,Potential compliance risk associated with the transformation.,1,3,82.13,Open
+RSK-00552,TR-0083,Vendor & Dependency risk for AI Process Automation Program 083,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,4,46.33,Mitigated
+RSK-00553,TR-0083,Operational risk for AI Process Automation Program 083,Operational,Potential operational risk associated with the transformation.,4,4,25.06,Open
+RSK-00554,TR-0083,Cybersecurity risk for AI Process Automation Program 083,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,4,85.94,Mitigated
+RSK-00555,TR-0083,Financial risk for AI Process Automation Program 083,Financial,Potential financial risk associated with the transformation.,1,4,54.32,Monitoring
+RSK-00556,TR-0084,Technology risk for Legacy Application Replacement Program 084,Technology,Potential technology risk associated with the transformation.,3,3,87.84,Open
+RSK-00557,TR-0084,Compliance risk for Legacy Application Replacement Program 084,Compliance,Potential compliance risk associated with the transformation.,3,4,51.62,Monitoring
+RSK-00558,TR-0084,Cybersecurity risk for Legacy Application Replacement Program 084,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,84.09,Mitigated
+RSK-00559,TR-0084,Data risk for Legacy Application Replacement Program 084,Data,Potential data risk associated with the transformation.,4,3,70.84,Mitigated
+RSK-00560,TR-0084,People & Change risk for Legacy Application Replacement Program 084,People & Change,Potential people & change risk associated with the transformation.,4,4,73.73,Monitoring
+RSK-00561,TR-0085,Vendor & Dependency risk for CRM Transformation Program 085,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,5,71.61,Monitoring
+RSK-00562,TR-0085,Cybersecurity risk for CRM Transformation Program 085,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,51.91,Monitoring
+RSK-00563,TR-0085,Operational risk for CRM Transformation Program 085,Operational,Potential operational risk associated with the transformation.,1,4,71.68,Monitoring
+RSK-00564,TR-0085,Data risk for CRM Transformation Program 085,Data,Potential data risk associated with the transformation.,3,5,69.29,Open
+RSK-00565,TR-0085,Technology risk for CRM Transformation Program 085,Technology,Potential technology risk associated with the transformation.,5,4,89.22,Accepted
+RSK-00566,TR-0085,People & Change risk for CRM Transformation Program 085,People & Change,Potential people & change risk associated with the transformation.,5,4,64.61,Open
+RSK-00567,TR-0085,Compliance risk for CRM Transformation Program 085,Compliance,Potential compliance risk associated with the transformation.,3,4,58.86,Mitigated
+RSK-00568,TR-0086,Technology risk for CRM Transformation Program 086,Technology,Potential technology risk associated with the transformation.,3,1,26.07,Open
+RSK-00569,TR-0086,Cybersecurity risk for CRM Transformation Program 086,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,4,76.7,Open
+RSK-00570,TR-0086,Operational risk for CRM Transformation Program 086,Operational,Potential operational risk associated with the transformation.,4,2,44.73,Mitigated
+RSK-00571,TR-0086,Vendor & Dependency risk for CRM Transformation Program 086,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,5,39.64,Open
+RSK-00572,TR-0086,Data risk for CRM Transformation Program 086,Data,Potential data risk associated with the transformation.,3,3,89.85,Open
+RSK-00573,TR-0086,Compliance risk for CRM Transformation Program 086,Compliance,Potential compliance risk associated with the transformation.,5,5,60.96,Open
+RSK-00574,TR-0086,Financial risk for CRM Transformation Program 086,Financial,Potential financial risk associated with the transformation.,3,3,76.94,Open
+RSK-00575,TR-0087,Data risk for AI Process Automation Program 087,Data,Potential data risk associated with the transformation.,5,5,80.95,Open
+RSK-00576,TR-0087,People & Change risk for AI Process Automation Program 087,People & Change,Potential people & change risk associated with the transformation.,4,3,74.53,Open
+RSK-00577,TR-0087,Cybersecurity risk for AI Process Automation Program 087,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,45.95,Open
+RSK-00578,TR-0087,Vendor & Dependency risk for AI Process Automation Program 087,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,3,73.44,Open
+RSK-00579,TR-0087,Technology risk for AI Process Automation Program 087,Technology,Potential technology risk associated with the transformation.,4,4,51.11,Monitoring
+RSK-00580,TR-0087,Operational risk for AI Process Automation Program 087,Operational,Potential operational risk associated with the transformation.,5,5,50.38,Open
+RSK-00581,TR-0087,Financial risk for AI Process Automation Program 087,Financial,Potential financial risk associated with the transformation.,4,3,77.25,Open
+RSK-00582,TR-0087,Compliance risk for AI Process Automation Program 087,Compliance,Potential compliance risk associated with the transformation.,4,2,27.89,Accepted
+RSK-00583,TR-0088,Operational risk for Legacy Application Replacement Program 088,Operational,Potential operational risk associated with the transformation.,3,5,25.26,Open
+RSK-00584,TR-0088,Vendor & Dependency risk for Legacy Application Replacement Program 088,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,2,39.68,Monitoring
+RSK-00585,TR-0088,Financial risk for Legacy Application Replacement Program 088,Financial,Potential financial risk associated with the transformation.,3,4,82.87,Monitoring
+RSK-00586,TR-0088,Data risk for Legacy Application Replacement Program 088,Data,Potential data risk associated with the transformation.,4,3,35.38,Open
+RSK-00587,TR-0088,People & Change risk for Legacy Application Replacement Program 088,People & Change,Potential people & change risk associated with the transformation.,5,4,43.04,Open
+RSK-00588,TR-0088,Cybersecurity risk for Legacy Application Replacement Program 088,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,4,61.44,Mitigated
+RSK-00589,TR-0088,Compliance risk for Legacy Application Replacement Program 088,Compliance,Potential compliance risk associated with the transformation.,4,4,37.33,Open
+RSK-00590,TR-0089,Data risk for Cybersecurity Modernization Program 089,Data,Potential data risk associated with the transformation.,3,3,26.96,Mitigated
+RSK-00591,TR-0089,Vendor & Dependency risk for Cybersecurity Modernization Program 089,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,2,74.13,Open
+RSK-00592,TR-0089,Compliance risk for Cybersecurity Modernization Program 089,Compliance,Potential compliance risk associated with the transformation.,3,3,80.85,Open
+RSK-00593,TR-0089,People & Change risk for Cybersecurity Modernization Program 089,People & Change,Potential people & change risk associated with the transformation.,3,3,38.2,Open
+RSK-00594,TR-0089,Financial risk for Cybersecurity Modernization Program 089,Financial,Potential financial risk associated with the transformation.,2,2,52.11,Mitigated
+RSK-00595,TR-0089,Operational risk for Cybersecurity Modernization Program 089,Operational,Potential operational risk associated with the transformation.,2,3,84.04,Mitigated
+RSK-00596,TR-0089,Technology risk for Cybersecurity Modernization Program 089,Technology,Potential technology risk associated with the transformation.,4,3,52.29,Open
+RSK-00597,TR-0089,Cybersecurity risk for Cybersecurity Modernization Program 089,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,3,62.43,Open
+RSK-00598,TR-0090,Technology risk for Cybersecurity Modernization Program 090,Technology,Potential technology risk associated with the transformation.,3,2,72.96,Open
+RSK-00599,TR-0090,Operational risk for Cybersecurity Modernization Program 090,Operational,Potential operational risk associated with the transformation.,3,3,36.99,Open
+RSK-00600,TR-0090,Cybersecurity risk for Cybersecurity Modernization Program 090,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,5,64.98,Open
+RSK-00601,TR-0090,Financial risk for Cybersecurity Modernization Program 090,Financial,Potential financial risk associated with the transformation.,1,4,31.0,Open
+RSK-00602,TR-0090,Data risk for Cybersecurity Modernization Program 090,Data,Potential data risk associated with the transformation.,4,3,44.46,Open
+RSK-00603,TR-0090,Vendor & Dependency risk for Cybersecurity Modernization Program 090,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,1,3,82.42,Open
+RSK-00604,TR-0090,Compliance risk for Cybersecurity Modernization Program 090,Compliance,Potential compliance risk associated with the transformation.,4,4,28.95,Open
+RSK-00605,TR-0090,People & Change risk for Cybersecurity Modernization Program 090,People & Change,Potential people & change risk associated with the transformation.,3,4,53.54,Monitoring
+RSK-00606,TR-0091,Data risk for ERP Modernization Program 091,Data,Potential data risk associated with the transformation.,4,5,55.89,Monitoring
+RSK-00607,TR-0091,Operational risk for ERP Modernization Program 091,Operational,Potential operational risk associated with the transformation.,3,5,53.04,Mitigated
+RSK-00608,TR-0091,Technology risk for ERP Modernization Program 091,Technology,Potential technology risk associated with the transformation.,4,5,41.18,Monitoring
+RSK-00609,TR-0091,Financial risk for ERP Modernization Program 091,Financial,Potential financial risk associated with the transformation.,4,5,83.95,Monitoring
+RSK-00610,TR-0091,Compliance risk for ERP Modernization Program 091,Compliance,Potential compliance risk associated with the transformation.,4,2,88.37,Open
+RSK-00611,TR-0091,People & Change risk for ERP Modernization Program 091,People & Change,Potential people & change risk associated with the transformation.,4,4,53.68,Open
+RSK-00612,TR-0091,Vendor & Dependency risk for ERP Modernization Program 091,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,2,5,58.2,Open
+RSK-00613,TR-0092,Compliance risk for Legacy Application Replacement Program 092,Compliance,Potential compliance risk associated with the transformation.,2,4,54.3,Monitoring
+RSK-00614,TR-0092,Cybersecurity risk for Legacy Application Replacement Program 092,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,42.01,Open
+RSK-00615,TR-0092,Vendor & Dependency risk for Legacy Application Replacement Program 092,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,2,89.23,Open
+RSK-00616,TR-0092,Data risk for Legacy Application Replacement Program 092,Data,Potential data risk associated with the transformation.,2,3,28.8,Monitoring
+RSK-00617,TR-0092,People & Change risk for Legacy Application Replacement Program 092,People & Change,Potential people & change risk associated with the transformation.,3,3,68.03,Monitoring
+RSK-00618,TR-0093,Data risk for Cloud Migration Program 093,Data,Potential data risk associated with the transformation.,2,4,87.52,Open
+RSK-00619,TR-0093,Operational risk for Cloud Migration Program 093,Operational,Potential operational risk associated with the transformation.,4,5,39.7,Open
+RSK-00620,TR-0093,Vendor & Dependency risk for Cloud Migration Program 093,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,5,5,33.31,Open
+RSK-00621,TR-0093,People & Change risk for Cloud Migration Program 093,People & Change,Potential people & change risk associated with the transformation.,4,3,46.11,Open
+RSK-00622,TR-0093,Cybersecurity risk for Cloud Migration Program 093,Cybersecurity,Potential cybersecurity risk associated with the transformation.,2,4,67.45,Monitoring
+RSK-00623,TR-0093,Compliance risk for Cloud Migration Program 093,Compliance,Potential compliance risk associated with the transformation.,4,3,42.78,Open
+RSK-00624,TR-0093,Financial risk for Cloud Migration Program 093,Financial,Potential financial risk associated with the transformation.,3,3,36.58,Open
+RSK-00625,TR-0094,Operational risk for AI Process Automation Program 094,Operational,Potential operational risk associated with the transformation.,4,2,61.66,Open
+RSK-00626,TR-0094,Cybersecurity risk for AI Process Automation Program 094,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,52.81,Open
+RSK-00627,TR-0094,Technology risk for AI Process Automation Program 094,Technology,Potential technology risk associated with the transformation.,4,5,74.95,Monitoring
+RSK-00628,TR-0094,Vendor & Dependency risk for AI Process Automation Program 094,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,1,71.99,Open
+RSK-00629,TR-0094,Compliance risk for AI Process Automation Program 094,Compliance,Potential compliance risk associated with the transformation.,3,3,85.81,Monitoring
+RSK-00630,TR-0095,Compliance risk for AI Process Automation Program 095,Compliance,Potential compliance risk associated with the transformation.,1,4,43.39,Monitoring
+RSK-00631,TR-0095,Operational risk for AI Process Automation Program 095,Operational,Potential operational risk associated with the transformation.,4,4,64.53,Accepted
+RSK-00632,TR-0095,Cybersecurity risk for AI Process Automation Program 095,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,4,70.85,Open
+RSK-00633,TR-0095,People & Change risk for AI Process Automation Program 095,People & Change,Potential people & change risk associated with the transformation.,3,3,43.05,Open
+RSK-00634,TR-0095,Technology risk for AI Process Automation Program 095,Technology,Potential technology risk associated with the transformation.,3,4,39.29,Mitigated
+RSK-00635,TR-0095,Vendor & Dependency risk for AI Process Automation Program 095,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,4,30.29,Open
+RSK-00636,TR-0095,Data risk for AI Process Automation Program 095,Data,Potential data risk associated with the transformation.,1,4,47.34,Mitigated
+RSK-00637,TR-0096,Financial risk for Data Platform Modernization Program 096,Financial,Potential financial risk associated with the transformation.,2,2,89.94,Open
+RSK-00638,TR-0096,Vendor & Dependency risk for Data Platform Modernization Program 096,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,1,5,26.3,Open
+RSK-00639,TR-0096,People & Change risk for Data Platform Modernization Program 096,People & Change,Potential people & change risk associated with the transformation.,4,5,71.34,Open
+RSK-00640,TR-0096,Cybersecurity risk for Data Platform Modernization Program 096,Cybersecurity,Potential cybersecurity risk associated with the transformation.,5,1,89.15,Mitigated
+RSK-00641,TR-0096,Technology risk for Data Platform Modernization Program 096,Technology,Potential technology risk associated with the transformation.,5,3,34.26,Monitoring
+RSK-00642,TR-0096,Operational risk for Data Platform Modernization Program 096,Operational,Potential operational risk associated with the transformation.,3,4,85.1,Monitoring
+RSK-00643,TR-0096,Data risk for Data Platform Modernization Program 096,Data,Potential data risk associated with the transformation.,3,3,33.68,Open
+RSK-00644,TR-0097,People & Change risk for ERP Modernization Program 097,People & Change,Potential people & change risk associated with the transformation.,4,5,60.56,Mitigated
+RSK-00645,TR-0097,Financial risk for ERP Modernization Program 097,Financial,Potential financial risk associated with the transformation.,3,3,81.25,Open
+RSK-00646,TR-0097,Data risk for ERP Modernization Program 097,Data,Potential data risk associated with the transformation.,3,3,58.72,Open
+RSK-00647,TR-0097,Cybersecurity risk for ERP Modernization Program 097,Cybersecurity,Potential cybersecurity risk associated with the transformation.,4,3,39.16,Mitigated
+RSK-00648,TR-0097,Technology risk for ERP Modernization Program 097,Technology,Potential technology risk associated with the transformation.,3,5,38.48,Monitoring
+RSK-00649,TR-0097,Compliance risk for ERP Modernization Program 097,Compliance,Potential compliance risk associated with the transformation.,3,5,34.03,Mitigated
+RSK-00650,TR-0098,People & Change risk for Cloud Migration Program 098,People & Change,Potential people & change risk associated with the transformation.,4,3,31.06,Open
+RSK-00651,TR-0098,Technology risk for Cloud Migration Program 098,Technology,Potential technology risk associated with the transformation.,2,2,64.54,Open
+RSK-00652,TR-0098,Financial risk for Cloud Migration Program 098,Financial,Potential financial risk associated with the transformation.,5,3,30.92,Mitigated
+RSK-00653,TR-0098,Cybersecurity risk for Cloud Migration Program 098,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,3,87.34,Mitigated
+RSK-00654,TR-0098,Data risk for Cloud Migration Program 098,Data,Potential data risk associated with the transformation.,4,2,63.57,Accepted
+RSK-00655,TR-0098,Operational risk for Cloud Migration Program 098,Operational,Potential operational risk associated with the transformation.,5,2,50.74,Open
+RSK-00656,TR-0098,Compliance risk for Cloud Migration Program 098,Compliance,Potential compliance risk associated with the transformation.,2,4,42.8,Open
+RSK-00657,TR-0099,Operational risk for Data Platform Modernization Program 099,Operational,Potential operational risk associated with the transformation.,2,4,37.8,Open
+RSK-00658,TR-0099,Vendor & Dependency risk for Data Platform Modernization Program 099,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,3,2,34.06,Open
+RSK-00659,TR-0099,Data risk for Data Platform Modernization Program 099,Data,Potential data risk associated with the transformation.,4,2,53.67,Monitoring
+RSK-00660,TR-0099,People & Change risk for Data Platform Modernization Program 099,People & Change,Potential people & change risk associated with the transformation.,3,3,29.67,Open
+RSK-00661,TR-0099,Technology risk for Data Platform Modernization Program 099,Technology,Potential technology risk associated with the transformation.,3,5,89.76,Accepted
+RSK-00662,TR-0099,Cybersecurity risk for Data Platform Modernization Program 099,Cybersecurity,Potential cybersecurity risk associated with the transformation.,3,2,46.03,Open
+RSK-00663,TR-0100,Vendor & Dependency risk for Data Platform Modernization Program 100,Vendor & Dependency,Potential vendor & dependency risk associated with the transformation.,4,3,80.37,Open
+RSK-00664,TR-0100,Compliance risk for Data Platform Modernization Program 100,Compliance,Potential compliance risk associated with the transformation.,3,2,57.19,Open
+RSK-00665,TR-0100,Technology risk for Data Platform Modernization Program 100,Technology,Potential technology risk associated with the transformation.,2,4,42.15,Open
+RSK-00666,TR-0100,Operational risk for Data Platform Modernization Program 100,Operational,Potential operational risk associated with the transformation.,5,1,61.73,Open
+RSK-00667,TR-0100,People & Change risk for Data Platform Modernization Program 100,People & Change,Potential people & change risk associated with the transformation.,3,3,30.7,Monitoring
