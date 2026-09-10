@@ -579,27 +579,103 @@ with driver1:
     st.metric(
         "Critical Residual Risks",
         safe_int(initiative["critical_residual_risks"]),
+        help="Number of risks remaining in the Critical residual-risk band.",
     )
 
 with driver2:
     st.metric(
         "High Residual Risks",
         safe_int(initiative["high_residual_risks"]),
+        help="Number of risks remaining in the High residual-risk band.",
     )
 
 with driver3:
     st.metric(
         "Minimum Readiness",
         f"{safe_float(initiative['minimum_readiness_score']):.1f}",
+        help="Lowest readiness score across Technology, Data, Process, People and Governance.",
     )
 
 with driver4:
     st.metric(
         "Overdue Mitigations",
         safe_int(initiative["overdue_actions"]),
+        help="Mitigation actions that have passed their target date.",
     )
 
 st.divider()
+
+# =========================================================
+# EXECUTIVE TAKEAWAY
+# =========================================================
+
+st.markdown("#### Executive Takeaway")
+
+critical_risks = safe_int(
+    initiative["critical_residual_risks"]
+)
+
+high_risks = safe_int(
+    initiative["high_residual_risks"]
+)
+
+overall_readiness = safe_float(
+    initiative["overall_readiness_score"]
+)
+
+control_effectiveness = safe_float(
+    initiative["average_control_effectiveness"]
+)
+
+overdue_mitigations = safe_int(
+    initiative["overdue_actions"]
+)
+
+takeaway_items = []
+
+if critical_risks > 0:
+    takeaway_items.append(
+        f"**{critical_risks} critical residual risk(s)** require "
+        "immediate management attention."
+    )
+
+if high_risks > 0:
+    takeaway_items.append(
+        f"**{high_risks} high residual risk(s)** remain within "
+        "the initiative risk profile."
+    )
+
+if overall_readiness < 65:
+    takeaway_items.append(
+        f"Overall readiness is **{overall_readiness:.1f}**, "
+        "indicating that execution capability should remain "
+        "under management review."
+    )
+
+if control_effectiveness < 50:
+    takeaway_items.append(
+        f"Average control effectiveness is **{control_effectiveness:.1f}%**, "
+        "indicating a material control-strengthening requirement."
+    )
+
+if overdue_mitigations > 0:
+    takeaway_items.append(
+        f"**{overdue_mitigations} overdue mitigation action(s)** "
+        "require execution follow-up."
+    )
+
+if takeaway_items:
+    st.markdown(
+        "\n".join(
+            f"- {item}"
+            for item in takeaway_items
+        )
+    )
+else:
+    st.success(
+        "No immediate risk, readiness, control or mitigation "
+        "escalation signals were detected."
+    )
 
 
 # =========================================================
@@ -1135,13 +1211,11 @@ render_what_if_simulation(
     current_decision=decision,
 )
 
-st.divider()
 
 # =========================================================
 # RISK → CONTROL → MITIGATION TRACEABILITY
 # =========================================================
 
-st.divider()
 
 render_risk_traceability(
     trace_df=traceability_df,
@@ -1170,38 +1244,48 @@ st.divider()
 st.subheader("Management Interpretation")
 
 if decision == "DO NOT PROCEED":
+
     st.error(
         "Immediate management intervention is recommended. "
         "Critical residual risk remains above the prototype "
-        "decision threshold."
+        "decision threshold. Transformation execution should "
+        "not proceed until the identified exposure is remediated "
+        "or formally accepted through the appropriate governance process."
     )
 
 elif decision == "REMEDIATE BEFORE PROCEEDING":
+
     st.warning(
         "The initiative should address identified remediation "
-        "requirements before transformation execution proceeds."
+        "requirements before transformation execution proceeds. "
+        "Management should confirm that the relevant risk, "
+        "readiness and mitigation conditions have been addressed."
     )
 
 elif decision == "PROCEED WITH CONDITIONS":
+
     st.warning(
         "Transformation may continue subject to defined risk, "
-        "readiness or mitigation conditions."
+        "readiness or mitigation conditions. Management should "
+        "track these conditions through the mitigation and "
+        "governance process."
+    )
+
+elif decision == "PROCEED":
+
+    st.success(
+        "The initiative currently satisfies the prototype "
+        "governance decision policy. Management should continue "
+        "monitoring residual risk, readiness, controls and "
+        "mitigation execution throughout transformation delivery."
     )
 
 else:
-    if minimum_readiness < 50:
-        st.warning(
-            f"The prototype governance policy currently returns "
-            f"PROCEED, but {weakest_dimension} readiness is only "
-            f"{weakest_score:.1f}. Management should treat targeted "
-            "readiness remediation as an execution condition."
-        )
-    else:
-        st.success(
-            "Current risk, readiness and mitigation indicators "
-            "support proceeding under the prototype decision policy."
-        )
 
+    st.info(
+        "No standardized management interpretation is available "
+        "for the selected governance outcome."
+    )
 
 # =========================================================
 # GOVERNANCE DISCLAIMER
