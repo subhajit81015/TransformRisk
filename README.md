@@ -395,3 +395,7 @@ Simulation runs in memory and does not modify source data.
 &#x20;                             |
 
 &#x20;                   Synthetic Source Data
+
+## License
+
+Copyright (c) 2026 Subhajit Ghosh. All Rights Reserved. This repository is publicly available for portfolio, educational, evaluation, and recruitment purposes. No open-source license is granted. Third-party dependencies remain subject to their respective licenses.
