@@ -350,52 +350,57 @@ Simulation runs in memory and does not modify source data.
 
 ## Architecture
 
+```mermaid
+flowchart TB
+    U[Management User]
 
+    U --> UI[Streamlit Decision Intelligence UI]
 
-```text
+    UI --> P[Portfolio Intelligence]
+    UI --> M[Management Action Center]
+    UI --> D[Decision Center]
+    UI --> T[Risk Traceability]
+    UI --> W[What-If Simulation]
 
-&#x20;                        TransformRisk
+    P --> Q[Analytics Query Layer]
+    M --> Q
+    D --> Q
+    T --> Q
+    W --> Q
 
-&#x20;                             |
+    Q --> PG[(PostgreSQL 18)]
 
-&#x20;                   Streamlit Decision UI
+    PG --> RAW[(raw schema)]
+    PG --> ANA[(analytics schema)]
+    PG --> REP[(reporting schema)]
 
-&#x20;                             |
+    RAW --> ANA
+    ANA --> REP
 
-&#x20;       +---------------------+---------------------+
+    SD[Synthetic Source Data] --> RAW
 
-&#x20;       |                     |                     |
+    subgraph Decision Intelligence
+        P
+        M
+        D
+        T
+        W
+    end
+```
 
-&#x20;Portfolio Intelligence  Management Action    Decision Center
+### Architecture Layers
 
-&#x20;       |                     |                     |
+| Layer | Responsibility |
+|---|---|
+| **Presentation** | Streamlit decision-intelligence interface |
+| **Decision Intelligence** | Portfolio, risk, readiness, governance and management prioritization |
+| **Analytics** | SQL-driven transformations, scoring and summary views |
+| **Data** | PostgreSQL raw, analytics and reporting schemas |
+| **Source Data** | Reproducible synthetic transformation-risk dataset |
 
-&#x20;       +---------------------+---------------------+
+The architecture separates source data, analytical processing, decision logic, and management-facing presentation so that each layer can evolve independently.
 
-&#x20;                             |
-
-&#x20;                      Query / Analytics
-
-&#x20;                             |
-
-&#x20;                      PostgreSQL 18
-
-&#x20;                             |
-
-&#x20;       +---------------------+---------------------+
-
-&#x20;       |                     |                     |
-
-&#x20;      raw                analytics             reporting
-
-&#x20;       |                     |                     |
-
-&#x20;       +---------------------+---------------------+
-
-&#x20;                             |
-
-&#x20;                   Synthetic Source Data
-
+---
 ## License
 
 Copyright (c) 2026 Subhajit Ghosh. All Rights Reserved. This repository is publicly available for portfolio, educational, evaluation, and recruitment purposes. No open-source license is granted. Third-party dependencies remain subject to their respective licenses.
