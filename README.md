@@ -392,7 +392,7 @@ flowchart TB
 
 | Layer | Responsibility |
 |---|---|
-| **Presentation** | Streamlit decision-intelligence interface |
+| **Presentation** | Streamlit decision-intelligence interface, Power BI  |
 | **Decision Intelligence** | Portfolio, risk, readiness, governance and management prioritization |
 | **Analytics** | SQL-driven transformations, scoring and summary views |
 | **Data** | PostgreSQL raw, analytics and reporting schemas |
